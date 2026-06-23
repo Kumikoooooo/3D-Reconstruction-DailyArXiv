@@ -57,15 +57,29 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 break
     return results
 
-def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
-    for _ in range(retries):
-        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
-        if len(papers) > 0: return papers
-        else:
-            print("Unexpected empty list, retrying...")
-            time.sleep(60 * 30) # wait for 30 minutes
-    # failed
-    return None
+def get_daily_papers_by_keyword_with_retries(
+        keyword: str,
+        column_names: List[str],
+        max_result: int,
+        link: str = "OR",
+        retries: int = 3
+) -> List[Dict[str, str]]:
+    """Query arXiv.
+
+    An empty result is valid for uncommon keywords, so it should not
+    trigger a 30-minute retry.
+    """
+    papers = get_daily_papers_by_keyword(
+        keyword,
+        column_names,
+        max_result,
+        link
+    )
+
+    if len(papers) == 0:
+        print(f'No papers found for keyword: "{keyword}"')
+
+    return papers
 
 def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
     # get papers
