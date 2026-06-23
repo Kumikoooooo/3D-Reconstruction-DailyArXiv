@@ -23,7 +23,6 @@ with open("README.md", "r") as f:
         # sys.exit("Already updated today!")
 
 keywords = [
-    keywords = [
     # General 3D reconstruction
     "3D reconstruction",
     "multi-view reconstruction",
@@ -154,7 +153,6 @@ keywords = [
     "Gaussian avatar",
     "autonomous driving Gaussian Splatting",
     "medical Gaussian Splatting",
-]
 ] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
