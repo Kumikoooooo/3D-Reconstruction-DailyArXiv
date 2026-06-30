@@ -51,7 +51,7 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          has_issues="$(gh repo view "$GITHUB_REPOSITORY" --json hasIssues --jq '.hasIssues')"
+          has_issues="$(gh api "repos/$GITHUB_REPOSITORY" --jq '.has_issues')"
           if [ "$has_issues" != "true" ]; then
             echo "Repository issues are disabled; skipping issue notification."
             exit 0
