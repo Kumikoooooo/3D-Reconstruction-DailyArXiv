@@ -1,4 +1,4 @@
-# Latest 15 Papers - July 05, 2026
+# Latest 15 Papers - July 06, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
