@@ -1,10 +1,14 @@
-# Latest 15 Papers - July 08, 2026
+# Latest 15 Papers - July 09, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VLRC: Vision-Language Reprojection Consistency as a scalable signal for better feed-forward 3D pretraining](https://arxiv.org/abs/2607.02707v2)** | 2026-07-07 |  |
+| **[SpatialFly: Implicit 3D Prior-Guided Visual Reparameterization for Continuous UAV Vision-and-Language Navigation](https://arxiv.org/abs/2603.21046v2)** | 2026-07-07 |  |
+| **[MorphGS: Morphology-Adaptive Articulated 3D Motion Transfer from Videos](https://arxiv.org/abs/2601.02716v3)** | 2026-07-07 | ECCV 2026 |
+| **[TRIG: Trajectory-Rig Decoupled Metric Geometry Learning](https://arxiv.org/abs/2607.05801v1)** | 2026-07-07 | 9 pages, 3 figures, 8 tables |
 | **[MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing](https://arxiv.org/abs/2607.05376v1)** | 2026-07-06 | Accepted to ECCV 2026. Project webpage: https://galfiebelman.github.io/mv-forcing/ |
 | **[PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://arxiv.org/abs/2607.05373v1)** | 2026-07-06 | Project page: https://sensengao.github.io/PixWorld/ |
 | **[ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction](https://arxiv.org/abs/2607.05356v1)** | 2026-07-06 | 23 pages, 7 figures. Project Page: https://powertony102.github.io/recal3r.github.io/ |
@@ -16,10 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
 | **[Argus: Metric Panoramic 3D Reconstruction for Indoor Scenes](https://arxiv.org/abs/2606.30047v3)** | 2026-07-06 |  |
 | **[Targeted Structure Completion for Sparse-View 3D Reconstruction in Autonomous Driving](https://arxiv.org/abs/2607.04661v1)** | 2026-07-06 | Accepted by ECCV2026 |
-| **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
-| **[AdaptiveSplat:Texture Aware Controllable 3D Gaussian Allocation for Feed-Forward Reconstruction](https://arxiv.org/abs/2607.04256v1)** | 2026-07-05 | Accepted at ECCV 2026. Project page: https://badrinaths.github.io/projects/adaptive-splat/ |
-| **[Syn4D: A Multiview Synthetic 4D Dataset](https://arxiv.org/abs/2605.05207v2)** | 2026-07-04 | 33 pages, 11 figures, project page: https://jzr99.github.io/Syn4D/ |
-| **[BAT3R: Bootstrapping Articulated 3D Reconstruction from 2D Image Collections](https://arxiv.org/abs/2607.03891v1)** | 2026-07-04 | Accepted to ECCV 2026. Project page: https://jakubzadrozny.github.io/bat3r/ |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -72,6 +72,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2411.17392v3)** | 2026-07-07 | Accepted in IEEE TVCG |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
 | **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
 | **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
@@ -89,6 +90,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041v2)** | 2026-07-07 |  |
 | **[Adaptive Time-step Training for Enhancing Spike-Based Neural Radiance Fields](https://arxiv.org/abs/2507.23033v2)** | 2026-07-06 |  |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
 | **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
@@ -103,11 +105,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 | **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v1)** | 2026-06-26 |  |
 | **[AB-Sync: Attention-Based Slot-Level Clock Synchronization Method for UWB-TDOA Localization Networks](https://arxiv.org/abs/2606.28087v1)** | 2026-06-26 | 10 pages, 8 figures |
-| **[DANTE-W: Diffuse Albedo Neural Texturing in the Wild](https://arxiv.org/abs/2606.30677v1)** | 2026-06-26 |  |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
+| **[RayRoPE: Projective Ray Positional Encoding for Multi-view Attention](https://arxiv.org/abs/2601.15275v3)** | 2026-07-06 | Project page: https://rayrope.github.io/ |
+| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
 | **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
@@ -120,13 +124,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](https://arxiv.org/abs/2604.13416v3)** | 2026-07-06 | ECCV 2026 Accepted |
 | **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
 | **[StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors](https://arxiv.org/abs/2606.30545v2)** | 2026-07-05 | 15 pages, 6 figures, accepted to ECCV 2026, project page: https://stringerywh00.github.io/StereoGS_project_page/ |
-| **[MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](https://arxiv.org/abs/2607.03875v1)** | 2026-07-04 | Project page: https://nitzanhod.github.io/MACRO |
-| **[City-Level 3D Surface Reconstruction with Viewpoint Orientation Partitioning and Scene Completion](https://arxiv.org/abs/2607.03771v1)** | 2026-07-04 | Accepted by ECCV 2026 |
-| **[Sparse-View Surface Reconstruction using Gaussian Splatting through High-Confidence Depth Propagation with Normal Priors](https://arxiv.org/abs/2607.03765v1)** | 2026-07-04 | Accepted by ECCV 2026 |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GaussFusion: Towards Multimodal 3D Gaussian Pretraining](https://arxiv.org/abs/2607.05906v1)** | 2026-07-07 | 32 pages, 6 figures, 6 tables |
+| **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
+| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
 | **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
@@ -139,13 +143,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](https://arxiv.org/abs/2607.03875v1)** | 2026-07-04 | Project page: https://nitzanhod.github.io/MACRO |
 | **[SharpSplat: Edge-Regularized 3D Gaussian Splatting for High Fidelity Urban Building Reconstruction from UAV images](https://arxiv.org/abs/2607.03872v1)** | 2026-07-04 | Accepted at IEEE International Geoscience and Remote Sensing Symposium (IGARSS) - 2026 |
 | **[PRISM3D: Probabilistic Refinement and Robust Initialization for Physically Consistent Scene Modeling under Extreme Motion Blur](https://arxiv.org/abs/2607.03855v1)** | 2026-07-04 | Accepted to ECCV-26 |
-| **[CubifyGS: Object-Centric 3D Gaussian Splatting for Lifelong Dynamic Scene Maintenance](https://arxiv.org/abs/2606.28720v2)** | 2026-07-04 | Accepted to IROS 2026. 8 pages, 5 figures, 4 tables |
-| **[City-Level 3D Surface Reconstruction with Viewpoint Orientation Partitioning and Scene Completion](https://arxiv.org/abs/2607.03771v1)** | 2026-07-04 | Accepted by ECCV 2026 |
-| **[Sparse-View Surface Reconstruction using Gaussian Splatting through High-Confidence Depth Propagation with Normal Priors](https://arxiv.org/abs/2607.03765v1)** | 2026-07-04 | Accepted by ECCV 2026 |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
+| **[RayRoPE: Projective Ray Positional Encoding for Multi-view Attention](https://arxiv.org/abs/2601.15275v3)** | 2026-07-06 | Project page: https://rayrope.github.io/ |
+| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
 | **[G3Splat: Geometrically Consistent Generalizable Gaussian Splatting](https://arxiv.org/abs/2512.17547v2)** | 2026-07-06 | Project page: https://m80hz.github.io/g3splat/ |
@@ -158,13 +162,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[City-Level 3D Surface Reconstruction with Viewpoint Orientation Partitioning and Scene Completion](https://arxiv.org/abs/2607.03771v1)** | 2026-07-04 | Accepted by ECCV 2026 |
 | **[Sparse-View Surface Reconstruction using Gaussian Splatting through High-Confidence Depth Propagation with Normal Priors](https://arxiv.org/abs/2607.03765v1)** | 2026-07-04 | Accepted by ECCV 2026 |
 | **[PixGS: Pixel-Space Diffusion for Direct 3D Gaussian Splat Generation](https://arxiv.org/abs/2607.01803v2)** | 2026-07-04 | Accepted at ECCV 2026 |
-| **[TemporalGS: Training-Free Plug-and-Play Acceleration for 3D Gaussian Splatting Rendering via Temporal Priors](https://arxiv.org/abs/2607.03390v1)** | 2026-07-03 |  |
-| **[Fourier Splatting: Generalized Fourier encoded primitives for scalable radiance fields](https://arxiv.org/abs/2603.19834v3)** | 2026-07-03 |  |
-| **[TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy](https://arxiv.org/abs/2606.26092v2)** | 2026-07-03 | Project Page: https://sunhao242.github.io/TryOnCrafter_web.github.io/ |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution](https://arxiv.org/abs/2607.06238v1)** | 2026-07-07 | Project Page: https://bio-med-i2-lab.github.io/projects/PhyMRI-SR |
+| **[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://arxiv.org/abs/2607.03819v2)** | 2026-07-07 | Fix typo; correct reference |
+| **[GaussFusion: Towards Multimodal 3D Gaussian Pretraining](https://arxiv.org/abs/2607.05906v1)** | 2026-07-07 | 32 pages, 6 figures, 6 tables |
+| **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
+| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
 | **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
@@ -175,11 +181,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DeGenseGS: Geometrically and Semantically Decoupled Surgical Scene Understanding in 4D Gaussian Splatting](https://arxiv.org/abs/2607.04761v1)** | 2026-07-06 |  |
 | **[DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](https://arxiv.org/abs/2604.13416v3)** | 2026-07-06 | ECCV 2026 Accepted |
 | **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
-| **[SA-ResGS: Self-Augmented Residual 3D Gaussian Splatting for Next Best View Selection](https://arxiv.org/abs/2601.03024v3)** | 2026-07-05 | Accepted at ECCV 2026. Project page: https://saresgs.github.io/ |
-| **[Semantic-Guided Progressive Object Removal with Gaussian Splatting](https://arxiv.org/abs/2607.04144v1)** | 2026-07-05 | 8 pages, 4 figures |
-| **[Real-Time LiDAR Gaussian Splatting SLAM](https://arxiv.org/abs/2607.04127v1)** | 2026-07-05 | 18 pages, 5 figures |
-| **[StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors](https://arxiv.org/abs/2606.30545v2)** | 2026-07-05 | 15 pages, 6 figures, accepted to ECCV 2026, project page: https://stringerywh00.github.io/StereoGS_project_page/ |
-| **[MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](https://arxiv.org/abs/2607.03875v1)** | 2026-07-04 | Project page: https://nitzanhod.github.io/MACRO |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -226,6 +227,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors](https://arxiv.org/abs/2607.05636v1)** | 2026-07-06 |  |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
 | **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
 | **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
@@ -451,6 +453,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
 | **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
 | **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
