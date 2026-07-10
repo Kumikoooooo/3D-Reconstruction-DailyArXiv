@@ -1,29 +1,30 @@
-# Latest 15 Papers - July 10, 2026
+# Latest 15 Papers - July 11, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R |
+| **[LTM: Large-scale Terrain Model for Wildfire-prone Landscapes](https://arxiv.org/abs/2607.08711v1)** | 2026-07-09 |  |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views](https://arxiv.org/abs/2606.27071v2)** | 2026-07-09 | IROS 2026 |
+| **[Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://arxiv.org/abs/2607.08408v1)** | 2026-07-09 | Accepted at MICCAI 2026. This is the submitted version prior to peer review. The final authenticated version will be available on SpringerLink |
+| **[HoloTetSphere: Unified TetSphere Mesh Reconstruction for Physical Simulations](https://arxiv.org/abs/2607.08398v1)** | 2026-07-09 | Accepted to ECCV 2026 |
+| **[GSurf: Learning Signed Distance Fields from Splatting Opaque Gaussians for High-quality 3D Reconstruction](https://arxiv.org/abs/2411.15723v4)** | 2026-07-09 | see https://github.com/xubaixinxbx/Gsurf |
+| **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v2)** | 2026-07-09 |  |
+| **[3D Reconstruction of deciduous Trees using low-cost UAV- and Crane-based Photogrammetry for Monitoring Shoot Elongation across entire Canopies](https://arxiv.org/abs/2607.07905v1)** | 2026-07-08 | Accepted to ISPRS Congress 2026, camera-ready version |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[VLRC: Vision-Language Reprojection Consistency as a scalable signal for better feed-forward 3D pretraining](https://arxiv.org/abs/2607.02707v3)** | 2026-07-08 |  |
 | **[GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2607.07168v1)** | 2026-07-08 | European Conference on Computer Vision |
 | **[Disturbance-aware Motion Planning for Over-actuated Underwater Vehicles Exploiting Actuation Redundancy for High-fidelity 3D Reconstruction](https://arxiv.org/abs/2607.07139v1)** | 2026-07-08 |  |
-| **[SpatialFly: Implicit 3D Prior-Guided Visual Reparameterization for Continuous UAV Vision-and-Language Navigation](https://arxiv.org/abs/2603.21046v2)** | 2026-07-07 |  |
-| **[MorphGS: Morphology-Adaptive Articulated 3D Motion Transfer from Videos](https://arxiv.org/abs/2601.02716v3)** | 2026-07-07 | ECCV 2026 |
-| **[TRIG: Trajectory-Rig Decoupled Metric Geometry Learning](https://arxiv.org/abs/2607.05801v1)** | 2026-07-07 | 9 pages, 3 figures, 8 tables |
-| **[MiLSD: A Micro Line-Segment Detector for Resource-Constrained Devices](https://arxiv.org/abs/2607.06600v1)** | 2026-07-07 | 10 pages, 12 figures, 5 tables |
-| **[MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing](https://arxiv.org/abs/2607.05376v1)** | 2026-07-06 | Accepted to ECCV 2026. Project webpage: https://galfiebelman.github.io/mv-forcing/ |
-| **[PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space](https://arxiv.org/abs/2607.05373v1)** | 2026-07-06 | Project page: https://sensengao.github.io/PixWorld/ |
-| **[ReCal3R: Reliability-Calibrated Learning Rates for Streaming 3D Reconstruction](https://arxiv.org/abs/2607.05356v1)** | 2026-07-06 | 23 pages, 7 figures. Project Page: https://powertony102.github.io/recal3r.github.io/ |
-| **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
-| **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -32,11 +33,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -46,11 +47,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -64,12 +65,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[TriDE: Triangle-Consistent Translation Directions for Global Camera Pose Estimation](https://arxiv.org/abs/2605.06889v2)** | 2026-07-01 | 32 pages, 6 figures |
 | **[EPO: Boosting 3D Foundation Models with Edge-based Pose Optimization](https://arxiv.org/abs/2607.00579v1)** | 2026-07-01 | Accepted at ECCV 2026 |
 | **[Planar-SfM: Camera Pose Estimation via Homography Graph Embeddings](https://arxiv.org/abs/2606.31979v2)** | 2026-07-01 | Accepted at ICPR 2026 |
-| **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[Emergence of a Shared Canonical Object Frame from In-the-Wild Videos](https://arxiv.org/abs/2606.30058v1)** | 2026-06-29 |  |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[GSurf: Learning Signed Distance Fields from Splatting Opaque Gaussians for High-quality 3D Reconstruction](https://arxiv.org/abs/2411.15723v4)** | 2026-07-09 | see https://github.com/xubaixinxbx/Gsurf |
+| **[Effective Gaussian Management for High-fidelity Scene Reconstruction](https://arxiv.org/abs/2509.12742v4)** | 2026-07-09 | 15 pages, 14 figures |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[NumGrad-Pull: Numerical Gradient Guided Tri-plane Representation for Surface Reconstruction from Point Clouds](https://arxiv.org/abs/2411.17392v3)** | 2026-07-07 | Accepted in IEEE TVCG |
@@ -81,11 +83,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[Neural Surface and Reflectance Modelling from 3D Radar Data](https://arxiv.org/abs/2603.25623v2)** | 2026-07-01 | Accepted for publication at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2026 |
-| **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting](https://arxiv.org/abs/2607.08016v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[From Pixels to Portraits: A Comprehensive Survey of Talking Head Generation Techniques and Applications](https://arxiv.org/abs/2308.16041v2)** | 2026-07-07 |  |
@@ -98,12 +101,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation](https://arxiv.org/abs/2603.26661v2)** | 2026-07-01 | Project page: https://nicolasvonluetzow.github.io/GaussianGPT/ - Project video: https://youtu.be/zVnMHkFzHDg - Accepted at ECCV 2026 |
 | **[Improving Sparse-View 3DGS Generalization via Flat Minima Optimization](https://arxiv.org/abs/2607.00885v1)** | 2026-07-01 | Accepted to ECCV 2026. Project Page: https://kangrnin.github.io/FlatMinGS |
-| **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[RenderFormer++: Scalable and Physically Grounded Feed-Forward Neural Rendering](https://arxiv.org/abs/2606.30380v1)** | 2026-06-29 |  |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction](https://arxiv.org/abs/2604.01204v3)** | 2026-07-09 | Accepted to ECCV 2026 |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views](https://arxiv.org/abs/2606.27071v2)** | 2026-07-09 | IROS 2026 |
+| **[On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.08250v1)** | 2026-07-09 | Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence |
+| **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v2)** | 2026-07-09 |  |
 | **[Geometry-Aware Single-Image 4D Synthesis via Dense Trajectory Generation](https://arxiv.org/abs/2512.05044v2)** | 2026-07-08 | Accepted to ECCV 2026 |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452v1)** | 2026-07-08 |  |
@@ -114,15 +120,17 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
 | **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
-| **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
-| **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
-| **[Do Flat Minima Improve Sparse Novel View Synthesis?](https://arxiv.org/abs/2511.17918v2)** | 2026-07-06 | ECCV 2026 |
-| **[G3Splat: Geometrically Consistent Generalizable Gaussian Splatting](https://arxiv.org/abs/2512.17547v2)** | 2026-07-06 | Project page: https://m80hz.github.io/g3splat/ |
-| **[Pano2World: End-to-End 3D Generation via Unified Multi-View Sequences](https://arxiv.org/abs/2607.00832v2)** | 2026-07-06 | 10 pages, 3 figures, 3 tables. Preprint |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | Project Webpage: https://insta360-research-team.github.io/GGPS-Website |
+| **[Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction](https://arxiv.org/abs/2604.01204v3)** | 2026-07-09 | Accepted to ECCV 2026 |
+| **[LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2604.01388v2)** | 2026-07-09 | ECCV 2026 |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://arxiv.org/abs/2607.08408v1)** | 2026-07-09 | Accepted at MICCAI 2026. This is the submitted version prior to peer review. The final authenticated version will be available on SpringerLink |
+| **[GSurf: Learning Signed Distance Fields from Splatting Opaque Gaussians for High-quality 3D Reconstruction](https://arxiv.org/abs/2411.15723v4)** | 2026-07-09 | see https://github.com/xubaixinxbx/Gsurf |
+| **[On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.08250v1)** | 2026-07-09 | Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2607.07168v1)** | 2026-07-08 | European Conference on Computer Vision |
@@ -131,17 +139,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GaussFusion: Towards Multimodal 3D Gaussian Pretraining](https://arxiv.org/abs/2607.05906v1)** | 2026-07-07 | 32 pages, 6 figures, 6 tables |
 | **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
 | **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
-| **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
-| **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
-| **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
-| **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
-| **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
-| **[DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis](https://arxiv.org/abs/2604.13416v3)** | 2026-07-06 | ECCV 2026 Accepted |
-| **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | Project Webpage: https://insta360-research-team.github.io/GGPS-Website |
+| **[LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2604.01388v2)** | 2026-07-09 | ECCV 2026 |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[PanoImager: Geometry-Guided Novel View Synthesis and Reconstruction from Sparse Panoramic Views](https://arxiv.org/abs/2606.27071v2)** | 2026-07-09 | IROS 2026 |
+| **[GSurf: Learning Signed Distance Fields from Splatting Opaque Gaussians for High-quality 3D Reconstruction](https://arxiv.org/abs/2411.15723v4)** | 2026-07-09 | see https://github.com/xubaixinxbx/Gsurf |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
@@ -152,15 +158,18 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
-| **[G3Splat: Geometrically Consistent Generalizable Gaussian Splatting](https://arxiv.org/abs/2512.17547v2)** | 2026-07-06 | Project page: https://m80hz.github.io/g3splat/ |
-| **[An Exploration of Agentic Information Fusion for Test Maintenance Prediction](https://arxiv.org/abs/2607.04786v1)** | 2026-07-06 |  |
-| **[The ABC of digital health: A framework for translating digital health interventions into real-world applications](https://arxiv.org/abs/2607.04381v1)** | 2026-07-05 | 21 pages, 2 tables, 1 figure. Preprint of a manuscript intended to be submitted at ACM Transactions on Computer-Human Interaction (TOCHI) |
-| **[StereoGS: Sparse-View 3D Gaussian Splatting via Stereo Priors](https://arxiv.org/abs/2606.30545v2)** | 2026-07-05 | 15 pages, 6 figures, accepted to ECCV 2026, project page: https://stringerywh00.github.io/StereoGS_project_page/ |
-| **[MACRO: Training-free Multi-plane Attention for Closeup Render Optimization](https://arxiv.org/abs/2607.03875v1)** | 2026-07-04 | Project page: https://nitzanhod.github.io/MACRO |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction](https://arxiv.org/abs/2607.08769v1)** | 2026-07-09 | Project Webpage: https://insta360-research-team.github.io/GGPS-Website |
+| **[Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction](https://arxiv.org/abs/2604.01204v3)** | 2026-07-09 | Accepted to ECCV 2026 |
+| **[LESV: Language Embedded Sparse Voxel Fusion for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2604.01388v2)** | 2026-07-09 | ECCV 2026 |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[Track2Map: Online Deformable SLAM with Motion-Aware Pose Optimization in Robotic Surgery](https://arxiv.org/abs/2607.08408v1)** | 2026-07-09 | Accepted at MICCAI 2026. This is the submitted version prior to peer review. The final authenticated version will be available on SpringerLink |
+| **[GSurf: Learning Signed Distance Fields from Splatting Opaque Gaussians for High-quality 3D Reconstruction](https://arxiv.org/abs/2411.15723v4)** | 2026-07-09 | see https://github.com/xubaixinxbx/Gsurf |
+| **[On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.08250v1)** | 2026-07-09 | Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence |
+| **[Effective Gaussian Management for High-fidelity Scene Reconstruction](https://arxiv.org/abs/2509.12742v4)** | 2026-07-09 | 15 pages, 14 figures |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[GeoGS-SLAM: Geometry-Only Gaussian Splatting for Dense Monocular SLAM](https://arxiv.org/abs/2607.07452v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
@@ -168,18 +177,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GP-4DGS: Probabilistic 4D Gaussian Splatting from Monocular Video via Variational Gaussian Processes](https://arxiv.org/abs/2604.02915v2)** | 2026-07-08 | CVPR 2026, Page: https://cv.snu.ac.kr/research/GP4DGS |
 | **[EscFOA: Enhancing Spatial Learning for Visually Impaired Learners via Generative Spatial Audio in 360-Degree Educational Environments](https://arxiv.org/abs/2607.07015v1)** | 2026-07-08 |  |
 | **[RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699v1)** | 2026-07-07 | 24 pages, 16 figures, Project page: https://robosnap.github.io |
-| **[PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution](https://arxiv.org/abs/2607.06238v1)** | 2026-07-07 | Project Page: https://bio-med-i2-lab.github.io/projects/PhyMRI-SR |
-| **[CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation](https://arxiv.org/abs/2607.03819v2)** | 2026-07-07 | Fix typo; correct reference |
-| **[GaussFusion: Towards Multimodal 3D Gaussian Pretraining](https://arxiv.org/abs/2607.05906v1)** | 2026-07-07 | 32 pages, 6 figures, 6 tables |
-| **[SSA-3DGS: Unsupervised Removal of Screen-Space Artifacts for 3D Gaussian Splatting](https://arxiv.org/abs/2607.05598v1)** | 2026-07-06 |  |
-| **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
-| **[WildSplat: Feedforward Gaussian Splatting from Unposed In-the-Wild Images](https://arxiv.org/abs/2607.05347v1)** | 2026-07-06 | 22 pages, 9 figures; Accepted by ECCV 2026. Project page: https://zju3dv.github.io/wildsplat/ |
-| **[Signal Structure-Aware Gaussian Splatting for Large-Scale Scene Reconstruction](https://arxiv.org/abs/2607.01698v2)** | 2026-07-06 |  |
-| **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v1)** | 2026-07-06 | Project page: https://abkeito.github.io/gush3r-page/ |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -188,11 +190,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -201,11 +203,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -214,11 +216,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Sensor-Adaptive Infrared Spectral Reconstruction with Plug-and-Play Diffusion Priors](https://arxiv.org/abs/2607.05636v1)** | 2026-07-06 |  |
@@ -228,11 +230,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -241,11 +243,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -255,11 +257,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -269,11 +271,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wat3R: Underwater 3D Geometry Learning without Annotations](https://arxiv.org/abs/2607.08772v1)** | 2026-07-09 | Accepted to ECCV 2026. The dataset and code are available at https://github.com/LSXI7/Wat3R |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v2)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2607.07168v1)** | 2026-07-08 | European Conference on Computer Vision |
@@ -286,13 +290,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://arxiv.org/abs/2607.03612v1)** | 2026-07-03 | ECCV 2026 |
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[DarkVGGT: Seeing Through Darkness Using Thermal Geometry without Daylight Tax](https://arxiv.org/abs/2606.11326v2)** | 2026-07-02 | Project Page: https://darkvggt.github.io |
-| **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
-| **[VS3R: Robust Full-frame Video Stabilization via Deep 3D Reconstruction](https://arxiv.org/abs/2603.05851v2)** | 2026-06-30 |  |
-| **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -301,11 +303,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -314,11 +316,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -327,11 +329,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -340,11 +342,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -353,11 +355,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
+| **[On the Design of Mixture-of-Experts for Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.08250v1)** | 2026-07-09 | Accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -368,11 +371,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[FreeTimeGS++: Secrets of Dynamic Gaussian Splatting and Their Principles](https://arxiv.org/abs/2605.03337v3)** | 2026-07-01 | Project page: https://yklcs.com/ftgspp |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -383,11 +386,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[MoPe: Motion Permanence for Robust Monocular Gaussian Mapping in Dynamic Environments](https://arxiv.org/abs/2606.29237v1)** | 2026-06-28 | RSS 2026 Workshop |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -397,11 +400,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[AEGIR: Modeling Area Emitters for Indoor Inverse Rendering using Gaussian Splatting](https://arxiv.org/abs/2606.28635v2)** | 2026-06-30 | Project page: https://darkgeekms.github.io/projects/aegir |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -410,11 +413,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -423,11 +426,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Rendering-Aware Bayesian 3D Gaussian Splatting with Native Uncertainty and Adaptive Complexity Control](https://arxiv.org/abs/2607.05522v1)** | 2026-07-06 | 26 pages, 4 figures, 24 tables including appendix. Preprint |
@@ -443,6 +446,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -451,11 +455,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
 
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SHAP-Weighted Cross-Modal Expert Fusion for Emotion and Sentiment Recognition: Evidence and Limits](https://arxiv.org/abs/2607.08573v1)** | 2026-07-09 |  |
 | **[On possible values of the group complexity function of infinite words](https://arxiv.org/abs/2607.07620v1)** | 2026-07-08 |  |
 | **[Horizon-Restricted Leading Soft QED as Open Quantum System](https://arxiv.org/abs/2607.07342v1)** | 2026-07-08 | 32 pages, 3 figures embedded |
 | **[Higher order PCA-like rotation-invariant features for detailed shape descriptors modulo rotation](https://arxiv.org/abs/2601.03326v3)** | 2026-07-06 | 6 pages, 4 figures |
@@ -464,4 +468,3 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Metasurface embodied intelligence through electromagnetic world model](https://arxiv.org/abs/2607.02634v1)** | 2026-07-02 | 85 pages, 15 figures |
 | **[Boosting Infrared Small Target Detection via Logit-Domain Contrast and Adaptive Shape Refinement](https://arxiv.org/abs/2607.01555v1)** | 2026-07-02 | This work has been submitted to the IEEE for possible publication |
 | **[ReactionAtlas: Ab origine exploration of chemical reaction networks with machine learning](https://arxiv.org/abs/2606.30778v1)** | 2026-06-29 |  |
-| **[AB-RAG: Adaptive Budgeted Retrieval-Augmented Generation for Reliable Question Answering](https://arxiv.org/abs/2606.29090v1)** | 2026-06-27 | 16 pages, 9 figures, 12 tables |
