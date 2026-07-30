@@ -1,10 +1,14 @@
-# Latest 15 Papers - July 30, 2026
+# Latest 15 Papers - July 31, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI](https://arxiv.org/abs/2607.27139v1)** | 2026-07-29 |  |
+| **[LISA-3D: Lifting Language-Image Segmentation to 3D via Multi-View Consistency](https://arxiv.org/abs/2512.01008v2)** | 2026-07-29 | Published as a conference paper at The 9th Chinese Conference on Pattern Recognition and Computer Vision (PRCV 2026) |
+| **[SceneExpander: Text-Guided 3D Scene Expansion via Free-Form View Insertion](https://arxiv.org/abs/2603.27084v3)** | 2026-07-29 |  |
+| **[Genie Sim PanoWorld: An Infinite Indoor 3D World Generation Pipeline via Panoramic Scene Modeling and Simulation](https://arxiv.org/abs/2607.26646v1)** | 2026-07-29 |  |
 | **[Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting](https://arxiv.org/abs/2602.18314v2)** | 2026-07-28 | This work has been accpeted by the IEEE Robotics and Automation Letters(RA-L) |
 | **[SwiftGS: Episodic Priors for Immediate Satellite Surface Recovery](https://arxiv.org/abs/2603.18634v4)** | 2026-07-28 | 23 pages, 6 figures |
 | **[3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction](https://arxiv.org/abs/2503.12001v5)** | 2026-07-27 | arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation |
@@ -14,12 +18,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Quality-Adaptive Multi-UAV 3D Reconstruction with Sparse Workload Redistribution](https://arxiv.org/abs/2607.24233v1)** | 2026-07-27 |  |
 | **[GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution](https://arxiv.org/abs/2607.17519v2)** | 2026-07-26 | Accepted by ACM MM 2026 |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
-| **[Track-Leakage-Free Hold-Out Self-Validation for Photogrammetric Reconstruction: Protocol, Sensitivity, and Limits](https://arxiv.org/abs/2607.24852v1)** | 2026-07-25 | 16 pages, 4 figures. Submitted to the ISPRS Journal of Photogrammetry and Remote Sensing. Negative/characterisation result: a ground-truth-free self-consistency signal is shown to saturate and to be blind to coherent global distortion |
 | **[FUSE-Flow: A Decoupled Framework for Calibration and Stateless Real-Time Multi-View Point Cloud Fusion](https://arxiv.org/abs/2606.04376v2)** | 2026-07-24 | 8pages,5figures, the version to submit IEEE TMM, resubmitted on 2026.7.8 |
 | **[SM4RT: Learning Structured Motion Geometry for 4D Reconstruction](https://arxiv.org/abs/2607.22534v1)** | 2026-07-24 | Code is available at: https://github.com/wzzheng/SM4RT |
-| **[RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations](https://arxiv.org/abs/2410.00713v5)** | 2026-07-24 |  |
-| **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
-| **[Latent Interpolation Learning Using Diffusion Models for Cardiac Volume Reconstruction](https://arxiv.org/abs/2508.13826v4)** | 2026-07-24 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -42,12 +42,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo](https://arxiv.org/abs/2503.19847v2)** | 2026-07-21 | 25 pages, 10 figures |
 | **[Contraction-Gauge Preconditioning for Quantized Matrix Multiplication](https://arxiv.org/abs/2607.18745v1)** | 2026-07-21 | 50 pages, 13 figures, 3 tables |
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v4)** | 2026-07-20 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
-| **[BathyFacto: Refraction-Aware Two-Media Neural Radiance Fields for Bathymetry](https://arxiv.org/abs/2605.10174v2)** | 2026-07-15 | 16 pages, 8 figures, 3 tables. Submitted to ISPRS Open Journal of Photogrammetry and Remote Sensing, Special Issue "3D Underwater Mapping from Above and Below" |
-| **[Multi-view Hand Reconstruction with a Point-Embedded Transformer](https://arxiv.org/abs/2408.10581v3)** | 2026-07-15 | TPAMI 2025, Extension of CVPR 2023, correction on Table 4: HO3D results |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion](https://arxiv.org/abs/2607.27194v1)** | 2026-07-29 |  |
 | **[Accuracy potential of visual localization exploiting high-end street-level imagery](https://arxiv.org/abs/2607.24409v1)** | 2026-07-27 | 26 pages, 6 figures |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
@@ -59,11 +58,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Geometrically Consistent Multi-View Scene Generation from Freehand Sketches](https://arxiv.org/abs/2604.14302v2)** | 2026-07-18 |  |
 | **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v3)** | 2026-07-18 | Sources are available at https://github.com/deivse/ivd_splat . Changes in this version: extended experiments, adjusted direction |
 | **[HETA++: Global Structure-from-Motion with Hybrid Explicit Translation Averaging](https://arxiv.org/abs/2607.15912v1)** | 2026-07-17 |  |
-| **[Immediate 3D Gaussian Splat Reconstruction of Unordered Input with Global Consistency](https://arxiv.org/abs/2607.14481v1)** | 2026-07-16 |  |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Retrospective Orthogonal Design: Response-Surface Reconstruction from Observational Data](https://arxiv.org/abs/2607.26219v1)** | 2026-07-28 |  |
 | **[RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction](https://arxiv.org/abs/2607.23758v1)** | 2026-07-26 |  |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
@@ -78,7 +77,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v4)** | 2026-07-20 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
 | **[Points as Tori: Fast Pointwise Signed Distance for Point Clouds](https://arxiv.org/abs/2607.16946v1)** | 2026-07-18 | Published in ACM Transactions on Graphics, volume 45 (2026). For associated presentations and code, see https://nzfeng.github.io/research/PointsAsTori |
 | **[ContactFusion: Stochastic Poisson Surface Maps from Visual and Contact Sensing](https://arxiv.org/abs/2503.16592v2)** | 2026-07-17 | Version accepted to IROS2026 |
-| **[RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping](https://arxiv.org/abs/2607.15048v1)** | 2026-07-16 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
@@ -100,6 +98,9 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis](https://arxiv.org/abs/2607.26578v1)** | 2026-07-29 |  |
+| **[AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting](https://arxiv.org/abs/2607.26525v1)** | 2026-07-29 | Accepted to IEEE ISMAR 2026 (TVCG) |
 | **[ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417v2)** | 2026-07-28 | Project page is at: https://join16.github.io/page-atsplat |
 | **[RoadVGGT: Road-Structure-Aware Feed-Forward Road Surface Reconstruction](https://arxiv.org/abs/2607.23758v1)** | 2026-07-26 |  |
 | **[GEAR: Reconstruction of Classical Paintings via Geometry Grounding and Appearance Restitution](https://arxiv.org/abs/2607.17519v2)** | 2026-07-26 | Accepted by ACM MM 2026 |
@@ -112,15 +113,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Future Rendering $\neq$ Future Surface: A Benchmark and Dataset for Dynamic Surface Reconstruction Beyond the Observed Window](https://arxiv.org/abs/2607.21471v1)** | 2026-07-23 | See https://github.com/Ricky-S/futuresurf |
 | **[Hash-QNeRF: Multiresolution Hash Encoding for Quantum Neural Radiance Fields](https://arxiv.org/abs/2607.21675v1)** | 2026-07-23 |  |
 | **[SubSplat: High-Resolution Pixel-aligned 3DGS via Sub-pixel Gaussian Reparameterization](https://arxiv.org/abs/2607.20813v1)** | 2026-07-23 |  |
-| **[LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://arxiv.org/abs/2604.05182v3)** | 2026-07-22 |  |
-| **[Extending a Large View Synthesis Model for Multi-view Panoptic Segmentation](https://arxiv.org/abs/2607.19765v1)** | 2026-07-22 | Accepted to ECCV 2026. 31 pages, 7 figures, 9 tables. Project page: https://kwonyoung9120.github.io/PanopticLVSM/ |
-| **[Fast Wave-optics Rendering of Multiplane Images for 3D Holographic Displays](https://arxiv.org/abs/2607.19731v1)** | 2026-07-22 |  |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v2)** | 2026-07-29 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
+| **[StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction](https://arxiv.org/abs/2607.26889v1)** | 2026-07-29 | accepted at ECCV 2026 |
+| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting](https://arxiv.org/abs/2607.26525v1)** | 2026-07-29 | Accepted to IEEE ISMAR 2026 (TVCG) |
 | **[InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting](https://arxiv.org/abs/2508.13287v4)** | 2026-07-28 |  |
-| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v1)** | 2026-07-28 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
 | **[CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting](https://arxiv.org/abs/2607.25569v1)** | 2026-07-28 |  |
 | **[DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles](https://arxiv.org/abs/2602.15355v5)** | 2026-07-28 | 16 pages, 7 figures |
 | **[ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417v2)** | 2026-07-28 | Project page is at: https://join16.github.io/page-atsplat |
@@ -131,13 +132,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Head Avatars with Dynamic Explicit Hair](https://arxiv.org/abs/2607.23861v1)** | 2026-07-26 | Project page: https://dynhair.is.tue.mpg.de/ |
 | **[HandSCS: Structural Coordinate Space for Animatable Hand Gaussian Splatting](https://arxiv.org/abs/2503.14736v3)** | 2026-07-26 | Accepted to ECCV 2026 |
 | **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](https://arxiv.org/abs/2501.13335v4)** | 2026-07-26 |  |
-| **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
-| **[Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design](https://arxiv.org/abs/2607.23189v1)** | 2026-07-25 |  |
-| **[Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](https://arxiv.org/abs/2607.22997v1)** | 2026-07-25 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis](https://arxiv.org/abs/2607.26578v1)** | 2026-07-29 |  |
+| **[AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting](https://arxiv.org/abs/2607.26525v1)** | 2026-07-29 | Accepted to IEEE ISMAR 2026 (TVCG) |
 | **[InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting](https://arxiv.org/abs/2508.13287v4)** | 2026-07-28 |  |
 | **[CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting](https://arxiv.org/abs/2607.25569v1)** | 2026-07-28 |  |
 | **[ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion](https://arxiv.org/abs/2607.20417v2)** | 2026-07-28 | Project page is at: https://join16.github.io/page-atsplat |
@@ -150,15 +151,16 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](https://arxiv.org/abs/2501.13335v4)** | 2026-07-26 |  |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[Fashion-3DLR: A Controllable 3D Garment Generation Using Pairwise Fashion Elements for Intelligent Design](https://arxiv.org/abs/2607.23189v1)** | 2026-07-25 |  |
-| **[Real2Sim2Real for Vision-Language-Action Manipulation: An AMD ROCm-Based Pipeline](https://arxiv.org/abs/2607.22997v1)** | 2026-07-25 |  |
-| **[3D Gaussian Splatting for Scientific Particle Data Compression and Rendering](https://arxiv.org/abs/2607.22956v1)** | 2026-07-24 | 13 pages, 13 figures. Accepted at SC26 (The International Conference for High Performance Computing, Networking, Storage and Analysis) |
-| **[Meshless Domain Randomization via Explicit Parameter Perturbation of 3D Gaussian Splatting](https://arxiv.org/abs/2607.22890v1)** | 2026-07-24 | 10 pages, 4 figures |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v2)** | 2026-07-29 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
+| **[StructureGS: Structure-aware Gaussian Splatting for Articulated Object Reconstruction](https://arxiv.org/abs/2607.26889v1)** | 2026-07-29 | accepted at ECCV 2026 |
+| **[SpatialQ: Understanding 3D Gaussian Splatting Scene Quality via Visual-based MLLM](https://arxiv.org/abs/2607.26595v1)** | 2026-07-29 |  |
+| **[3DGBGS: 3D Granular Ball Gaussian Splatting for Compact Novel View Synthesis](https://arxiv.org/abs/2607.26578v1)** | 2026-07-29 |  |
+| **[AtlasLC: Fast Codec-Ready Compression of Object-Centric 3D Gaussian Splatting](https://arxiv.org/abs/2607.26525v1)** | 2026-07-29 | Accepted to IEEE ISMAR 2026 (TVCG) |
 | **[InnerGS: Internal Scenes Reconstruction and Segmentation via Factorized 3D Gaussian Splatting](https://arxiv.org/abs/2508.13287v4)** | 2026-07-28 |  |
-| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v1)** | 2026-07-28 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
 | **[Diff2DGS: Reliable Reconstruction of Occluded Surgical Scenes via 2D Gaussian Splatting](https://arxiv.org/abs/2602.18314v2)** | 2026-07-28 | This work has been accpeted by the IEEE Robotics and Automation Letters(RA-L) |
 | **[CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting](https://arxiv.org/abs/2607.25569v1)** | 2026-07-28 |  |
 | **[PanoLess: Environment Reconstruction from Partial Reflective Views](https://arxiv.org/abs/2607.25362v1)** | 2026-07-28 | ECCV 2026. Main paper with supplementary material |
@@ -168,10 +170,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction](https://arxiv.org/abs/2503.12001v5)** | 2026-07-27 | arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation |
 | **[MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction](https://arxiv.org/abs/2605.10760v2)** | 2026-07-27 |  |
 | **[GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403v1)** | 2026-07-27 |  |
-| **[Head Avatars with Dynamic Explicit Hair](https://arxiv.org/abs/2607.23861v1)** | 2026-07-26 | Project page: https://dynhair.is.tue.mpg.de/ |
-| **[HandSCS: Structural Coordinate Space for Animatable Hand Gaussian Splatting](https://arxiv.org/abs/2503.14736v3)** | 2026-07-26 | Accepted to ECCV 2026 |
-| **[Deblur-Avatar: Animatable Avatars from Motion-Blurred Monocular Videos](https://arxiv.org/abs/2501.13335v4)** | 2026-07-26 |  |
-| **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -207,6 +205,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Temporally Centered SIGReg Improves Multi-Task LeWorldModel Learning: From Analysis to Method](https://arxiv.org/abs/2607.26924v1)** | 2026-07-29 |  |
 | **[GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403v1)** | 2026-07-27 |  |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
@@ -215,7 +214,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Contraction-Gauge Preconditioning for Quantized Matrix Multiplication](https://arxiv.org/abs/2607.18745v1)** | 2026-07-21 | 50 pages, 13 figures, 3 tables |
 | **[Packet-Loss Robust 3D Gaussian Compression via Atomic Packaging and GNN-based Error Concealment](https://arxiv.org/abs/2607.17916v1)** | 2026-07-20 | 21 pages, 3 figures, 3 tables |
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v4)** | 2026-07-20 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
-| **[Adaptive Score-Based VAMP: Self-Tuning Hyperparameters via Tilted EM](https://arxiv.org/abs/2607.14597v1)** | 2026-07-16 | 5 pages, 2 figures. A short version of this paper has been submitted to the 2026 ESS Symposium (ESSS 2026) |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
@@ -250,6 +248,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SceneExpander: Text-Guided 3D Scene Expansion via Free-Form View Insertion](https://arxiv.org/abs/2603.27084v3)** | 2026-07-29 |  |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
 | **[Graph-Theoretic Neural Network Fragmentation with Covariant Direct Molecular Force Learning: Enabling Coupled-Cluster Accuracy AIMD for Fluxional Systems](https://arxiv.org/abs/2607.21779v1)** | 2026-07-23 |  |
@@ -260,8 +259,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[FF-ProCams: Feed-Forward Gaussian Splatting for Projector-Camera System](https://arxiv.org/abs/2607.17803v1)** | 2026-07-20 |  |
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v4)** | 2026-07-20 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
 | **[NoDrift3R: Raymap-Guided Coupling for Drift-Robust Unposed Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2607.07168v2)** | 2026-07-17 | Project page: see https://xiangyu1sun.github.io/NoDrift3R-project-page/ |
-| **[MAGiSt3R: Multi-Agent Feed-forward 3D Reconstruction from Monocular RGB Videos](https://arxiv.org/abs/2607.15211v1)** | 2026-07-16 |  |
-| **[AnyStyle: Single-Pass Multimodal Stylization for 3D Gaussian Splatting](https://arxiv.org/abs/2602.04043v2)** | 2026-07-16 |  |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
@@ -320,7 +317,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v1)** | 2026-07-28 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
+| **[SplatStream: Fine Granular Scalable Gaussian Splatting for Adaptive 3D Scene Streaming](https://arxiv.org/abs/2607.25971v2)** | 2026-07-29 | Accepted in Asilomar Conference on Signals, Systems, and Computers 2026 |
 | **[LinkRank: A Learning-to-Rank Framework for One-to-Many Issue-Commit Traceability](https://arxiv.org/abs/2607.23610v1)** | 2026-07-26 |  |
 | **[Ground4D: Consistency-Aware 4D Reconstruction from Monocular Video](https://arxiv.org/abs/2606.28828v2)** | 2026-07-25 |  |
 | **[On the Maximality of Additive Codes](https://arxiv.org/abs/2607.22297v1)** | 2026-07-24 |  |
@@ -328,7 +325,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Ab-initio simulation of excited-state potential energy surfaces with transferable deep quantum Monte Carlo](https://arxiv.org/abs/2503.19847v2)** | 2026-07-21 | 25 pages, 10 figures |
 | **[Contraction-Gauge Preconditioning for Quantized Matrix Multiplication](https://arxiv.org/abs/2607.18745v1)** | 2026-07-21 | 50 pages, 13 figures, 3 tables |
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v4)** | 2026-07-20 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
-| **[MVFusion-GS: Motion-Variance Guided Temporal Attention for High-Quality Dynamic Gaussian Splatting](https://arxiv.org/abs/2607.01578v2)** | 2026-07-16 |  |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
