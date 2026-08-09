@@ -6,7 +6,7 @@ The subheadings represent the search keywords. For each keyword, the table keeps
 
 Click the repository's Watch button to receive notifications from the daily issue workflow.
 
-Last update: 2026-08-09
+Last update: 2026-08-10
 
 ## 3D reconstruction
 | **Title** | **Date** | **Abstract** | **Comment** |
