@@ -1,10 +1,11 @@
-# Latest 15 Papers - August 10, 2026
+# Latest 15 Papers - August 11, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
 | **[OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction](https://arxiv.org/abs/2608.05539v1)** | 2026-08-06 |  |
 | **[Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145v2)** | 2026-08-06 | ECCV 2026, Project page: https://zisenshao.github.io/AV-MSF/ |
 | **[Beyond Reprojection Error: Camera Calibration with 3D Targets](https://arxiv.org/abs/2608.05066v1)** | 2026-08-05 | 16 pages, 7 figures, 2 tables. To appear in the proceedings of Computer Graphics International (CGI 2026) |
@@ -19,7 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Kitchen Robotic Manipulation utilizing Foundation Models](https://arxiv.org/abs/2608.04042v1)** | 2026-08-04 | Intelligent Service Robotics (ISR) |
 | **[RAD: A Dataset and Benchmark for Real-Life Anomaly Detection with Robotic Observations](https://arxiv.org/abs/2410.00713v6)** | 2026-08-03 |  |
 | **[VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification](https://arxiv.org/abs/2608.02598v1)** | 2026-08-03 | 12 pages, 10 figures |
-| **[UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction](https://arxiv.org/abs/2608.02145v1)** | 2026-08-03 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -37,7 +37,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
 | **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
 | **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
-| **[3D Gaussian Splatting against Moving Objects for High-Fidelity Street Scene Reconstruction](https://arxiv.org/abs/2503.12001v5)** | 2026-07-27 | arXiv admin note: This paper has been withdrawn by arXiv due to unverifiable authorship and affiliation |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
@@ -68,6 +67,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RenderFormer++: Scalable and Physics-Informed Feed-Forward Neural Rendering](https://arxiv.org/abs/2606.30380v2)** | 2026-08-07 |  |
 | **[Floating Radiance Networks](https://arxiv.org/abs/2608.05920v1)** | 2026-08-06 |  |
 | **[Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction](https://arxiv.org/abs/2607.27825v2)** | 2026-08-05 |  |
 | **[Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling](https://arxiv.org/abs/2608.04764v1)** | 2026-08-05 |  |
@@ -82,6 +82,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 | **[Floating Radiance Networks](https://arxiv.org/abs/2608.05920v1)** | 2026-08-06 |  |
 | **[G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704v1)** | 2026-08-06 |  |
@@ -96,11 +97,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[D^2-4DGS: Dual-Depth Guided Sparse-Camera 4D Gaussian Splatting](https://arxiv.org/abs/2608.01588v1)** | 2026-08-03 |  |
 | **[WorldMirror: Universal 3D World Reconstruction with Any-Prior Prompting](https://arxiv.org/abs/2510.10726v2)** | 2026-08-02 | Accepted to ICML 2026. Code: https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror Project page: https://3d-models.hunyuan.tencent.com/world/ |
 | **[QuerySplat: Decoupling Geometry and Appearance Representations in 3DGS Prediction](https://arxiv.org/abs/2608.01186v1)** | 2026-08-02 |  |
-| **[AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.25129v2)** | 2026-08-02 | Project page: https://kaist-viclab.github.io/airsplat-site, accepted to ECCV 2026 |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
+| **[AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles](https://arxiv.org/abs/2608.06801v1)** | 2026-08-07 |  |
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 | **[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896v1)** | 2026-08-06 |  |
 | **[RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos](https://arxiv.org/abs/2606.16278v3)** | 2026-08-06 | Under submission |
@@ -114,12 +116,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[OutLangSplat: 3D Language Gaussian Splatting for UAV Outdoor Scenes](https://arxiv.org/abs/2608.04560v1)** | 2026-08-05 | 9 pages, 6 figures, 7 tables |
 | **[Super-Gaussian: Interactive Scene Editing for 3D Gaussian Splatting and NLI-Based Volume Visualization in Virtual Reality](https://arxiv.org/abs/2608.04475v1)** | 2026-08-05 | IEEE VIS 2026 accepted |
 | **[StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.01659v2)** | 2026-08-05 |  |
-| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v4)** | 2026-08-04 |  |
-| **[GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning](https://arxiv.org/abs/2604.25459v2)** | 2026-08-04 | Robotics: Science and Systems 2026 |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 | **[RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos](https://arxiv.org/abs/2606.16278v3)** | 2026-08-06 | Under submission |
 | **[G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704v1)** | 2026-08-06 |  |
@@ -134,11 +135,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[FGGS-LiDAR: Ultra-Fast, GPU-Accelerated Simulation from General 3DGS Models to LiDAR](https://arxiv.org/abs/2509.17390v3)** | 2026-08-04 |  |
 | **[ReCamDriving: LiDAR-Free Camera-Controlled Video Synthesis for Novel Trajectories](https://arxiv.org/abs/2512.03621v3)** | 2026-08-04 | Project page: https://recamdriving.github.io/ |
 | **[URHead: A Unified UV-Space Representation for Joint Mesh-3DGS Optimization in Head Avatars](https://arxiv.org/abs/2607.22673v2)** | 2026-08-04 | Project page/code: https://lseonghak.github.io/website/project/urhead/, Accepted to ECCV 2026 |
-| **[3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279v1)** | 2026-08-04 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
+| **[AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles](https://arxiv.org/abs/2608.06801v1)** | 2026-08-07 |  |
 | **[Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization](https://arxiv.org/abs/2508.11183v2)** | 2026-08-06 | Accepted by ACM MM 2026, Rio de Janeiro, Brazil |
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 | **[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896v1)** | 2026-08-06 |  |
@@ -152,8 +154,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842v1)** | 2026-08-05 | This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting](https://arxiv.org/abs/2607.25569v2)** | 2026-08-05 | A collection of paper on 3DGS for Wireless Communications can be found at https://github.com/AI4Wireless/3DGS4Wireless |
 | **[UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701v1)** | 2026-08-05 | Project Homepage: https://zhouhyocean.github.io/uniworld-view/ Code: https://github.com/PKU-YuanGroup/UniWorld-View |
-| **[PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads](https://arxiv.org/abs/2608.05218v1)** | 2026-08-05 | Accepted to ACM MM 2026 |
-| **[ACA-GS: Adaptive-Capacity Anchored Gaussian Splatting for Compact Dynamic Radiance Fields](https://arxiv.org/abs/2608.04581v1)** | 2026-08-05 | 9 pages, 8 figures. Accepted to ACM Multimedia 2026 |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -187,7 +187,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
 | **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
 | **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
-| **[GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403v1)** | 2026-07-27 |  |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
@@ -231,7 +230,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
 | **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
 | **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
-| **[GenSplatCodec: Feed-Forward Gaussian Splatting Compression via One-Step Diffusion](https://arxiv.org/abs/2607.24403v1)** | 2026-07-27 |  |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
@@ -283,7 +281,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
 | **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
 | **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
-| **[MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction](https://arxiv.org/abs/2605.10760v2)** | 2026-07-27 |  |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
