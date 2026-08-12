@@ -1,10 +1,12 @@
-# Latest 15 Papers - August 12, 2026
+# Latest 15 Papers - August 13, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sensor-Informed Per-Point Covariance for Structured-Light 3D Imaging](https://arxiv.org/abs/2608.10888v1)** | 2026-08-11 |  |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis](https://arxiv.org/abs/2608.01958v2)** | 2026-08-10 | accepted by ICASSP2026 |
 | **[SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](https://arxiv.org/abs/2510.14357v2)** | 2026-08-10 |  |
 | **[View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110v1)** | 2026-08-10 |  |
@@ -18,12 +20,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[OmniMech: All-in-one Multimodal Mechanical Benchmark for 3D Reconstruction](https://arxiv.org/abs/2608.05539v1)** | 2026-08-06 |  |
 | **[Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145v2)** | 2026-08-06 | ECCV 2026, Project page: https://zisenshao.github.io/AV-MSF/ |
-| **[Beyond Reprojection Error: Camera Calibration with 3D Targets](https://arxiv.org/abs/2608.05066v1)** | 2026-08-05 | 16 pages, 7 figures, 2 tables. To appear in the proceedings of Computer Graphics International (CGI 2026) |
-| **[RoboReact: Agentic Skill Distillation from Generated Egocentric Videos for Generalizable Whole-Body Manipulation](https://arxiv.org/abs/2608.03387v2)** | 2026-08-05 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -34,6 +35,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[LiteMVS: Efficient Multi-View Stereo with Foundation Distillation and Expert Aggregation](https://arxiv.org/abs/2608.03851v1)** | 2026-08-04 | CVPR 2026 Workshop accepted |
@@ -45,6 +47,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
@@ -59,6 +62,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry](https://arxiv.org/abs/2406.04301v5)** | 2026-08-04 |  |
@@ -67,12 +72,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
 | **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
 | **[Receding-Horizon Next-Best-View Planner for Autonomous Leaf Surface Reconstruction](https://arxiv.org/abs/2607.28995v1)** | 2026-07-31 | Accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026) |
-| **[Learning Manifolds in High-D Point Embedding for Anisotropic Surface Approximation from Unstructured Point Clouds](https://arxiv.org/abs/2607.28855v1)** | 2026-07-30 |  |
-| **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345v1)** | 2026-08-11 | Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/ |
 | **[Endo-NeRF++: Uncertainty-Aware Neural Rendering with Multi-Resolution Hash Encoding for Dynamic Surgical Scene Reconstruction](https://arxiv.org/abs/2607.27825v3)** | 2026-08-10 |  |
 | **[HandSplatter: Automated Digital Goniometry from Neural Rendering](https://arxiv.org/abs/2608.09735v1)** | 2026-08-10 | Accepted for publication in the Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026), Full Paper #1985 |
 | **[View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110v1)** | 2026-08-10 |  |
@@ -86,12 +91,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing](https://arxiv.org/abs/2608.01761v1)** | 2026-08-03 | Accepted to ECCV 2026 |
 | **[Struct-GStream: Towards Efficient Free-Viewpoint Video Streaming at Low-Bitrates with Structured 3D Gaussians](https://arxiv.org/abs/2608.01053v1)** | 2026-08-02 |  |
 | **[Enforcing Access Control in Distributed Version Control Systems](https://arxiv.org/abs/2608.00132v1)** | 2026-07-31 | 6 pages, 2 figures. Author-accepted manuscript |
-| **[Enforcing Cryptographic Distributed-VCS Access Control with No Trust on Servers](https://arxiv.org/abs/2607.29417v1)** | 2026-07-31 | Accepted manuscript. 15 pages, 7 figures. Published in Journal of Information Security and Applications, Vol. 93 (2025), Article 104103 |
-| **[A Matrix Factorization Approach in Turnstile Streaming](https://arxiv.org/abs/2607.28819v1)** | 2026-07-30 |  |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[Easy3D-Labels: Supervising Semantic Occupancy Estimation with 3D Pseudo-Labels for Automotive Perception](https://arxiv.org/abs/2509.26087v5)** | 2026-08-11 | Accepted at IEEE OJVT |
+| **[Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682v1)** | 2026-08-11 |  |
+| **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
+| **[CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345v1)** | 2026-08-11 | Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/ |
 | **[FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis](https://arxiv.org/abs/2608.01958v2)** | 2026-08-10 | accepted by ICASSP2026 |
 | **[AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models](https://arxiv.org/abs/2603.05868v2)** | 2026-08-10 | Accepted to IROS 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
@@ -102,34 +110,36 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Floating Radiance Networks](https://arxiv.org/abs/2608.05920v1)** | 2026-08-06 |  |
 | **[G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704v1)** | 2026-08-06 |  |
 | **[UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701v1)** | 2026-08-05 | Project Homepage: https://zhouhyocean.github.io/uniworld-view/ Code: https://github.com/PKU-YuanGroup/UniWorld-View |
-| **[MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors](https://arxiv.org/abs/2607.12000v2)** | 2026-08-05 | accepted to ECCV 2026 |
-| **[Gaussian-LIC2: LiDAR-Inertial-Camera Gaussian Splatting SLAM](https://arxiv.org/abs/2507.04004v3)** | 2026-08-05 | Accepted by IJRR |
-| **[StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.01659v2)** | 2026-08-05 |  |
-| **[3DGSI-Assessor: A Large-Scale Dataset and An LMM-based Method for 3D Gaussian Splatting Image Quality Assessment](https://arxiv.org/abs/2608.03279v1)** | 2026-08-04 |  |
-| **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150v1)** | 2026-08-11 | Accepted to ECCV 2026 |
+| **[WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100v1)** | 2026-08-11 |  |
+| **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v1)** | 2026-08-11 | 8 pages, accepted at IROS 2026 |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756v1)** | 2026-08-11 | 9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26) |
+| **[Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712v1)** | 2026-08-11 |  |
+| **[Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682v1)** | 2026-08-11 |  |
+| **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
+| **[CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345v1)** | 2026-08-11 | Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/ |
+| **[TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration](https://arxiv.org/abs/2608.10286v1)** | 2026-08-10 |  |
 | **[JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659v1)** | 2026-08-09 |  |
 | **[EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585v1)** | 2026-08-09 |  |
 | **[ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints](https://arxiv.org/abs/2608.08531v1)** | 2026-08-09 | 18 pages, 12 figures |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937v1)** | 2026-08-08 | Accepted to the British Machine Vision Conference (BMVC) 2026. Code: https://github.com/amir-sbg/FlexSplat |
-| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
-| **[AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles](https://arxiv.org/abs/2608.06801v1)** | 2026-08-07 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
-| **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
-| **[GSBF: Gaussian Splatting for Environment-Aware Beamforming](https://arxiv.org/abs/2608.05896v1)** | 2026-08-06 |  |
-| **[RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos](https://arxiv.org/abs/2606.16278v3)** | 2026-08-06 | Under submission |
-| **[G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704v1)** | 2026-08-06 |  |
-| **[ESVR: 3D Ellipsoid-based Sparse Volume Rendering via Structure-aware Primitive Learning and Per-primitive Ray Sampling](https://arxiv.org/abs/2608.05564v1)** | 2026-08-06 | IEEE VIS 2026 accepted |
-| **[Objects as Audio-Visual Modal Sound Fields](https://arxiv.org/abs/2608.05145v2)** | 2026-08-06 | ECCV 2026, Project page: https://zisenshao.github.io/AV-MSF/ |
-| **[RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842v1)** | 2026-08-05 | This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150v1)** | 2026-08-11 | Accepted to ECCV 2026 |
+| **[Learning Gaussian Structure: Intervention-Guided Density Control for Feed-Forward Driving Reconstruction](https://arxiv.org/abs/2608.11077v1)** | 2026-08-11 |  |
+| **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v1)** | 2026-08-11 | 8 pages, accepted at IROS 2026 |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756v1)** | 2026-08-11 | 9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26) |
+| **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
+| **[TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration](https://arxiv.org/abs/2608.10286v1)** | 2026-08-10 |  |
 | **[JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659v1)** | 2026-08-09 |  |
 | **[ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints](https://arxiv.org/abs/2608.08531v1)** | 2026-08-09 | 18 pages, 12 figures |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
@@ -138,36 +148,30 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 | **[RealityBridge: Bridging Editable 3D Gaussian Splatting Driving Simulations and Real-World Videos](https://arxiv.org/abs/2606.16278v3)** | 2026-08-06 | Under submission |
 | **[G$^2$ARD-GS: Geometry-Guided Anchor-Regularized Gaussian Splatting Distillation](https://arxiv.org/abs/2608.05704v1)** | 2026-08-06 |  |
-| **[ESVR: 3D Ellipsoid-based Sparse Volume Rendering via Structure-aware Primitive Learning and Per-primitive Ray Sampling](https://arxiv.org/abs/2608.05564v1)** | 2026-08-06 | IEEE VIS 2026 accepted |
-| **[RORA: Realistic Object Reconstruction with Articulation](https://arxiv.org/abs/2608.04842v1)** | 2026-08-05 | This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
-| **[CORF-GS: Real-Time Wireless Radiance Field Reconstruction via Coupled Optical-RF Gaussian Splatting](https://arxiv.org/abs/2607.25569v2)** | 2026-08-05 | A collection of paper on 3DGS for Wireless Communications can be found at https://github.com/AI4Wireless/3DGS4Wireless |
-| **[UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models](https://arxiv.org/abs/2608.04701v1)** | 2026-08-05 | Project Homepage: https://zhouhyocean.github.io/uniworld-view/ Code: https://github.com/PKU-YuanGroup/UniWorld-View |
-| **[PD-GS: Phoneme-Driven 3DGS for Audio-Driven Talking Heads](https://arxiv.org/abs/2608.05218v1)** | 2026-08-05 | Accepted to ACM MM 2026 |
-| **[StreamSplat: Streaming Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.01659v2)** | 2026-08-05 |  |
-| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v4)** | 2026-08-04 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150v1)** | 2026-08-11 | Accepted to ECCV 2026 |
+| **[WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100v1)** | 2026-08-11 |  |
+| **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v1)** | 2026-08-11 | 8 pages, accepted at IROS 2026 |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
+| **[Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756v1)** | 2026-08-11 | 9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26) |
+| **[Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712v1)** | 2026-08-11 |  |
+| **[Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682v1)** | 2026-08-11 |  |
+| **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
+| **[CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345v1)** | 2026-08-11 | Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/ |
+| **[TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration](https://arxiv.org/abs/2608.10286v1)** | 2026-08-10 |  |
+| **[LEGO: Leveled Language Gaussian Splatting](https://arxiv.org/abs/2608.10057v1)** | 2026-08-10 | Accepted to ECCV 2026. Project page: https://pz0826.github.io/LEGO-Webpage/ |
 | **[FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis](https://arxiv.org/abs/2608.01958v2)** | 2026-08-10 | accepted by ICASSP2026 |
 | **[Uncertainty-Aware 4D Gaussian Splatting for Monocular Occluded Human Rendering](https://arxiv.org/abs/2602.06343v3)** | 2026-08-10 |  |
 | **[EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949v1)** | 2026-08-09 | Project page: https://endomd-slam.github.io/ |
 | **[JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659v1)** | 2026-08-09 |  |
-| **[EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585v1)** | 2026-08-09 |  |
-| **[ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints](https://arxiv.org/abs/2608.08531v1)** | 2026-08-09 | 18 pages, 12 figures |
-| **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937v1)** | 2026-08-08 | Accepted to the British Machine Vision Conference (BMVC) 2026. Code: https://github.com/amir-sbg/FlexSplat |
-| **[SplitGaussian: Reconstructing Dynamic Scenes via Visual Geometry Decomposition](https://arxiv.org/abs/2508.04224v2)** | 2026-08-08 | version 2. Accepted By ACM MM 2026 |
-| **[XClipGS: Exact Half-Space Clipping for Medical Volume Gaussian Splatting](https://arxiv.org/abs/2608.07760v1)** | 2026-08-07 |  |
-| **[InstanceSplat: Instance-Aware Feed-Forward 3D Gaussian Splatting for Scene Understanding](https://arxiv.org/abs/2608.07144v1)** | 2026-08-07 | Project page: https://jamchaos.github.io/InsSplat/ |
-| **[AdvTiles: Physical Adversarial Camouflage Clothing against Person Detectors via Learnable Tiles](https://arxiv.org/abs/2608.06801v1)** | 2026-08-07 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
-| **[Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization](https://arxiv.org/abs/2508.11183v2)** | 2026-08-06 | Accepted by ACM MM 2026, Rio de Janeiro, Brazil |
-| **[Confidence matters: Leveraging Multi-view Geometric Priors for GS-based Reconstruction](https://arxiv.org/abs/2608.06117v1)** | 2026-08-06 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -178,6 +182,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -188,6 +193,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -198,6 +204,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -209,6 +216,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -219,6 +227,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -229,6 +238,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -240,6 +250,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -251,6 +262,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -261,6 +273,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -271,6 +284,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -281,6 +295,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -291,6 +306,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -301,6 +317,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment](https://arxiv.org/abs/2608.02006v2)** | 2026-08-06 | We wish to withdraw this preprint because the current statistical analysis of the experimental data is incomplete and requires re-verification. We plan to submit a revised and thoroughly checked version in the near future |
@@ -312,6 +329,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949v1)** | 2026-08-09 | Project page: https://endomd-slam.github.io/ |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
@@ -324,6 +342,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -334,6 +353,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -344,6 +364,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
@@ -354,6 +375,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[Active View Selection for Scene-level Multi-view Crowd Counting and Localization with Limited Labeling Budget](https://arxiv.org/abs/2509.16684v2)** | 2026-08-06 | 15 pages, 10 figures |
@@ -367,6 +389,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[SEAR: Simple and Efficient Adaptation of Visual Geometric Transformers for Unpaired RGB+Thermal 3D Reconstruction](https://arxiv.org/abs/2603.18774v2)** | 2026-08-05 |  |
@@ -378,6 +401,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v1)** | 2026-08-11 | Accepted at ECCV 2026 |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
