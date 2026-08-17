@@ -1,11 +1,13 @@
-# Latest 15 Papers - August 17, 2026
+# Latest 15 Papers - August 18, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control](https://arxiv.org/abs/2607.02075v2)** | 2026-08-13 | Project Page: https://shad0wta9.github.io/handsonworld-page/ |
+| **[OctoSplat: Hybrid OctoMap-Gaussian Splatting for Active Semantic Mapping and Phenotyping with Horticultural Robots](https://arxiv.org/abs/2601.12122v2)** | 2026-08-14 | 23 pages, 12 figures |
+| **[HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control](https://arxiv.org/abs/2607.02075v3)** | 2026-08-14 | Project Page: https://shad0wta9.github.io/handsonworld-page/ |
+| **[SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation](https://arxiv.org/abs/2608.14138v1)** | 2026-08-14 |  |
 | **[SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://arxiv.org/abs/2607.03612v2)** | 2026-08-13 | ECCV 2026. Updated related work |
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence](https://arxiv.org/abs/2608.12743v1)** | 2026-08-13 | Under Review |
@@ -18,8 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](https://arxiv.org/abs/2510.14357v2)** | 2026-08-10 |  |
 | **[View-Adaptive Renderer for View-Consistent 2D-to-3D Generation](https://arxiv.org/abs/2608.09110v1)** | 2026-08-10 |  |
 | **[EndoMD-SLAM: Endoscopic Gaussian Splatting SLAM under Optical Degradation with Memory and Static-Transient Decomposition](https://arxiv.org/abs/2608.08949v1)** | 2026-08-09 | Project page: https://endomd-slam.github.io/ |
-| **[EvTrajGS: Accurate and Efficient 3D Gaussian Splatting from Unposed Event Streams](https://arxiv.org/abs/2608.08585v1)** | 2026-08-09 |  |
-| **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -45,6 +45,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Tracking the Flight: Exploring a Computational Framework for Analyzing Escape Responses in Plains Zebra (Equus quagga)](https://arxiv.org/abs/2505.16882v3)** | 2026-08-14 | Accepted to the CV4Animals workshop at CVPR 2025; v2: corrected Fig. 3 |
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
@@ -67,7 +68,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 | **[Neural Surface Reconstruction from Sparse Views Using Epipolar Geometry](https://arxiv.org/abs/2406.04301v5)** | 2026-08-04 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
-| **[Direct and Adaptable Mesh-Gaussian Scene Reconstruction from Multi-View Images](https://arxiv.org/abs/2405.06945v4)** | 2026-08-03 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
@@ -85,12 +85,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Floating Radiance Networks](https://arxiv.org/abs/2608.05920v1)** | 2026-08-06 |  |
 | **[Splat-Based Metal Artifact Reduction in Cone-Beam CT via Compact Attenuation Modeling](https://arxiv.org/abs/2608.04764v1)** | 2026-08-05 |  |
 | **[UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval](https://arxiv.org/abs/2608.03150v1)** | 2026-08-04 |  |
-| **[CHOW-SLAM: Compact Hybrid Representation with Complementary Overlap Window Optimization for RGB-D SLAM](https://arxiv.org/abs/2608.01914v1)** | 2026-08-03 | 33 pages, 8 figures, 6 tables |
-| **[DecoupleGS: Interactive 3D Gaussian Splatting for End-to-End Autonomous Driving Testing](https://arxiv.org/abs/2608.01761v1)** | 2026-08-03 | Accepted to ECCV 2026 |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OctoSplat: Hybrid OctoMap-Gaussian Splatting for Active Semantic Mapping and Phenotyping with Horticultural Robots](https://arxiv.org/abs/2601.12122v2)** | 2026-08-14 | 23 pages, 12 figures |
+| **[HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting](https://arxiv.org/abs/2608.14136v1)** | 2026-08-14 | 21 pages, including supplementary material. To appear in the Proceedings of the 34th ACM International Conference on Multimedia (MM '26) |
 | **[Semantic Radiance Fields as Simulators for Spatial Reasoning in Real-World Scenes](https://arxiv.org/abs/2608.13095v1)** | 2026-08-13 | Accepted at the IJCAI 2026 Workshop on Spatio-Temporal Reasoning and Learning (STRL), oral presentation |
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.12825v1)** | 2026-08-13 |  |
@@ -104,12 +104,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[CasDeblurGS: Cascaded 2D-to-3D Multi-View Consistency for 3D Gaussian Splatting from Two Blurry Images](https://arxiv.org/abs/2608.10345v1)** | 2026-08-11 | Accepted to the ECCV 2026 MUSTCV Workshop. Project page: https://haeyun-choi.github.io/Cascaded2D3D_page/ |
 | **[FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis](https://arxiv.org/abs/2608.01958v2)** | 2026-08-10 | accepted by ICASSP2026 |
 | **[AnyCamVLA: Zero-Shot Camera Adaptation for Viewpoint Robust Vision-Language-Action Models](https://arxiv.org/abs/2603.05868v2)** | 2026-08-10 | Accepted to IROS 2026 |
-| **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[FlexSplat: Flexible Feed-Forward 3D Gaussian Splatting without Point Cloud Correspondence](https://arxiv.org/abs/2608.07937v1)** | 2026-08-08 | Accepted to the British Machine Vision Conference (BMVC) 2026. Code: https://github.com/amir-sbg/FlexSplat |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OctoSplat: Hybrid OctoMap-Gaussian Splatting for Active Semantic Mapping and Phenotyping with Horticultural Robots](https://arxiv.org/abs/2601.12122v2)** | 2026-08-14 | 23 pages, 12 figures |
+| **[LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning](https://arxiv.org/abs/2602.12314v2)** | 2026-08-14 | 8 pages, 7 figures. Accepted for RA-L. Homepage: https://junwoonlee.github.io/projects/LatentAM/ Code: https://github.com/UMich-SSI-Lab/latentam |
 | **[GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502v1)** | 2026-08-13 |  |
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[HumanoidVLN: A Physics-Grounded Simulator and Benchmark for Vision-Language Navigation Across Diverse Humanoid Embodiments](https://arxiv.org/abs/2608.12860v1)** | 2026-08-13 |  |
@@ -123,12 +123,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100v1)** | 2026-08-11 |  |
 | **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v1)** | 2026-08-11 | 8 pages, accepted at IROS 2026 |
 | **[Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756v1)** | 2026-08-11 | 9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26) |
-| **[Compact Feed-Forward 3D Gaussians via Saliency-Guided Primitive Merging](https://arxiv.org/abs/2608.10712v1)** | 2026-08-11 |  |
-| **[Visual Geometry Foundation-Aware Gaussians for Single-Frame Surround-View Driving Reconstruction](https://arxiv.org/abs/2608.10682v1)** | 2026-08-11 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning](https://arxiv.org/abs/2602.12314v2)** | 2026-08-14 | 8 pages, 7 figures. Accepted for RA-L. Homepage: https://junwoonlee.github.io/projects/LatentAM/ Code: https://github.com/UMich-SSI-Lab/latentam |
 | **[GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502v1)** | 2026-08-13 |  |
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[LocusGS: Spatially Grounded Tokens for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2608.12825v1)** | 2026-08-13 |  |
@@ -143,11 +142,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Gaussian Sculpting: End-to-End Controllable Surface Reconstruction via Field Optimization](https://arxiv.org/abs/2608.10602v1)** | 2026-08-11 |  |
 | **[TRACE-GS: On-Policy Trajectory Distillation with Privileged Geometric Conditioning for Sparse-View 3DGS Restoration](https://arxiv.org/abs/2608.10286v1)** | 2026-08-10 |  |
 | **[JSGS: JPEG State-Guided Supervision for 3D Gaussian Splatting from Mixed-Quality Views](https://arxiv.org/abs/2608.08659v1)** | 2026-08-09 |  |
-| **[ERF-GS: Reconstructing Fast Motion from Disjoint Event-RGB Viewpoints](https://arxiv.org/abs/2608.08531v1)** | 2026-08-09 | 18 pages, 12 figures |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OctoSplat: Hybrid OctoMap-Gaussian Splatting for Active Semantic Mapping and Phenotyping with Horticultural Robots](https://arxiv.org/abs/2601.12122v2)** | 2026-08-14 | 23 pages, 12 figures |
+| **[LatentAM: Real-Time, Large-Scale Latent Gaussian Attention Mapping via Online Dictionary Learning](https://arxiv.org/abs/2602.12314v2)** | 2026-08-14 | 8 pages, 7 figures. Accepted for RA-L. Homepage: https://junwoonlee.github.io/projects/LatentAM/ Code: https://github.com/UMich-SSI-Lab/latentam |
+| **[HiCo-GS: Hierarchical Context Aggregation and Geometric Consistency for Octree Gaussian Splatting](https://arxiv.org/abs/2608.14136v1)** | 2026-08-14 | 21 pages, including supplementary material. To appear in the Proceedings of the 34th ACM International Conference on Multimedia (MM '26) |
+| **[Point-Cloud-Assistant Localized Statistical Channel Prediction by Tangent Gaussian Splatting](https://arxiv.org/abs/2606.18734v2)** | 2026-08-14 |  |
 | **[GS$^{2}$CI: Robust Gaussian Splatting For Snapshot Compressive Imaging via Large Vision Model Priors](https://arxiv.org/abs/2608.13502v1)** | 2026-08-13 |  |
 | **[Splat-based Metal Artifact Reduction in Cone-Beam CT via Polychromatic Modeling](https://arxiv.org/abs/2608.13159v1)** | 2026-08-13 |  |
 | **[ProbSplat: Efficient Probabilistic Hardware for Gaussian Splatting in 3D Scene Reconstruction](https://arxiv.org/abs/2608.13143v1)** | 2026-08-13 | Accepted for publication in the 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI) |
@@ -159,10 +161,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding](https://arxiv.org/abs/2608.11928v1)** | 2026-08-12 |  |
 | **[CausalSplat: Towards Comprehensive Hierarchical Reasoning in 3D Gaussian Splatting](https://arxiv.org/abs/2608.11150v2)** | 2026-08-12 | Accepted to ACM MM 2026 |
 | **[SCAR-GS: Spatial Context Attention for Residuals in Progressive Gaussian Splatting](https://arxiv.org/abs/2601.04348v2)** | 2026-08-12 |  |
-| **[BlitzGS: City-Scale Gaussian Splatting at Lightning Speed](https://arxiv.org/abs/2605.13794v2)** | 2026-08-11 |  |
-| **[WildFireGS: Physics-Based Wildfire Simulation in Large-Scale Semantics-Enriched Gaussian Splatting Forest Scenes](https://arxiv.org/abs/2608.11100v1)** | 2026-08-11 |  |
-| **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v1)** | 2026-08-11 | 8 pages, accepted at IROS 2026 |
-| **[Embodied Multimodal Grounding for Open-Vocabulary Mobile Manipulation via Semantic 3D Gaussian Splatting](https://arxiv.org/abs/2608.10756v1)** | 2026-08-11 | 9 pages, 11 figures. Accepted to ACM Multimedia 2026 (MM '26) |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
