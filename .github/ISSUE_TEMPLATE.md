@@ -1,10 +1,16 @@
-# Latest 15 Papers - August 21, 2026
+# Latest 15 Papers - August 22, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SUM-AgriVLN: Spatial Understanding Memory for Agricultural Vision-and-Language Navigation](https://arxiv.org/abs/2510.14357v3)** | 2026-08-20 |  |
+| **[Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000v1)** | 2026-08-20 |  |
+| **[Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models](https://arxiv.org/abs/2608.19556v1)** | 2026-08-20 |  |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images](https://arxiv.org/abs/2603.22531v2)** | 2026-08-19 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation](https://arxiv.org/abs/2608.18593v1)** | 2026-08-19 | Project page: https://ruiqi-nju.github.io/ReX-Shot/ |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study](https://arxiv.org/abs/2608.18028v1)** | 2026-08-18 |  |
@@ -14,16 +20,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI](https://arxiv.org/abs/2608.16725v1)** | 2026-08-17 |  |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
 | **[ALKEMIE Agent: an autonomous platform for computational materials design](https://arxiv.org/abs/2608.15776v1)** | 2026-08-16 |  |
-| **[VGGT-Align: Bridging Local Reconstruction and Global Consistency for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2608.15260v1)** | 2026-08-15 | 10 pages, 6 figures, 6 tables. ACM Multimedia 2026 (MM '26). Code: https://github.com/WZ-CS/VGGT-Align |
-| **[Robust structure from motion for aerial-ground images via detector-free feature matching and multi-view track refinement](https://arxiv.org/abs/2608.15251v1)** | 2026-08-15 |  |
-| **[OctoSplat: Hybrid OctoMap-Gaussian Splatting for Active Semantic Mapping and Phenotyping with Horticultural Robots](https://arxiv.org/abs/2601.12122v2)** | 2026-08-14 | 23 pages, 12 figures |
-| **[HandsOnWorld: Unconstrained Egocentric Video Generation with Camera-Disentangled Hand Control](https://arxiv.org/abs/2607.02075v3)** | 2026-08-14 | Project Page: https://shad0wta9.github.io/handsonworld-page/ |
-| **[SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation](https://arxiv.org/abs/2608.14138v1)** | 2026-08-14 |  |
-| **[SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://arxiv.org/abs/2607.03612v2)** | 2026-08-13 | ECCV 2026. Updated related work |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -32,11 +34,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
@@ -46,11 +49,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693v1)** | 2026-08-20 | LIMIT@ECCV 2026 |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
 | **[Initialization-Free Bundle Adjustment Revisited: A Controlled Experimental Study](https://arxiv.org/abs/2608.18028v1)** | 2026-08-18 |  |
@@ -63,11 +68,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses](https://arxiv.org/abs/2608.12935v1)** | 2026-08-13 |  |
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
-| **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[RoGS: Adaptive Meshgrid Gaussian for Large-Scale Road Surface Mapping](https://arxiv.org/abs/2607.15048v2)** | 2026-08-19 |  |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
@@ -83,6 +89,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[MetaSapiens v2: Advancing Real-Time Foveated Neural Rendering via Foveation-Aware Pruning and Stereo Warping](https://arxiv.org/abs/2608.17969v1)** | 2026-08-18 | 14 pages, 20 figures, and 2 tables |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
@@ -100,12 +108,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388v2)** | 2026-08-20 | Major errors in research |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066v1)** | 2026-08-19 |  |
 | **[ReX-Shot: Single-Image Rephotography via Geometry- and Camera-Grounded Generation](https://arxiv.org/abs/2608.18593v1)** | 2026-08-19 | Project page: https://ruiqi-nju.github.io/ReX-Shot/ |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
 | **[Effective Multi-sensor Conditioning for Street-view Novel-view Synthesis](https://arxiv.org/abs/2606.01590v2)** | 2026-08-19 |  |
-| **[Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388v1)** | 2026-08-18 |  |
 | **[QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting](https://arxiv.org/abs/2608.18285v1)** | 2026-08-18 | 9 pages, 5 figures, 3 tables |
 | **[GenRec: Knowing Where to Reconstruct and Where to Generate](https://arxiv.org/abs/2608.17832v1)** | 2026-08-18 |  |
 | **[Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682v1)** | 2026-08-18 |  |
@@ -113,12 +123,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation](https://arxiv.org/abs/2608.17298v1)** | 2026-08-18 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863v1)** | 2026-08-17 |  |
-| **[VisDom: Sparse Novel View Synthesis with Visible Domain Constraint](https://arxiv.org/abs/2606.20531v2)** | 2026-08-17 | Accepted to GCPR 2026 (Oral). Project page and code: https://tarun738.github.io/visdom/ |
-| **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models](https://arxiv.org/abs/2608.19556v1)** | 2026-08-20 |  |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[2Xplat: Decoupling Geometry and Appearance Modeling for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.21064v3)** | 2026-08-19 | Project page: https://hwasikjeong.github.io/2Xplat |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
@@ -131,13 +142,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v2)** | 2026-08-18 | 8 pages, accepted at IROS 2026 |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[Camera-Agnostic Pruning of 3D Gaussian Splats via Descriptor-Based Beta Evidence](https://arxiv.org/abs/2603.21933v2)** | 2026-08-17 | 16 pages, 3 figures, 3 tables. Accepted for publication in the Proceedings of the British Machine Vision Conference (BMVC), 2026 |
-| **[REFINE: Super-efficient 3D Gaussian Splatting Pruning via Rendering-Free Primitive Importance](https://arxiv.org/abs/2606.09074v4)** | 2026-08-17 | We corrected the results of LightGaussian and MesonGS |
-| **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
-| **[Beyond Similarity Matching: Structured Reasoning for Open-Vocabulary Referring Segmentation in 3DGS](https://arxiv.org/abs/2608.16103v1)** | 2026-08-17 | 24 pages, 5 figures |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[2Xplat: Decoupling Geometry and Appearance Modeling for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.21064v3)** | 2026-08-19 | Project page: https://hwasikjeong.github.io/2Xplat |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
@@ -151,31 +161,31 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis](https://arxiv.org/abs/2608.16863v1)** | 2026-08-17 |  |
 | **[REFINE: Super-efficient 3D Gaussian Splatting Pruning via Rendering-Free Primitive Importance](https://arxiv.org/abs/2606.09074v4)** | 2026-08-17 | We corrected the results of LightGaussian and MesonGS |
 | **[OccamView: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction](https://arxiv.org/abs/2608.16499v1)** | 2026-08-17 | 7 pages, 5 figures. Preprint |
-| **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
-| **[Beyond Similarity Matching: Structured Reasoning for Open-Vocabulary Referring Segmentation in 3DGS](https://arxiv.org/abs/2608.16103v1)** | 2026-08-17 | 24 pages, 5 figures |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[4DAnyone: Create Anyone in 4D from a Casual Monocular Video](https://arxiv.org/abs/2608.20335v1)** | 2026-08-20 | Project page: https://4danyone.github.io |
+| **[Point-Based 3D Reconstruction from Sparse Views under Known Illumination](https://arxiv.org/abs/2608.20000v1)** | 2026-08-20 |  |
+| **[Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388v2)** | 2026-08-20 | Major errors in research |
+| **[Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models](https://arxiv.org/abs/2608.19556v1)** | 2026-08-20 |  |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[GS-VLA: Plug-and-Play Viewpoint Canonicalization for Frozen VLA Policies via Gaussian Splatting](https://arxiv.org/abs/2608.19066v1)** | 2026-08-19 |  |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[2Xplat: Decoupling Geometry and Appearance Modeling for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.21064v3)** | 2026-08-19 | Project page: https://hwasikjeong.github.io/2Xplat |
 | **[CoMVS-GS: Collaborative Multi-View Stereo and 3D Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2608.18413v1)** | 2026-08-19 |  |
-| **[Depth Anything V4: Dynamic 4D Scene Reconstruction via Riemannian Flow Matching on 4D Gaussian Splatting](https://arxiv.org/abs/2608.18388v1)** | 2026-08-18 |  |
 | **[QuARC-GS: Quantized Anchored Residual Coding for Compact Dynamic Scene Streaming with Gaussian Splatting](https://arxiv.org/abs/2608.18285v1)** | 2026-08-18 | 9 pages, 5 figures, 3 tables |
 | **[GS-Voxel: Fitting-Free Structured Latents for Large-Scale 3DGS Generation](https://arxiv.org/abs/2608.17988v1)** | 2026-08-18 |  |
 | **[Differentiable Voronoi Ray Tracing Beyond Rasterization Speeds](https://arxiv.org/abs/2608.17682v1)** | 2026-08-18 |  |
 | **[GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535v1)** | 2026-08-18 |  |
 | **[NGS-Marker: Robust Native Watermarking for 3D Gaussian Splatting](https://arxiv.org/abs/2608.17447v1)** | 2026-08-18 |  |
-| **[SPVC: Structured and Panoptic Video Fixing for Cross-Dataset Driving Scene Rendering](https://arxiv.org/abs/2608.17420v1)** | 2026-08-18 | Project page: https://li00147.github.io/SPVC-Project-Page/ |
-| **[3D Gaussian Accelerated Ray Tracing: Fast training through particle-based backward propagation](https://arxiv.org/abs/2608.17298v1)** | 2026-08-18 |  |
-| **[GS-CPE: Unified 6-Degree-of-Freedom Camera Pose Estimation via 3D Gaussian Splatting](https://arxiv.org/abs/2608.10938v2)** | 2026-08-18 | 8 pages, accepted at IROS 2026 |
-| **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
-| **[VisDom: Sparse Novel View Synthesis with Visible Domain Constraint](https://arxiv.org/abs/2606.20531v2)** | 2026-08-17 | Accepted to GCPR 2026 (Oral). Project page and code: https://tarun738.github.io/visdom/ |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -185,11 +195,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -198,11 +209,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -211,11 +223,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -224,11 +237,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -237,11 +251,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -250,11 +265,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -263,11 +279,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[UrbanVGGT: Scalable Sidewalk Width Estimation from Street View Images](https://arxiv.org/abs/2603.22531v2)** | 2026-08-19 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -282,6 +300,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[GroupForward: Building Referable 3D Scenes via Instance-Grouped Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2608.17535v1)** | 2026-08-18 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
@@ -291,11 +311,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -304,11 +325,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -317,11 +339,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -330,11 +353,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -343,11 +367,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -356,11 +381,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -375,6 +401,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -383,11 +411,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -396,11 +425,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -409,11 +439,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -422,11 +453,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -435,11 +467,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
 
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CarBench: A Comprehensive Benchmark for Neural Surrogates on High-Fidelity 3D Car Aerodynamics](https://arxiv.org/abs/2512.07847v2)** | 2026-08-20 |  |
+| **[ABEAT: Efficient and Anonymous Encryption for ABE-based Dynamic Group Communication](https://arxiv.org/abs/2608.19302v1)** | 2026-08-19 | 19 pages, 22 figures. Full version of the ICNP 2026 accepted paper with same name |
 | **[Optimal Deterministic Fully Sparse Matrix Multiplication](https://arxiv.org/abs/2608.18496v1)** | 2026-08-19 |  |
 | **[Completing the Boundary Case of the Mahmoodian-Mirzakhani Conjecture and 117 New Computational 5-Cycle Decompositions of Complete Tripartite Graphs](https://arxiv.org/abs/2608.17227v1)** | 2026-08-18 | 15 pages; for associated data files, see https://doi.org/10.5281/zenodo.21882725 |
 | **[RETO: A Rotary-Enhanced Transformer Operator for High-Fidelity Prediction of Automotive Aerodynamics](https://arxiv.org/abs/2605.00062v3)** | 2026-08-17 |  |
@@ -448,4 +481,3 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond Fixed Luminance: Towards Panchromatic and Orthochromatic Image Colorization](https://arxiv.org/abs/2608.10798v2)** | 2026-08-12 | Accepted at ECCV 2026 |
 | **[Calibration Bets on the Past: Post-Training Quantization for Financial Time-Series Forecasting](https://arxiv.org/abs/2608.12259v1)** | 2026-08-12 |  |
 | **[Proper $\{a,b\}$-edge-weightings of trees](https://arxiv.org/abs/2608.08438v1)** | 2026-08-09 |  |
-| **[A Near-Optimal Lower Bound for Prefix-Matrix Factorizations](https://arxiv.org/abs/2608.08238v1)** | 2026-08-06 |  |
