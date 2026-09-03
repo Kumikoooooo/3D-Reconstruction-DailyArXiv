@@ -1,10 +1,15 @@
-# Latest 15 Papers - September 03, 2026
+# Latest 15 Papers - September 04, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MV-dVRK: A Multi-Viewpoint Benchmark for Spatial Surgical Perception](https://arxiv.org/abs/2609.02717v1)** | 2026-09-02 |  |
+| **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705v2)** | 2026-09-02 | Need to improve the writing |
+| **[Wound3DAssist: A Practical Framework for 3D Wound Assessment](https://arxiv.org/abs/2508.17635v2)** | 2026-09-02 |  |
+| **[Automated Maize Ear Phenotyping Using 3D Reconstructions](https://arxiv.org/abs/2609.01921v1)** | 2026-09-01 |  |
+| **[Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction](https://arxiv.org/abs/2604.21960v3)** | 2026-09-01 |  |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
 | **[Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172v1)** | 2026-09-01 | Accepted by Computational Visual Media Journal (CVMJ) |
@@ -15,11 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Ov3R: Open-Vocabulary Semantic 3D Reconstruction from RGB Videos](https://arxiv.org/abs/2507.22052v3)** | 2026-08-31 |  |
 | **[Conditional Diffusion for 3D CT Volume Reconstruction from 2D X-rays](https://arxiv.org/abs/2603.26509v2)** | 2026-08-31 | Accepted at BMVC 2026 |
 | **[CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](https://arxiv.org/abs/2509.04859v4)** | 2026-08-31 |  |
-| **[Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction](https://arxiv.org/abs/2605.26616v2)** | 2026-08-31 | 27 pages, 14 figures |
-| **[GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping](https://arxiv.org/abs/2608.28288v2)** | 2026-08-31 |  |
-| **[Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles](https://arxiv.org/abs/2509.12458v3)** | 2026-08-30 | 14 pages, 18 figures, 4 tables, 44 references |
-| **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705v1)** | 2026-08-30 |  |
-| **[GeoRay: Gauge-Aware Feed-Forward Satellite 3D Reconstruction in the Geodetic Frame](https://arxiv.org/abs/2608.29680v1)** | 2026-08-30 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -66,11 +66,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
 | **[Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials](https://arxiv.org/abs/2608.23874v1)** | 2026-08-24 |  |
 | **[FixAnything: 3D-Consistent Rendering Refinement via Video Generative Priors](https://arxiv.org/abs/2608.23549v1)** | 2026-08-24 | Appearing in ECCV 2026. Project page: https://fix-anything.github.io |
-| **[Geometry-Driven Opti-Acoustic Co-Registration and View-Invariant Reflectivity Mapping for Side-Scan Sonar](https://arxiv.org/abs/2608.23479v1)** | 2026-08-24 |  |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Wound3DAssist: A Practical Framework for 3D Wound Assessment](https://arxiv.org/abs/2508.17635v2)** | 2026-09-02 |  |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction](https://arxiv.org/abs/2605.26616v2)** | 2026-08-31 | 27 pages, 14 figures |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
@@ -84,7 +84,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Sharp Minimax Regret for Infinite-Memory Logistic Prediction](https://arxiv.org/abs/2608.26515v1)** | 2026-08-27 |  |
 | **[NeuDonatello: Uncertainty-Aware Framework for Accurate Neural SDF Learning](https://arxiv.org/abs/2608.26504v1)** | 2026-08-27 | Accepted to BMVC 2026 |
 | **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
-| **[Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials](https://arxiv.org/abs/2608.23874v1)** | 2026-08-24 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
@@ -101,11 +100,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles](https://arxiv.org/abs/2602.15355v6)** | 2026-08-26 | 16 pages, 7 figures |
 | **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
 | **[Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials](https://arxiv.org/abs/2608.23874v1)** | 2026-08-24 |  |
-| **[HandSplatter: Automated Digital Goniometry from Neural Rendering](https://arxiv.org/abs/2608.09735v2)** | 2026-08-24 | Accepted for publication in the Proceedings of the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2026), Full Paper #1985 |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/abs/2609.02847v1)** | 2026-09-02 |  |
+| **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.00994v1)** | 2026-09-01 | Accepted by Pacific Graphics 2026 (journal track) |
 | **[NanoGS: Training-Free Gaussian Splat Simplification](https://arxiv.org/abs/2603.16103v3)** | 2026-09-01 | ECCV 2026 |
@@ -119,12 +119,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting](https://arxiv.org/abs/2607.15542v2)** | 2026-08-31 | 5 pages, 4 figures. Technical Report. This introduces ImprovedVBGS, accelerated continual learning for 3D Gaussian Splatting based Reconstruction. Code available at [https://github.com/damanimc/ImprovedVBGS](https://github.com/damanimc/ImprovedVBGS) |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
 | **[As-Rigid-As-Possible Deformation of Gaussian Radiance Fields](https://arxiv.org/abs/2608.29538v1)** | 2026-08-30 |  |
-| **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
-| **[Dynamic-Robust Photometric-Semantic Reconstruction for Open-Vocabulary 3D Scene Understanding](https://arxiv.org/abs/2608.29177v1)** | 2026-08-29 | Accepted to the European Conference on Computer Vision (ECCV) 2026 |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
+| **[Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR](https://arxiv.org/abs/2609.02352v1)** | 2026-09-02 |  |
+| **[PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259v2)** | 2026-09-01 | 12 pages, 6 figures |
+| **[VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls](https://arxiv.org/abs/2609.01698v1)** | 2026-09-01 |  |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
 | **[DReSG: Diffusion Residuals for Stylized Gaussian Splatting](https://arxiv.org/abs/2608.29048v2)** | 2026-09-01 | Accepted to Pacific Graphics 2026 (Conference Track) |
@@ -136,14 +138,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling](https://arxiv.org/abs/2601.15897v3)** | 2026-08-31 |  |
 | **[CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels](https://arxiv.org/abs/2608.30342v1)** | 2026-08-31 | Accepted at ECCV 2026 |
 | **[Gaussian-Voxel Duet: A Dual-Scaffolding Hybrid Representation for Fast and Accurate Monocular Surface Reconstruction](https://arxiv.org/abs/2605.26616v2)** | 2026-08-31 | 27 pages, 14 figures |
-| **[ImprovedVBGS: Real-time Continual Variational Bayes Gaussian Splatting](https://arxiv.org/abs/2607.15542v2)** | 2026-08-31 | 5 pages, 4 figures. Technical Report. This introduces ImprovedVBGS, accelerated continual learning for 3D Gaussian Splatting based Reconstruction. Code available at [https://github.com/damanimc/ImprovedVBGS](https://github.com/damanimc/ImprovedVBGS) |
-| **[When 3D Gaussian Splatting Recovers Real Surfaces](https://arxiv.org/abs/2608.30054v1)** | 2026-08-30 | Accepted at ECCV 2026. 30 pages, 3 figures, 1 table; includes supplementary material |
-| **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
-| **[As-Rigid-As-Possible Deformation of Gaussian Radiance Fields](https://arxiv.org/abs/2608.29538v1)** | 2026-08-30 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
+| **[Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR](https://arxiv.org/abs/2609.02352v1)** | 2026-09-02 |  |
+| **[PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259v2)** | 2026-09-01 | 12 pages, 6 figures |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
 | **[DReSG: Diffusion Residuals for Stylized Gaussian Splatting](https://arxiv.org/abs/2608.29048v2)** | 2026-09-01 | Accepted to Pacific Graphics 2026 (Conference Track) |
@@ -156,13 +157,16 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels](https://arxiv.org/abs/2608.30342v1)** | 2026-08-31 | Accepted at ECCV 2026 |
 | **[When 3D Gaussian Splatting Recovers Real Surfaces](https://arxiv.org/abs/2608.30054v1)** | 2026-08-30 | Accepted at ECCV 2026. 30 pages, 3 figures, 1 table; includes supplementary material |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
-| **[OccamView: Object-Conditioned View Selection for Frame-Budgeted Active 3D Gaussian Reconstruction](https://arxiv.org/abs/2608.16499v2)** | 2026-08-30 | 10 pages, 5 figures |
-| **[As-Rigid-As-Possible Deformation of Gaussian Radiance Fields](https://arxiv.org/abs/2608.29538v1)** | 2026-08-30 |  |
-| **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling](https://arxiv.org/abs/2609.02747v1)** | 2026-09-02 |  |
+| **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
+| **[Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR](https://arxiv.org/abs/2609.02352v1)** | 2026-09-02 |  |
+| **[CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.02184v1)** | 2026-09-02 | 16 pages, 8 figures, and 9 tables. Published in IEEE Transactions on Visualization and Computer Graphics. Code is available at https://github.com/KyungdaePark/CC-4DGS |
+| **[PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259v2)** | 2026-09-01 | 12 pages, 6 figures |
+| **[VirSqueezer: Generating Realistic Deformations and Squeezing Dynamics in VR from Fine-Grained Squeezing Controls](https://arxiv.org/abs/2609.01698v1)** | 2026-09-01 |  |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
 | **[DReSG: Diffusion Residuals for Stylized Gaussian Splatting](https://arxiv.org/abs/2608.29048v2)** | 2026-09-01 | Accepted to Pacific Graphics 2026 (Conference Track) |
@@ -172,12 +176,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting](https://arxiv.org/abs/2608.31159v1)** | 2026-08-31 | 58 pages, 10 figures, 4 tables |
 | **[SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023v1)** | 2026-08-31 | ECCV 2026 |
-| **[VCAR: Training-Free 3DGS Segmentation via View Completeness and Axis-Aware Boundary Refinement](https://arxiv.org/abs/2608.30870v1)** | 2026-08-31 | Accepted to the 34th ACM International Conference on Multimedia (MM '26). 16 pages, 11 figures, including supplementary material |
-| **[CoRe-GS: Coarse-to-Refined Gaussian Splatting with Semantic Object Focus](https://arxiv.org/abs/2509.04859v4)** | 2026-08-31 |  |
-| **[MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors](https://arxiv.org/abs/2406.00434v4)** | 2026-08-31 | Accepted as a poster at ICLR. Project page: https://modgs.github.io |
-| **[Posterior Variance Is a Constraint Map, Not an Error Map: Closed-Form Uncertainty for Radiative Gaussian Splatting in Sparse-View CT](https://arxiv.org/abs/2607.13682v3)** | 2026-08-31 | v2: substantially revised and condensed; 31 pages total, 9 figures |
-| **[ThermoSplat: Cross-Modal 3D Gaussian Splatting with Feature Modulation and Geometry Decoupling](https://arxiv.org/abs/2601.15897v3)** | 2026-08-31 |  |
-| **[CapFrame: Text-Instructed Viewpoint Grounding in 3D Gaussian Scenes via Geometric Pseudo Labels](https://arxiv.org/abs/2608.30342v1)** | 2026-08-31 | Accepted at ECCV 2026 |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -221,6 +219,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Full-Model Optimality for Tunable Linear Generative Priors in Compressed Sensing](https://arxiv.org/abs/2609.02790v1)** | 2026-09-02 | 32 pages 3 figures |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
 | **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
@@ -273,10 +272,10 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705v2)** | 2026-09-02 | Need to improve the writing |
 | **[On-the-Fly3R: Towards Robust Online 3D Reconstruction with Feed-Forward 3R Models for Large-Scale UAV Scenarios](https://arxiv.org/abs/2609.00923v1)** | 2026-09-01 | This paper was submitted to the ICRA 2027 for consideration. Copyright would be transferred if it got accepted |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[GeoFF3D: Coordinate-Anchored Feed-Forward Reconstruction for Large-Scale UAV Mapping](https://arxiv.org/abs/2608.28288v2)** | 2026-08-31 |  |
-| **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705v1)** | 2026-08-30 |  |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
 | **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
 | **[Pixel-wise Geo-registration of Drone and Satellite Images](https://arxiv.org/abs/2608.28891v1)** | 2026-08-28 |  |
@@ -332,6 +331,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InceptionGS: Generative Bootstrapping for Large-Scale Gaussian Splatting under Unstructured View Sampling](https://arxiv.org/abs/2609.02747v1)** | 2026-09-02 |  |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
 | **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
@@ -358,6 +358,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CC-4DGS: Computational Deformation and Point-Cloud Compression for Storage-Efficient Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.02184v1)** | 2026-09-02 | 16 pages, 8 figures, and 9 tables. Published in IEEE Transactions on Visualization and Computer Graphics. Code is available at https://github.com/KyungdaePark/CC-4DGS |
 | **[EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.00994v1)** | 2026-09-01 | Accepted by Pacific Graphics 2026 (journal track) |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 | **[SMG: Semantic Motion Graph for Monocular Dynamic Gaussian Splatting](https://arxiv.org/abs/2608.31023v1)** | 2026-08-31 | ECCV 2026 |
@@ -384,7 +385,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Sharp Minimax Regret for Infinite-Memory Logistic Prediction](https://arxiv.org/abs/2608.26515v1)** | 2026-08-27 |  |
 | **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
 | **[Differential Learning for Robust Prediction of Thermal Stability with Application to Energetic Materials](https://arxiv.org/abs/2608.23874v1)** | 2026-08-24 |  |
-| **[AquaFlow: A Monocular Gaussian Splatting SLAM for Underwater Streaming Reconstruction](https://arxiv.org/abs/2608.22906v1)** | 2026-08-24 | Preprint |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
