@@ -1,10 +1,14 @@
-# Latest 15 Papers - September 07, 2026
+# Latest 15 Papers - September 08, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210v1)** | 2026-09-04 | ECCV'26 |
+| **[Learning Spherical Occupancy Profiles for Multi-View 3D Reconstruction and Generation](https://arxiv.org/abs/2608.23206v3)** | 2026-09-04 | 15 pages, 3 figures, 9 tables. Code and weights: https://github.com/102324988/LSOP_code_release |
+| **[HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718v1)** | 2026-09-04 |  |
+| **[E-RGB-D: Real-Time Event-Based Perception with Structured Light](https://arxiv.org/abs/2512.18429v2)** | 2026-09-03 | v2: Publication note and links to the peer-reviewed Version of Record and Springer Nature SharedIt full text added. Manuscript content is unchanged from arXiv v1. This preprint predates peer-review revisions |
 | **[Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction](https://arxiv.org/abs/2609.04201v1)** | 2026-09-03 | ECCV 2026. Project page: https://linjohnss.github.io/scal3r/ |
 | **[Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations](https://arxiv.org/abs/2609.04174v1)** | 2026-09-03 | Accepted to the European Conference on Computer Vision (ECCV) 2026. Project page: https://akola-mbey-denis.github.io/Z3D-page/ |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
@@ -16,10 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2608.29705v2)** | 2026-09-02 | Need to improve the writing |
 | **[Wound3DAssist: A Practical Framework for 3D Wound Assessment](https://arxiv.org/abs/2508.17635v2)** | 2026-09-02 |  |
 | **[Automated Maize Ear Phenotyping Using 3D Reconstructions](https://arxiv.org/abs/2609.01921v1)** | 2026-09-01 |  |
-| **[Conditional Diffusion Posterior Alignment for Sparse-View CT Reconstruction](https://arxiv.org/abs/2604.21960v3)** | 2026-09-01 |  |
-| **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
-| **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
-| **[Monocular Depth Estimation from a Single Image: Progress and Opportunities](https://arxiv.org/abs/2609.01172v1)** | 2026-09-01 | Accepted by Computational Visual Media Journal (CVMJ) |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -55,11 +55,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[XDG: Accelerated Visual Disambiguation](https://arxiv.org/abs/2608.29733v2)** | 2026-09-04 |  |
+| **[BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210v1)** | 2026-09-04 | ECCV'26 |
+| **[HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718v1)** | 2026-09-04 |  |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
 | **[Entropy-Generated Attention Beyond Softmax and Entmax: Kaniadakis and Reciprocal-Symmetric Abe Operators](https://arxiv.org/abs/2602.08216v3)** | 2026-09-03 | 10 pages and 1 figure. Substantially revised and expanded version. The previous numerical study has been removed, and the manuscript now develops a generalized entropy-to-attention framework,including Kaniadakis and reciprocal-symmetric Abe operators, Rényi and Sharma-Mittal projections, and a tangent-gradient criterion for operator equivalence. Title changed |
 | **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
-| **[XDG: Accelerated Visual Disambiguation](https://arxiv.org/abs/2608.29733v1)** | 2026-08-30 |  |
 | **[Neural 3D Object Reconstruction with Small-Scale Unmanned Aerial Vehicles](https://arxiv.org/abs/2509.12458v3)** | 2026-08-30 | 14 pages, 18 figures, 4 tables, 44 references |
 | **[Finite-Monoid Compression in Syntactic Concept Lattices: Arity Hierarchies and a Pseudovariety Trichotomy](https://arxiv.org/abs/2608.29639v1)** | 2026-08-30 | 43 pages, 2 tables |
 | **[Proof of a Conjecture of De Cock and De Moor](https://arxiv.org/abs/2608.29479v1)** | 2026-08-30 |  |
@@ -68,8 +70,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/abs/2504.05216v5)** | 2026-08-27 | Accepted to CIKM 2026 |
 | **[Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research](https://arxiv.org/abs/2608.26753v1)** | 2026-08-27 | 20pages, 5 figures, code link: https://github.com/Flavorfish/AutoRepro |
 | **[Sharp Minimax Regret for Infinite-Memory Logistic Prediction](https://arxiv.org/abs/2608.26515v1)** | 2026-08-27 |  |
-| **[Gaussian Splatting Underwater: A Controlled Cross-Regime Study](https://arxiv.org/abs/2608.25483v1)** | 2026-08-26 |  |
-| **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
@@ -112,6 +112,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Reflection-aware Generative Novel View Synthesis](https://arxiv.org/abs/2609.05382v1)** | 2026-09-04 | ECCV2026, Project page: https://kim-geonu.github.io/Ref-GeNVS/ |
+| **[RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/abs/2609.02847v2)** | 2026-09-04 |  |
 | **[Quantum Implicit Neural Representations for Novel View Synthesis](https://arxiv.org/abs/2601.05250v2)** | 2026-09-03 | 30 pages, 15 figures, 12 tables; project page: https://4dqv.mpi-inf.mpg.de/3D-QISR/ |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
@@ -121,16 +123,18 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534v1)** | 2026-09-03 | Accepted at Pacific Graphics 2026 |
 | **[Entropy-Generated Attention Beyond Softmax and Entmax: Kaniadakis and Reciprocal-Symmetric Abe Operators](https://arxiv.org/abs/2602.08216v3)** | 2026-09-03 | 10 pages and 1 figure. Substantially revised and expanded version. The previous numerical study has been removed, and the manuscript now develops a generalized entropy-to-attention framework,including Kaniadakis and reciprocal-symmetric Abe operators, Rényi and Sharma-Mittal projections, and a tangent-gradient criterion for operator equivalence. Title changed |
 | **[ReCoSplat: Online Feed-Forward Gaussian Splatting via Render-and-Compare](https://arxiv.org/abs/2603.09968v2)** | 2026-09-02 | v2: Corrected OF3GS evaluation results after fixing an implementation bug, added baseline evaluations, updated efficiency benchmarks following a codebase refactor, and added code and pretrained model release links |
-| **[RoGe: Novel View Synthesis via End-to-End Implicit Reconstruction and Generation](https://arxiv.org/abs/2609.02847v1)** | 2026-09-02 |  |
 | **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
 | **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
 | **[EvoGS: Modeling Deformation Evolution for Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.00994v1)** | 2026-09-01 | Accepted by Pacific Graphics 2026 (journal track) |
 | **[NanoGS: Training-Free Gaussian Splat Simplification](https://arxiv.org/abs/2603.16103v3)** | 2026-09-01 | ECCV 2026 |
-| **[Observer-robust energy condition verification for warp drive spacetimes](https://arxiv.org/abs/2602.18023v5)** | 2026-09-01 | 46 pages, 6 figures, 18 tables |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compact Neural Appearance Models for Efficient Gaussian Splatting](https://arxiv.org/abs/2609.05255v1)** | 2026-09-04 | Project page: https://fhahlbohm.github.io/efficient-gaussian-appearance |
+| **[GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation](https://arxiv.org/abs/2609.05127v1)** | 2026-09-04 |  |
+| **[NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions](https://arxiv.org/abs/2609.04602v1)** | 2026-09-04 |  |
+| **[Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models](https://arxiv.org/abs/2609.04381v1)** | 2026-09-03 | 19 pages, 11 figures, 5 tables |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931v1)** | 2026-09-03 | Accepted at ECCVV 2026 |
 | **[Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing](https://arxiv.org/abs/2609.03897v1)** | 2026-09-03 | 11 pages, 9 figures |
@@ -142,14 +146,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534v1)** | 2026-09-03 | Accepted at Pacific Graphics 2026 |
 | **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v2)** | 2026-09-03 | Preprint |
 | **[STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction](https://arxiv.org/abs/2609.03447v1)** | 2026-09-03 |  |
-| **[Entropy-Generated Attention Beyond Softmax and Entmax: Kaniadakis and Reciprocal-Symmetric Abe Operators](https://arxiv.org/abs/2602.08216v3)** | 2026-09-03 | 10 pages and 1 figure. Substantially revised and expanded version. The previous numerical study has been removed, and the manuscript now develops a generalized entropy-to-attention framework,including Kaniadakis and reciprocal-symmetric Abe operators, Rényi and Sharma-Mittal projections, and a tangent-gradient criterion for operator equivalence. Title changed |
-| **[PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://arxiv.org/abs/2609.03341v1)** | 2026-09-03 | Accepted to ECCV 2026. Project page: https://zvict.github.io/pointgt/ |
-| **[Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training](https://arxiv.org/abs/2609.03334v1)** | 2026-09-03 | Accepted to Pacific Graphics 2026 (conference track). Project page: https://sorenzhang574.github.io/Laplacian-GS/ |
-| **[AnyGS2Mesh: Feed-Forward Mesh Reconstruction from 3D Gaussian Splatting with Arbitrary-Resolution Views](https://arxiv.org/abs/2609.03304v1)** | 2026-09-03 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[WorldSculpt: Generating Compositional Worlds from Grounded Videos](https://arxiv.org/abs/2609.05416v1)** | 2026-09-04 | Homepage: https://alaya-lab.github.io/WorldSculpt/; Github: https://github.com/AlayaLab/WorldSculpt |
+| **[NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions](https://arxiv.org/abs/2609.04602v1)** | 2026-09-04 |  |
+| **[Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models](https://arxiv.org/abs/2609.04381v1)** | 2026-09-03 | 19 pages, 11 figures, 5 tables |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing](https://arxiv.org/abs/2609.03897v1)** | 2026-09-03 | 11 pages, 9 figures |
 | **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
@@ -162,13 +165,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[LightBridge: Feed-Forward Generative Relighting for 3D Gaussian Splatting](https://arxiv.org/abs/2609.02543v1)** | 2026-09-02 | 14pages, 8figures |
 | **[Atlas: Algorithm-Hardware Co-Design for On-Device City-Scale 3D Gaussian Splatting in VR](https://arxiv.org/abs/2609.02352v1)** | 2026-09-02 |  |
 | **[PointGauss: Point Cloud-Guided Multi-Object Segmentation for Gaussian Splatting](https://arxiv.org/abs/2508.00259v2)** | 2026-09-01 | 12 pages, 6 figures |
-| **[DualDiff3D: Dual Structure-Appearance Diffusion Priors for Reliability-Enhanced 3D Gaussian Splatting](https://arxiv.org/abs/2609.01516v1)** | 2026-09-01 |  |
-| **[X-SG$^2$S: Safe and Generalizable Gaussian Splatting with X-dimensional Watermarks](https://arxiv.org/abs/2502.10475v3)** | 2026-09-01 |  |
-| **[DReSG: Diffusion Residuals for Stylized Gaussian Splatting](https://arxiv.org/abs/2608.29048v2)** | 2026-09-01 | Accepted to Pacific Graphics 2026 (Conference Track) |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compact Neural Appearance Models for Efficient Gaussian Splatting](https://arxiv.org/abs/2609.05255v1)** | 2026-09-04 | Project page: https://fhahlbohm.github.io/efficient-gaussian-appearance |
+| **[GradRig: Differentiable Weights for Skinned Gaussian Splat Deformation](https://arxiv.org/abs/2609.05127v1)** | 2026-09-04 |  |
+| **[ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment](https://arxiv.org/abs/2608.02006v3)** | 2026-09-04 | We wish to withdraw this preprint because the current statistical analysis of the experimental data is incomplete and requires re-verification. We plan to submit a revised and thoroughly checked version in the near future |
+| **[NavArena: Automated Construction of Goal-Oriented Navigation Benchmarks from 3D Gaussian Splatting Reconstructions](https://arxiv.org/abs/2609.04602v1)** | 2026-09-04 |  |
+| **[Where Appearance Fails, Geometry Recognizes: A CAD-Free 3D Shape Prior That Complements Vision Foundation Models](https://arxiv.org/abs/2609.04381v1)** | 2026-09-03 | 19 pages, 11 figures, 5 tables |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Sparse auto-regressive modeling for scene generation from multi-view images](https://arxiv.org/abs/2609.03931v1)** | 2026-09-03 | Accepted at ECCVV 2026 |
 | **[Reparametrizing 3D Gaussian Splatting for Real-Time Palette-based Color and Luminance Editing](https://arxiv.org/abs/2609.03897v1)** | 2026-09-03 | 11 pages, 9 figures |
@@ -179,11 +184,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Camera Splatting for Continuous View Optimization](https://arxiv.org/abs/2509.15677v2)** | 2026-09-03 | 12 pages, Computer Graphics Forum (Proc. Pacific Graphics 2026) |
 | **[TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534v1)** | 2026-09-03 | Accepted at Pacific Graphics 2026 |
 | **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v2)** | 2026-09-03 | Preprint |
-| **[STARS-GS: Structure-Aware Regularized Gaussian Splatting for Large-Scale Aerial Surface Reconstruction](https://arxiv.org/abs/2609.03447v1)** | 2026-09-03 |  |
-| **[Entropy-Generated Attention Beyond Softmax and Entmax: Kaniadakis and Reciprocal-Symmetric Abe Operators](https://arxiv.org/abs/2602.08216v3)** | 2026-09-03 | 10 pages and 1 figure. Substantially revised and expanded version. The previous numerical study has been removed, and the manuscript now develops a generalized entropy-to-attention framework,including Kaniadakis and reciprocal-symmetric Abe operators, Rényi and Sharma-Mittal projections, and a tangent-gradient criterion for operator equivalence. Title changed |
-| **[PointGT: Simultaneous Geometry and Texture Editing for Point-Based Representations](https://arxiv.org/abs/2609.03341v1)** | 2026-09-03 | Accepted to ECCV 2026. Project page: https://zvict.github.io/pointgt/ |
-| **[Laplacian Frequency Hierarchies for Efficient 3D Gaussian Splatting Training](https://arxiv.org/abs/2609.03334v1)** | 2026-09-03 | Accepted to Pacific Graphics 2026 (conference track). Project page: https://sorenzhang574.github.io/Laplacian-GS/ |
-| **[DIAL-GS: Dynamic Instance Aware Reconstruction for Label-free Street Scenes with 4D Gaussian Splatting](https://arxiv.org/abs/2511.06632v2)** | 2026-09-03 | ICRA2026 |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -294,6 +294,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular Priors](https://arxiv.org/abs/2609.05210v1)** | 2026-09-04 | ECCV'26 |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
 | **[Entropy-Generated Attention Beyond Softmax and Entmax: Kaniadakis and Reciprocal-Symmetric Abe Operators](https://arxiv.org/abs/2602.08216v3)** | 2026-09-03 | 10 pages and 1 figure. Substantially revised and expanded version. The previous numerical study has been removed, and the manuscript now develops a generalized entropy-to-attention framework,including Kaniadakis and reciprocal-symmetric Abe operators, Rényi and Sharma-Mittal projections, and a tangent-gradient criterion for operator equivalence. Title changed |
@@ -308,7 +309,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/abs/2504.05216v5)** | 2026-08-27 | Accepted to CIKM 2026 |
 | **[Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research](https://arxiv.org/abs/2608.26753v1)** | 2026-08-27 | 20pages, 5 figures, code link: https://github.com/Flavorfish/AutoRepro |
 | **[Sharp Minimax Regret for Infinite-Memory Logistic Prediction](https://arxiv.org/abs/2608.26515v1)** | 2026-08-27 |  |
-| **[A meta-algorithm for ab initio reconstruction of complex mixtures in cryo-EM](https://arxiv.org/abs/2608.25388v1)** | 2026-08-26 | 26 pages, 16 figures |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
@@ -392,6 +392,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ASTRA: Asynchronous Spatio-Temporal Reconstruction via Trajectory Alignment](https://arxiv.org/abs/2608.02006v3)** | 2026-09-04 | We wish to withdraw this preprint because the current statistical analysis of the experimental data is incomplete and requires re-verification. We plan to submit a revised and thoroughly checked version in the near future |
 | **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
 | **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
 | **[TruncGradGS: Improved 3D Gaussian Splatting via Truncated Gradient Updates](https://arxiv.org/abs/2609.03534v1)** | 2026-09-03 | Accepted at Pacific Graphics 2026 |
@@ -406,7 +407,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Ab initio Modeling of MoS2/Oxide Device Interfaces with Machine Learned Electronic Structures](https://arxiv.org/abs/2608.27533v1)** | 2026-08-27 |  |
 | **[Unleashing the Power of LLMs in Dense Retrieval with Query Likelihood Modeling](https://arxiv.org/abs/2504.05216v5)** | 2026-08-27 | Accepted to CIKM 2026 |
 | **[Beyond Execution: Auditing Experimental Fidelity in LLM-Driven Scientific Research](https://arxiv.org/abs/2608.26753v1)** | 2026-08-27 | 20pages, 5 figures, code link: https://github.com/Flavorfish/AutoRepro |
-| **[Sharp Minimax Regret for Infinite-Memory Logistic Prediction](https://arxiv.org/abs/2608.26515v1)** | 2026-08-27 |  |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
