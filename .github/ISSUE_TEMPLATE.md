@@ -1,592 +1,491 @@
-# Latest 15 Papers - September 16, 2026
+# Latest 15 Papers - September 29, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[SurfSLAM: Sim-to-Real Underwater Stereo Reconstruction For Real-Time SLAM](https://arxiv.org/abs/2601.10814v3)** | 2026-09-14 | 21 pages, 9 figures |
-| **[Multi-Stage NeRF for Efficient 3D Coronary Artery Reconstruction from Two Narrow-Angle Angiographic Projections](https://arxiv.org/abs/2609.15550v1)** | 2026-09-14 | 11 pages, 2 figures |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[Closed-form Bayesian homography estimation from noisy point correspondences](https://arxiv.org/abs/2609.15227v1)** | 2026-09-14 |  |
-| **[HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718v2)** | 2026-09-14 |  |
-| **[LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration](https://arxiv.org/abs/2609.15098v1)** | 2026-09-14 | 30 pages, 4 figures |
-| **[Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping](https://arxiv.org/abs/2606.05035v2)** | 2026-09-14 |  |
-| **[G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity](https://arxiv.org/abs/2609.15018v1)** | 2026-09-14 | 26 pages, 13 figures, 14 tables. Supplementary material included in the appendix. Project page: https://g-ray-project.github.io/ |
-| **[OCH3R: Object-Centric Holistic 3D Reconstruction](https://arxiv.org/abs/2605.13018v2)** | 2026-09-14 | Added acknowledgment and citation for the Stanford Marlowe computing cluster |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[DreamSat-Bench: Development and Initial Testing of a Testbed for AI-Based Pose Estimation from 3D Reconstruction](https://arxiv.org/abs/2609.14183v1)** | 2026-09-12 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://arxiv.org/abs/2609.13991v1)** | 2026-09-12 | European Conference on Computer Vision -- ECCV 2026 |
-| **[RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction](https://arxiv.org/abs/2609.13504v1)** | 2026-09-11 |  |
+| **[RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects](https://arxiv.org/abs/2505.05848v3)** | 2026-09-25 | Code: https://github.com/YueYin27/refref, Project page: https://yueyin27.github.io/refref-page/ |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640v3)** | 2026-09-25 | 15 pages, 12 figures, 5 tables |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[DreamSat-Pose: Spacecraft Pose Estimation from Single-View 3D Reconstructions and Learned 2D-3D Feature Matching](https://arxiv.org/abs/2607.13449v2)** | 2026-09-24 |  |
+| **[OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985v1)** | 2026-09-24 | SIGGRAPH ASIA 2026 |
+| **[Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI](https://arxiv.org/abs/2609.29825v1)** | 2026-09-24 | 12 |
+| **[Markerless Multi-Modal Autonomous Robotic Inspection of Large Space Structures](https://arxiv.org/abs/2609.29644v1)** | 2026-09-24 | 7 pages, 5 figures, accepted conference paper |
+| **[WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration](https://arxiv.org/abs/2601.19753v2)** | 2026-09-24 |  |
+| **[Deep Learning-based 3D Oral Cavity Reconstruction Using 2D Intraoral Images](https://arxiv.org/abs/2606.05998v2)** | 2026-09-24 | 7 pages, 5 figures. English version of a paper presented at the Korea Multimedia Society Conference, November 2025. v2: single-column format |
+| **[Synthetic Enclosed Echoes: A New Dataset to Mitigate the Gap Between Simulated and Real-World Sonar Data](https://arxiv.org/abs/2505.15465v2)** | 2026-09-23 | This paper has been accepted for publication in the Proceedings of the 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2026) |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[SatUnreal: A High-Precision Synthetic Dataset for Satellite Stereo Matching via Unreal Engine](https://arxiv.org/abs/2609.27442v1)** | 2026-09-23 | Accepted at CVPR 2026 Workshop on EarthVision (CVPRW 2026), pp. 7990-7999. Code and dataset: https://github.com/jmp-Telepix/SatUnreal_A_High-Precision_Synthetic_Dataset_for_Satellite_Stereo_Matching_via_UnrealEngine Supplementary material: https://openaccess.thecvf.com/content/CVPR2026W/EarthVision/supplemental/Kim_SatUnreal_A_High-Precision_CVPRW_2026_supplemental.pdf |
+| **[Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction](https://arxiv.org/abs/2609.25578v1)** | 2026-09-22 | 7 pages, 6 figures |
+| **[Point Diffusion Mamba: Unified Diffusion-State-Space Modeling for Single-View 3D Reconstruction under Data Scarcity](https://arxiv.org/abs/2609.25538v1)** | 2026-09-22 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo](https://arxiv.org/abs/2604.04925v3)** | 2026-09-09 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Revisiting Multi-View Stereo: A Sequence-to-Sequence Formulation](https://arxiv.org/abs/2609.24850v1)** | 2026-09-21 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[GAPrompt++: Multi-Granular Geometry-Aware Point Cloud Prompt for 3D Vision Model](https://arxiv.org/abs/2609.19716v1)** | 2026-09-17 | Accepted by TPAMI 2026. Code at https://github.com/PKU-OV3-LAB/GAPromptPlus.git |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[HiSfM: Disambiguating Structure-from-Motion via Scaffold-Anchored Hierarchical Reconstruction](https://arxiv.org/abs/2609.04718v2)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences](https://arxiv.org/abs/2609.13903v1)** | 2026-09-12 |  |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis](https://arxiv.org/abs/2609.12682v1)** | 2026-09-11 | Accepted to the 3D4S Workshop at CVPR 2026; selected for the Best Paper Award |
-| **[Visual-SLAM for the detection of hidden tomatoes in greenhouses by Hierarchical Localization and GLOMAP for robotized harvesting](https://arxiv.org/abs/2609.11766v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Learning Global Camera Poses from Noisy View-Graphs for Structure from Motion](https://arxiv.org/abs/2609.09491v1)** | 2026-09-08 | Accepted to ECCV 2026. Project page: https://vgpa-sfm.github.io/ |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2609.30865v1)** | 2026-09-25 |  |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[GLOW: Global Illumination-Aware Inverse Rendering of Indoor Scenes Captured with Dynamic Co-Located Light &amp; Camera](https://arxiv.org/abs/2511.22857v2)** | 2026-09-22 |  |
+| **[SAMatcher: Dense Co-Visibility Modeling via Cross-View Fusion for Scale-Imbalance Image Matching](https://arxiv.org/abs/2606.03406v2)** | 2026-09-22 | 24 pages |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[Refining Ground Truth Poses in Autonomous Driving Datasets via Neural Rendering](https://arxiv.org/abs/2504.15776v2)** | 2026-09-18 | Accepted to IEEE Robotics and Automation Letters (RA-L), 2026 |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[RawSLAM: Online HDR Gaussian SLAM from Linear Radiance](https://arxiv.org/abs/2609.20589v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Integrating Multi-view Multi-light Surface Reconstruction into Cultural Heritage Workflows](https://arxiv.org/abs/2609.15833v1)** | 2026-09-14 | 15 pages, 9 figures. Accepted at VISART VIII, ECCV 2026 workshops |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[RBF Your SDF: Radial Basis Function Interpolation of Signed Distance Fields with Implied Tangent Points](https://arxiv.org/abs/2609.06209v2)** | 2026-09-12 | 19 pages |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[Gaussian Linear Functional Manifold Method for Massive Point Cloud Data](https://arxiv.org/abs/2609.05744v1)** | 2026-09-04 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Anatomy-Aligned Surface Field Learning for Myocardial Reconstruction from Sparse Short-Axis Cine MRI](https://arxiv.org/abs/2609.29825v1)** | 2026-09-24 | 12 |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[Accurate wall shear stress in immersed flow analysis with application to point cloud-based CFD](https://arxiv.org/abs/2609.24069v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[MM-2FSK: Multimodal Frequency Shift Keying for Ultra-Efficient and Robust High-Resolution MIMO Radar Imaging](https://arxiv.org/abs/2511.01405v3)** | 2026-09-19 | 9 pages |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Gaussian Light Transport](https://arxiv.org/abs/2609.11430v1)** | 2026-09-10 | To appear in SIGGRAPH Asia 2026 (Conference Track). 11 pages, 8 figures. Project page: https://patrick-attimont.com/projects/gaussian-light-transport/ |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v4)** | 2026-09-07 |  |
-| **[SEGA: Drivable 3D Gaussian Head Avatar from a Single Image](https://arxiv.org/abs/2504.14373v4)** | 2026-09-07 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[PRG-Fusion: Orchestrating Generative Priors with Reconstruction Evidence for Driving View Synthesis](https://arxiv.org/abs/2609.06948v1)** | 2026-09-07 |  |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
+| **[RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects](https://arxiv.org/abs/2505.05848v3)** | 2026-09-25 | Code: https://github.com/YueYin27/refref, Project page: https://yueyin27.github.io/refref-page/ |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[NBAvatar: Neural Billboards Avatars with Realistic Hand-Face Interaction](https://arxiv.org/abs/2603.12063v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction](https://arxiv.org/abs/2609.25578v1)** | 2026-09-22 | 7 pages, 6 figures |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation](https://arxiv.org/abs/2609.24140v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[Refining Ground Truth Poses in Autonomous Driving Datasets via Neural Rendering](https://arxiv.org/abs/2504.15776v2)** | 2026-09-18 | Accepted to IEEE Robotics and Automation Letters (RA-L), 2026 |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[G-ray: Ray-Level Relative Geometric Position Encoding in Multi-View Vision Transformers under Camera Heterogeneity](https://arxiv.org/abs/2609.15018v1)** | 2026-09-14 | 26 pages, 13 figures, 14 tables. Supplementary material included in the appendix. Project page: https://g-ray-project.github.io/ |
-| **[RealSimLoop: Online Real-to-Sim Adaptation via Differentiable Reduced-Order Simulation with Vision Feedback](https://arxiv.org/abs/2609.09828v2)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting](https://arxiv.org/abs/2512.07197v2)** | 2026-09-11 | The first three authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://cmlab-korea.github.io/Awesome-Efficient-GS/ |
-| **[NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis](https://arxiv.org/abs/2609.12682v1)** | 2026-09-11 | Accepted to the 3D4S Workshop at CVPR 2026; selected for the Best Paper Award |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894v1)** | 2026-09-10 | Under Review |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[InstantHDR: Single-forward Gaussian Splatting Initialization for HDR 3D Reconstruction](https://arxiv.org/abs/2603.11298v3)** | 2026-09-09 |  |
-| **[View-Structured Conformal Prediction for 3D Gaussian Splatting](https://arxiv.org/abs/2609.10307v1)** | 2026-09-09 |  |
+| **[RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects](https://arxiv.org/abs/2505.05848v3)** | 2026-09-25 | Code: https://github.com/YueYin27/refref, Project page: https://yueyin27.github.io/refref-page/ |
+| **[ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization](https://arxiv.org/abs/2609.31339v1)** | 2026-09-25 | Accepted to Pacific Graphics 2026 |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[Geometric Inconsistency Localization in Multi-View Image Sets](https://arxiv.org/abs/2609.31247v1)** | 2026-09-25 | 8 pages, accepted at the Deepfake Forensics Workshop (DFF 2026) at ACM Multimedia 2026 |
+| **[Light Field Primitive for Novel View Synthesis](https://arxiv.org/abs/2609.31198v1)** | 2026-09-25 |  |
+| **[Spackle: Completing Large View Single Image NVS with Adaptive Gaussians](https://arxiv.org/abs/2609.30941v1)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245v1)** | 2026-09-24 |  |
+| **[One View Is Enough: In-the-Wild Monocular Pretraining for Novel View Generation](https://arxiv.org/abs/2603.23488v3)** | 2026-09-24 | Accepted at NeurIPS 2026. Code: https://github.com/kyutai-labs/ovie. Project page: https://kyutai.org/blog/2026-04-14-ovie/ |
+| **[M3GD: Multi-Modal Multi-View Geometric Diffusion for Camera--LiDAR Novel View Synthesis](https://arxiv.org/abs/2609.30056v1)** | 2026-09-24 |  |
+| **[WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration](https://arxiv.org/abs/2601.19753v2)** | 2026-09-24 |  |
+| **[From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting](https://arxiv.org/abs/2609.29041v1)** | 2026-09-24 |  |
+| **[GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2609.23436v2)** | 2026-09-24 |  |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Learn2Splat: Extending the Horizon of Learned 3DGS Optimization](https://arxiv.org/abs/2605.15760v2)** | 2026-09-23 |  |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation](https://arxiv.org/abs/2609.14899v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634v1)** | 2026-09-13 |  |
-| **[Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey](https://arxiv.org/abs/2505.12384v2)** | 2026-09-13 | Accepted for publication in Elsevier Robotics and Autonomous Systems (RAS) |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626v2)** | 2026-09-12 | Accepted to ECCV 2026. Project page: https://zju3dv.github.io/habitat-gs/ |
-| **[SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences](https://arxiv.org/abs/2609.13903v1)** | 2026-09-12 |  |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting](https://arxiv.org/abs/2512.07197v2)** | 2026-09-11 | The first three authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://cmlab-korea.github.io/Awesome-Efficient-GS/ |
-| **[NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis](https://arxiv.org/abs/2609.12682v1)** | 2026-09-11 | Accepted to the 3D4S Workshop at CVPR 2026; selected for the Best Paper Award |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079v1)** | 2026-09-10 |  |
+| **[ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos](https://arxiv.org/abs/2609.31509v1)** | 2026-09-25 |  |
+| **[Scaling Density Functional Theory with Gaussian Splatting](https://arxiv.org/abs/2609.31483v1)** | 2026-09-25 | 45 pages, 6 figures, 18 tables |
+| **[RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors](https://arxiv.org/abs/2609.31374v1)** | 2026-09-25 | 8 pages, 5 figures |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[Gauss What You Need: Compact Gaussian Splatting Across Scene Scales](https://arxiv.org/abs/2609.31248v1)** | 2026-09-25 |  |
+| **[Spackle: Completing Large View Single Image NVS with Adaptive Gaussians](https://arxiv.org/abs/2609.30941v1)** | 2026-09-25 |  |
+| **[Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640v3)** | 2026-09-25 | 15 pages, 12 figures, 5 tables |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2609.30865v1)** | 2026-09-25 |  |
+| **[EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units](https://arxiv.org/abs/2606.15848v2)** | 2026-09-25 |  |
+| **[LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting](https://arxiv.org/abs/2609.30393v1)** | 2026-09-24 |  |
+| **[Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245v1)** | 2026-09-24 |  |
+| **[OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985v1)** | 2026-09-24 | SIGGRAPH ASIA 2026 |
+| **[WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration](https://arxiv.org/abs/2601.19753v2)** | 2026-09-24 |  |
+| **[From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting](https://arxiv.org/abs/2609.29041v1)** | 2026-09-24 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634v1)** | 2026-09-13 |  |
-| **[CGGT: Curve-Grounded Geometry Transformer for 3D Parametric Curve Reconstruction](https://arxiv.org/abs/2609.14521v1)** | 2026-09-13 | Accepted by SIGGRAPH Asia 2026 |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626v2)** | 2026-09-12 | Accepted to ECCV 2026. Project page: https://zju3dv.github.io/habitat-gs/ |
-| **[SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences](https://arxiv.org/abs/2609.13903v1)** | 2026-09-12 |  |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting](https://arxiv.org/abs/2512.07197v2)** | 2026-09-11 | The first three authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://cmlab-korea.github.io/Awesome-Efficient-GS/ |
-| **[Is Gaussian Splatting Becoming Neural Again? A Taxonomy and Controlled Study of Learned Parameterization](https://arxiv.org/abs/2609.12395v1)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[FujinSplat: Seeing Through Smoke with RAW-Domain Gaussian Splatting](https://arxiv.org/abs/2609.06017v2)** | 2026-09-10 | 20 pages, 11 figures, including supplementary material. v2: added code link; scientific content unchanged. Code: https://github.com/I2WM/FujinSplat |
-| **[RIDE: Relocalization-Informed Depth Estimation with 3D Gaussian Splatting](https://arxiv.org/abs/2609.11079v1)** | 2026-09-10 |  |
+| **[ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos](https://arxiv.org/abs/2609.31509v1)** | 2026-09-25 |  |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[Spackle: Completing Large View Single Image NVS with Adaptive Gaussians](https://arxiv.org/abs/2609.30941v1)** | 2026-09-25 |  |
+| **[Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640v3)** | 2026-09-25 | 15 pages, 12 figures, 5 tables |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2609.30865v1)** | 2026-09-25 |  |
+| **[EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units](https://arxiv.org/abs/2606.15848v2)** | 2026-09-25 |  |
+| **[Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245v1)** | 2026-09-24 |  |
+| **[OceanXL: Large-scale Underwater 3D Gaussian Splatting via Block Partitioning and Adaptive Pruning](https://arxiv.org/abs/2609.29985v1)** | 2026-09-24 | SIGGRAPH ASIA 2026 |
+| **[WaterClear-GS: Optical-Aware Gaussian Splatting for Underwater Reconstruction and Restoration](https://arxiv.org/abs/2601.19753v2)** | 2026-09-24 |  |
+| **[From Scattered Gaussians to Structured Maps: Efficient Gaussian Splatting Coding via Dual-phase Morton Sorting](https://arxiv.org/abs/2609.29041v1)** | 2026-09-24 |  |
+| **[PlenoCI: Plenoptic CharacterIstics for View Dependence Aware Change Classification](https://arxiv.org/abs/2609.28930v1)** | 2026-09-24 | 15 pages, 9 figures |
+| **[GAPS: Generative Active Pseudo-view Selection for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2609.23436v2)** | 2026-09-24 |  |
+| **[PePESeg3D: Perception Prior Enhances Multi-Scale Segmentation for 3D Gaussian Splatting](https://arxiv.org/abs/2609.28645v1)** | 2026-09-23 | Accepted to BMVC 2026 |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[What Makes a 3D Scene Editable? A Factorized Benchmark of Fidelity, Locality, Consistency, and Preservation](https://arxiv.org/abs/2609.14899v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634v1)** | 2026-09-13 |  |
-| **[Is Semantic SLAM Ready for Embedded Systems ? A Comparative Survey](https://arxiv.org/abs/2505.12384v2)** | 2026-09-13 | Accepted for publication in Elsevier Robotics and Autonomous Systems (RAS) |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[Deformable 2D Gaussian Splatting for Efficient 4K Video Compression](https://arxiv.org/abs/2609.14129v1)** | 2026-09-12 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626v2)** | 2026-09-12 | Accepted to ECCV 2026. Project page: https://zju3dv.github.io/habitat-gs/ |
-| **[SkyAnchor: Updating Metric-scale Aerial 3D Gaussian Scenes from Unposed Ground-View Sequences](https://arxiv.org/abs/2609.13903v1)** | 2026-09-12 |  |
-| **[When Variance Is Not an Error Map: Calibrated Uncertainty for Radiative Gaussian Splatting in Sparse-View CT](https://arxiv.org/abs/2607.13682v4)** | 2026-09-12 |  |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting](https://arxiv.org/abs/2512.07197v2)** | 2026-09-11 | The first three authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://cmlab-korea.github.io/Awesome-Efficient-GS/ |
-| **[NOVA-GS: Noise-Aware View-Consistent Gaussian Splatting for Low-Light Novel View Synthesis](https://arxiv.org/abs/2609.12682v1)** | 2026-09-11 | Accepted to the 3D4S Workshop at CVPR 2026; selected for the Best Paper Award |
+| **[GraphWrit3R: End-to-End 3D Scene Graph Writing](https://arxiv.org/abs/2609.31595v1)** | 2026-09-25 | Project page at https://graphwrit3r.insait.ai |
+| **[OC-GS: Gaussian Splatting for Irregular Turntable Capture](https://arxiv.org/abs/2609.31572v1)** | 2026-09-25 |  |
+| **[ClearGS: Reliability-Aware Gaussian Splatting from Handheld Videos](https://arxiv.org/abs/2609.31509v1)** | 2026-09-25 |  |
+| **[Scaling Density Functional Theory with Gaussian Splatting](https://arxiv.org/abs/2609.31483v1)** | 2026-09-25 | 45 pages, 6 figures, 18 tables |
+| **[RECAST: From Log Replay to Closed-Loop Driving Simulation with View-Complete Actors](https://arxiv.org/abs/2609.31374v1)** | 2026-09-25 | 8 pages, 5 figures |
+| **[ChronoFuseGS: Multi-Temporal Gaussian Fusion with Per-Splat Persistence and Change Visualization](https://arxiv.org/abs/2609.31339v1)** | 2026-09-25 | Accepted to Pacific Graphics 2026 |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[Gauss What You Need: Compact Gaussian Splatting Across Scene Scales](https://arxiv.org/abs/2609.31248v1)** | 2026-09-25 |  |
+| **[Spackle: Completing Large View Single Image NVS with Adaptive Gaussians](https://arxiv.org/abs/2609.30941v1)** | 2026-09-25 |  |
+| **[Geometric-Photometric Event-based 3D Gaussian Ray Tracing](https://arxiv.org/abs/2512.18640v3)** | 2026-09-25 | 15 pages, 12 figures, 5 tables |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Reliability-Regulated Trajectory Optimization for Progressive COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2609.30865v1)** | 2026-09-25 |  |
+| **[From Mono to Stereo: Accelerating Binocular Gaussian Splatting via Reprojection and Selective Patching](https://arxiv.org/abs/2609.30741v1)** | 2026-09-25 |  |
+| **[EmoZone-Talker: Regional Semantic Control of Audio-Driven 3DGS Talking Heads via Facial Action Units](https://arxiv.org/abs/2606.15848v2)** | 2026-09-25 |  |
+| **[LiTe-GS: Oracle-Efficient Next Best View Selection for 3D Gaussian Splatting](https://arxiv.org/abs/2609.30393v1)** | 2026-09-24 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[Towards Practical Compression of 3D Gaussian Splatting](https://arxiv.org/abs/2609.30245v1)** | 2026-09-24 |  |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[LG-VLN: A Zero-Shot Vision-and-Language Navigation Framework with LangGraph State Orchestration](https://arxiv.org/abs/2609.15098v1)** | 2026-09-14 | 30 pages, 4 figures |
-| **[Anchor3R: Streaming 3D Reconstruction with Transient Anchors for Long-Horizon Visual Mapping](https://arxiv.org/abs/2606.05035v2)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction](https://arxiv.org/abs/2609.13504v1)** | 2026-09-11 |  |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[A Calibration Audit of Confidence in Feed-Forward 3D Reconstruction Models](https://arxiv.org/abs/2608.29705v3)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems](https://arxiv.org/abs/2605.30488v2)** | 2026-09-08 | Code and project website: https://como3r-slam.github.io |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[When Wider Views Fail: Stress-Testing Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2609.24839v1)** | 2026-09-21 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[PanoSeg3R: Feed-Forward 3D Semantic Segmentation for Panoramic Images with an Automatic Data Curation Pipeline](https://arxiv.org/abs/2609.22687v1)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[GRF-Recon: Global Ray-Field Optimization for Long-Sequence Feed-forward Reconstruction](https://arxiv.org/abs/2609.20012v1)** | 2026-09-17 | Accepted to ECCV 2026 as a Spotlight presentation |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[VS-Splat: Voxel-Selective feed-forward Gaussian Splatting for end-to-end 3D object reconstruction from sparse-views](https://arxiv.org/abs/2609.12343v1)** | 2026-09-11 | Main paper: 10 pages, 4 figures. Appendix: 4 pages, 5 figures, Transaction of Multimedia |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[MedGSSR: Generalizable Medical Image Super-Resolution 3D Reconstruction via Hierarchical Feed-forward Gaussian Splatting](https://arxiv.org/abs/2609.06874v1)** | 2026-09-06 | ECCV 2026 |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Adapting Vision Foundation Models to Acoustics for Pose-Free 3D Sonar Reconstruction](https://arxiv.org/abs/2609.06261v1)** | 2026-09-05 | 9 pages. Jingxi Chen and Mohamad Qadri contributed equally as co-second authors |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[PairDropGS: Paired Dropout-Induced Consistency Regularization for Sparse-View Gaussian Splatting](https://arxiv.org/abs/2605.12072v3)** | 2026-09-20 | The methodological design is flawed, the experimental results are insufficient, and there are issues regarding the authors' affiliations and authorship |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Habitat-GS: A High-Fidelity Navigation Simulator with Dynamic Gaussian Splatting](https://arxiv.org/abs/2604.12626v2)** | 2026-09-12 | Accepted to ECCV 2026. Project page: https://zju3dv.github.io/habitat-gs/ |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting](https://arxiv.org/abs/2512.07197v2)** | 2026-09-11 | The first three authors contributed equally to this work. The last two authors are co-corresponding authors. Please visit our project page at https://cmlab-korea.github.io/Awesome-Efficient-GS/ |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[UniFusion: Sparse-View 4D Reconstruction via Unified Spatio-temporal Depth Alignment](https://arxiv.org/abs/2609.05888v1)** | 2026-09-05 | Project page: https://yongzhelyu.github.io/UniFusion |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[GARO: Geometry-Aware Redundancy Optimization for Real-Time and High-Fidelity Dynamic Gaussian Splatting](https://arxiv.org/abs/2609.23509v1)** | 2026-09-20 | 8 pages. Accepted to IEEE ICRA 2026 |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos](https://arxiv.org/abs/2609.20818v1)** | 2026-09-17 | 18 pages (11 main + 7 supplementary), 14 figures, 12 tables. Project page: https://niko-creater.github.io/splashsplat-web/ |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[SCOUT-SLAM: Structurally-Coupled Dual Uncertainty-Aware 3DGS SLAM in the Wild](https://arxiv.org/abs/2609.14634v1)** | 2026-09-13 |  |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[MCGS-SLAM: A Multi-Camera SLAM Framework Using Gaussian Splatting for High-Fidelity Mapping](https://arxiv.org/abs/2509.14191v4)** | 2026-09-07 | Accepted to IEEE International Conference on Robotics and Automation (ICRA) 2026. Code: https://github.com/mcgs-slam/mcgs-slam |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards](https://arxiv.org/abs/2609.26315v1)** | 2026-09-22 | 8 pages, 4 figures, 4 tables |
+| **[Dual Covariance Gaussian Splatting SLAM: Decoupling Rendering and Registration for Robust Real-Time Tracking](https://arxiv.org/abs/2609.25746v1)** | 2026-09-22 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[BayesianGS-SLAM: Uncertainty-Aware Neural Rendering SLAM via Probabilistic Formulation](https://arxiv.org/abs/2609.24140v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Elevator-VIGS: Separating Elevator Motion from Robot Motion in Visual-Inertial Gaussian Splatting SLAM](https://arxiv.org/abs/2609.23491v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[Cube-Splat: High-Fidelity 360° Gaussian Splatting SLAM via Cubemap Factorization and Adjoint-Consistent Optimization](https://arxiv.org/abs/2609.21347v1)** | 2026-09-18 | Accepted to ECCV 2026. Source code : https://github.com/guoxf304/CubeSplat |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[VGGT-GS SLAM: Uncalibrated Monocular Gaussian Splatting SLAM with Feed-Forward Priors](https://arxiv.org/abs/2609.19628v1)** | 2026-09-17 | 9 pages, 4 figures |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[ArborSplat: Online Semantic Gaussian Splatting SLAM for Orchards](https://arxiv.org/abs/2609.26315v1)** | 2026-09-22 | 8 pages, 4 figures, 4 tables |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[2D GauSS-MI: Efficient Active Scene Reconstruction with Balanced Visual and Geometric Quality](https://arxiv.org/abs/2609.21516v1)** | 2026-09-18 |  |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
 
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Large Universe Subset Predicate Encryption with IND-CCA Security (with Constant-size Ciphertext and Keys)](https://arxiv.org/abs/2609.15312v1)** | 2026-09-14 |  |
-| **[El Agente Potente: High-Throughput Agentic Atomistic Simulations](https://arxiv.org/abs/2609.14840v1)** | 2026-09-13 | 64 pages, 16 figures, and 3 tables, including Supporting Information. Main text: 24 pages, 6 figures, and 1 table |
-| **[Modeling, Scaling, and Decoding: Optimizing Controllable Speech Generation with Nonverbal Vocalizations](https://arxiv.org/abs/2609.14231v1)** | 2026-09-13 |  |
-| **[No cardinality bound for squashed entanglement](https://arxiv.org/abs/2609.14031v1)** | 2026-09-12 | 6 pages |
-| **[Extreme-Scale Linear-Scaling Kohn-Sham DFT at 100 Million Atoms: Bridging Quantum Simulations and Experiments](https://arxiv.org/abs/2609.13115v1)** | 2026-09-11 | 12 pages, 6 figures; submitted to SC26 (The International Conference for High Performance Computing, Networking, Storage, and Analysis) |
-| **[An ab initio foundation model of wavefunctions that accurately describes chemical bond breaking](https://arxiv.org/abs/2506.19960v2)** | 2026-09-11 |  |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v1)** | 2026-09-10 |  |
-| **[Posterior Convergence without Force Convergence: Resolution-Stable Sampling for Rough Bayesian Inverse Problems](https://arxiv.org/abs/2608.18365v2)** | 2026-09-10 |  |
-| **[Conditions for Global Optimality in Quantum Arimoto-Blahut Algorithms](https://arxiv.org/abs/2609.09731v1)** | 2026-09-09 |  |
-| **[Distance-Aware Attention and Wall-Distance Expert Routing for Transformer-Based 3D Flow Prediction](https://arxiv.org/abs/2609.07222v1)** | 2026-09-07 | 21 pages, 13 figures, 10 tables |
-| **[Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks](https://arxiv.org/abs/2606.28287v2)** | 2026-09-05 |  |
-| **[A Nuclear-Norm Lower Bound for Dithered Scalar Quantization of Matrix Products](https://arxiv.org/abs/2609.05641v1)** | 2026-09-04 | 17 pages, 2 figures. Code: https://github.com/piyush314/gauge-floors |
-| **[Constructions of complete permutations over $\mathbb{F}_q^n$](https://arxiv.org/abs/2609.05564v1)** | 2026-09-03 |  |
-| **[Alignment-Free Text-Audiobox for Voice Dubbing and Full-Duplex Dialogue Synthesis](https://arxiv.org/abs/2609.03992v1)** | 2026-09-03 |  |
-| **[Auditing Contextual Bias in Human Ball-Strike Calls Using KBO's Automated Umpiring Transition](https://arxiv.org/abs/2609.03786v1)** | 2026-09-03 | 12 pages, 10 figues |
+| **[ConSolv: Solvent-Conditional Machine Learning Implicit Solvent Potential](https://arxiv.org/abs/2606.24983v2)** | 2026-09-25 |  |
+| **[How to break the Miranda signature scheme over matrix Gabidulin codes](https://arxiv.org/abs/2609.30925v1)** | 2026-09-25 | 21 pages, 3 tables, 2 algorithms |
+| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v1)** | 2026-09-23 |  |
+| **[Adaptive sliding mode formation control for space interferometer missions](https://arxiv.org/abs/2609.24693v1)** | 2026-09-21 |  |
+| **[AgentBetta: Verification-Driven Adaptive Configuration of an AI Nano-Agent through Selective Expansion and Verified Contraction](https://arxiv.org/abs/2609.23512v1)** | 2026-09-20 |  |
+| **[Robust Safety Filtering for Input-Constrained Underactuated Linear Systems](https://arxiv.org/abs/2608.10872v2)** | 2026-09-19 |  |
+| **[Supporting Industrial Test-Failure Analysis with LLM-Based Systems: An Experience Report](https://arxiv.org/abs/2609.21843v1)** | 2026-09-18 | 16 pages, 4 figures, accepted to PROFES 2026, 30 Nov to 2 Dec 2026, Karlskrona, Sweden |
+| **[An $m^{2.943}$ Bohnenblust--Hille Bound on the Boolean Cube](https://arxiv.org/abs/2609.21144v1)** | 2026-09-17 | 31 pages |
+| **[The Strong Secretary Conjecture is True for Linear Matroids](https://arxiv.org/abs/2609.20797v1)** | 2026-09-17 |  |
+| **[Gradient-estimator design overcomes trainability barriers in neural-network-based variational optimization](https://arxiv.org/abs/2609.22342v1)** | 2026-09-16 | 10 pages, 4 figures; partially supersedes arXiv:2606.13912 |
