@@ -1,10 +1,13 @@
-# Latest 15 Papers - October 08, 2026
+# Latest 15 Papers - October 09, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Argos: Adapt Rich Geometric Priors for Generalizable Online Scene-Change-Detection](https://arxiv.org/abs/2610.10181v1)** | 2026-10-07 | More details on the project website: https://www.multyxu.com/argos/ |
+| **[StyleFields: Multi-Scale AdaIN-Modulated Implicit SDFs for Coarse-to-Fine 3D Shape Reconstruction and Editing](https://arxiv.org/abs/2610.09200v1)** | 2026-10-06 | 39 pages, 20 figures, 3 tables. Includes supplementary material |
+| **[S2Tok: Streaming 3D Gaussian Reconstruction with Persistent Spatial Tokens](https://arxiv.org/abs/2610.08978v1)** | 2026-10-06 | Project Page: https://s2tok.github.io/ |
 | **[RACE-FPP: A Robust AI-assisted Characterisation Enhancement for Fringe Projection Profilometry](https://arxiv.org/abs/2610.08213v1)** | 2026-10-06 | 19 pages, 9 figures, 7 tables |
 | **[RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction](https://arxiv.org/abs/2609.13504v2)** | 2026-10-06 |  |
 | **[Learning consistent molecular mechanics force fields from first principles](https://arxiv.org/abs/2610.08020v1)** | 2026-10-06 | Accepted to the ML4Molecules Workshop at NeurIPS 2026 |
@@ -17,9 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges](https://arxiv.org/abs/2610.06594v1)** | 2026-10-05 | Accepted to ACCV 2026 |
 | **[MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs](https://arxiv.org/abs/2610.07110v1)** | 2026-10-05 |  |
 | **[MiDShip: Multimodal Dataset of Ship Cargo Hold Structures for Engineering Design](https://arxiv.org/abs/2610.02214v2)** | 2026-10-05 |  |
-| **[RelationVGGT: Visual Geometry Transformers for 3D Spatial Relation Segmentation](https://arxiv.org/abs/2610.00970v2)** | 2026-10-05 | 10 pages. Accepted to NeurIPS 2026 (poster). Project page: https://relationvggt.github.io/ |
-| **[A Self-Calibrating Framework for Analog Circuit Sizing Using LLM-Derived Analytical Equations](https://arxiv.org/abs/2604.07387v3)** | 2026-10-05 | 14 pages, 4 figures, 7 tables, plus supplementary. V3: Extended to 8 topology families (6-30 transistors) across 6 process nodes with 5-trial statistics; adds cross-model evaluation (5 LLMs), ablation study, matched TuRBO-1 baseline, and structural audit of 2,634 LLM-derived equations |
-| **[The compress-with-another threshold of Szykuła's Figure 3 family](https://arxiv.org/abs/2610.07044v1)** | 2026-10-05 | 8 pages. Reproducible computational verification included in the source |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -62,6 +62,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v4)** | 2026-10-07 | Accepted to ACCV 2026. Sources available at https://github.com/deivse/ivd_splat |
 | **[RIPE++: Reinforced Keypoint Learning from Positive Pairs Only](https://arxiv.org/abs/2608.19693v2)** | 2026-10-06 | LIMIT@ECCV 2026 (Best Paper Award) |
 | **[Learning consistent molecular mechanics force fields from first principles](https://arxiv.org/abs/2610.08020v1)** | 2026-10-06 | Accepted to the ML4Molecules Workshop at NeurIPS 2026 |
 | **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v3)** | 2026-10-06 |  |
@@ -76,7 +77,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AgroGround: Multi-Granularity Grounded Recognition in Agriculture](https://arxiv.org/abs/2610.04425v1)** | 2026-10-03 |  |
 | **[Exact Net-Occurrence Counts in Purely Morphic Regular Epistandard Words](https://arxiv.org/abs/2610.04298v1)** | 2026-10-03 |  |
 | **[An Integrated Scientific AI Framework for Inorganic Materials Design and Industrial Process Optimization](https://arxiv.org/abs/2506.16609v5)** | 2026-10-03 |  |
-| **[Fold'EM: Direct atomic structure inference from Cryo-EM particles](https://arxiv.org/abs/2610.01358v2)** | 2026-10-02 |  |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
@@ -100,6 +100,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LightCrafter: PBR-Conditioned Video Diffusion Refinement for Controllable and Consistent Relighting](https://arxiv.org/abs/2607.08016v3)** | 2026-10-07 | Project page: https://www.zixinguo.me/lightcrafter |
 | **[Learning consistent molecular mechanics force fields from first principles](https://arxiv.org/abs/2610.08020v1)** | 2026-10-06 | Accepted to the ML4Molecules Workshop at NeurIPS 2026 |
 | **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v3)** | 2026-10-06 |  |
 | **[Lock-in EP: An In-Situ Training Algorithm for Oscillatory Hardware](https://arxiv.org/abs/2610.07283v1)** | 2026-10-05 |  |
@@ -114,11 +115,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Beyond the Parameter Monolith: Reconstructive Memories, Executable Skills, and Residual Assembly for Language Models](https://arxiv.org/abs/2610.04012v1)** | 2026-10-02 |  |
 | **[Fold'EM: Direct atomic structure inference from Cryo-EM particles](https://arxiv.org/abs/2610.01358v2)** | 2026-10-02 |  |
 | **[PTNO: Training Neural Operators with Noisy Monte Carlo Estimates for Particle Transport Problems](https://arxiv.org/abs/2609.40090v2)** | 2026-10-01 | 41 pages, 15 figures, 35 tables. v2: Yubo Cao and Xi Deng are co-first authors with equal contribution; corrected the author footnote |
-| **[The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2610.02191v1)** | 2026-10-01 | 27 pages |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v4)** | 2026-10-07 | Accepted to ACCV 2026. Sources available at https://github.com/deivse/ivd_splat |
+| **[RDGSplat: Render-Dedicated Geometry for Novel View Synthesis](https://arxiv.org/abs/2610.09173v1)** | 2026-10-06 |  |
 | **[Learning consistent molecular mechanics force fields from first principles](https://arxiv.org/abs/2610.08020v1)** | 2026-10-06 | Accepted to the ML4Molecules Workshop at NeurIPS 2026 |
 | **[Revar3r: gauge-aware perturbation uncertainty for feed-forward 3d reconstruction](https://arxiv.org/abs/2610.07883v1)** | 2026-10-06 |  |
 | **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v3)** | 2026-10-06 |  |
@@ -132,12 +134,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Universal Test-Time Training](https://arxiv.org/abs/2610.05484v1)** | 2026-10-04 | 37 pages. Project page: https://zefan-cai.github.io/uTTT.github.io/ ; code: https://github.com/Zefan-Cai/uTTT |
 | **[Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting](https://arxiv.org/abs/2610.05289v1)** | 2026-10-04 | Code has been released: https://xiaobiaodu.github.io/mobile-4dgs-project/ |
 | **[Ostrowski Numeration, Alternating Expansions\\ and Inhomogeneous Linear Approximation](https://arxiv.org/abs/2106.10712v14)** | 2026-10-04 |  |
-| **[Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](https://arxiv.org/abs/2605.18599v2)** | 2026-10-04 | Accepted at NeurIPS 2026. Updated manuscript with revised method description and additional experiments. Project page: https://hangzay.github.io/ssd_lvsm/ |
-| **[NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis](https://arxiv.org/abs/2610.04722v1)** | 2026-10-03 | Accepted at NeurIPS 2026 |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v4)** | 2026-10-07 | Accepted to ACCV 2026. Sources available at https://github.com/deivse/ivd_splat |
+| **[DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.09853v1)** | 2026-10-07 | 11 pages, 6 figures |
+| **[Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos](https://arxiv.org/abs/2606.19156v2)** | 2026-10-07 |  |
+| **[TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting](https://arxiv.org/abs/2610.09343v1)** | 2026-10-07 |  |
+| **[SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code](https://arxiv.org/abs/2610.09116v1)** | 2026-10-06 |  |
 | **[Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error](https://arxiv.org/abs/2610.08756v1)** | 2026-10-06 | 18 pages, 11 figures, 9 tables. Code: https://github.com/ivanver02/semantic-lifting-3dgs |
 | **[SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering](https://arxiv.org/abs/2610.05576v2)** | 2026-10-06 |  |
 | **[Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960v2)** | 2026-10-06 |  |
@@ -148,15 +153,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception](https://arxiv.org/abs/2610.07569v1)** | 2026-10-06 | Accepted to ACCV 2026 |
 | **[Lock-in EP: An In-Situ Training Algorithm for Oscillatory Hardware](https://arxiv.org/abs/2610.07283v1)** | 2026-10-05 |  |
 | **[Subsequence Analysis Problems for Binary Parikh Matrices](https://arxiv.org/abs/2610.06717v1)** | 2026-10-05 | In Proceedings AFL 2026, arXiv:2608.23071 |
-| **[GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting](https://arxiv.org/abs/2610.06688v1)** | 2026-10-05 |  |
-| **[MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs](https://arxiv.org/abs/2610.07110v1)** | 2026-10-05 |  |
-| **[MiDShip: Multimodal Dataset of Ship Cargo Hold Structures for Engineering Design](https://arxiv.org/abs/2610.02214v2)** | 2026-10-05 |  |
-| **[SCION: Scene Composition with Instanced Neural Primitives](https://arxiv.org/abs/2610.02322v2)** | 2026-10-05 | Accepted to NeurIPS 2026 |
-| **[Controllable and Photorealistic Pedestrian Risky Motion Generation for End-to-End Driving Safety Evaluation](https://arxiv.org/abs/2610.06171v1)** | 2026-10-05 | 9 pages, 7 figures, Website at https://controlped.netlify.app |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v4)** | 2026-10-07 | Accepted to ACCV 2026. Sources available at https://github.com/deivse/ivd_splat |
+| **[DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.09853v1)** | 2026-10-07 | 11 pages, 6 figures |
+| **[SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code](https://arxiv.org/abs/2610.09116v1)** | 2026-10-06 |  |
 | **[Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error](https://arxiv.org/abs/2610.08756v1)** | 2026-10-06 | 18 pages, 11 figures, 9 tables. Code: https://github.com/ivanver02/semantic-lifting-3dgs |
 | **[SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering](https://arxiv.org/abs/2610.05576v2)** | 2026-10-06 |  |
 | **[Reconstructing the Dynamic World: A Representation-Centric View of 4D Scene Reconstruction](https://arxiv.org/abs/2609.39960v2)** | 2026-10-06 |  |
@@ -169,13 +172,17 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Subsequence Analysis Problems for Binary Parikh Matrices](https://arxiv.org/abs/2610.06717v1)** | 2026-10-05 | In Proceedings AFL 2026, arXiv:2608.23071 |
 | **[GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting](https://arxiv.org/abs/2610.06688v1)** | 2026-10-05 |  |
 | **[MoonGS: High-quality Representation of the Lunar Surface via Gaussian Splatting Using Robust Depth Features from Image Pairs](https://arxiv.org/abs/2610.07110v1)** | 2026-10-05 |  |
-| **[MaRO-GS: Mask-Robust Object-Centric Gaussian Splatting from Inconsistent Multi-view Masks](https://arxiv.org/abs/2610.06472v1)** | 2026-10-05 | Accepted to ACCV 2026. Project page: https://eunjikim02.github.io/marogs/ |
-| **[Odyssey: A Closed-Loop Benchmark for Long-Horizon Real-World Driving with Explicit Navigation Routes](https://arxiv.org/abs/2610.06469v1)** | 2026-10-05 | 26pages, 12 figures |
-| **[MiDShip: Multimodal Dataset of Ship Cargo Hold Structures for Engineering Design](https://arxiv.org/abs/2610.02214v2)** | 2026-10-05 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Gaussian Density Splatting Network](https://arxiv.org/abs/2610.10396v1)** | 2026-10-07 | This is the preprint version of the paper and supplemental material to appear in NeurIPS, 2026. Please cite the final published version |
+| **[The Role of Initialization in 3D Gaussian Splatting](https://arxiv.org/abs/2603.20714v4)** | 2026-10-07 | Accepted to ACCV 2026. Sources available at https://github.com/deivse/ivd_splat |
+| **[DeltaSplat: Iterative Gaussian Refinement for Pose-Free Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2610.09853v1)** | 2026-10-07 | 11 pages, 6 figures |
+| **[Sparse-View 4D Gaussian Splatting via Spatiotemporal Priors and Generative Assistance](https://arxiv.org/abs/2610.04606v2)** | 2026-10-07 | 4 pages, 5 figures, Accepted to SIGGRAPH Asia 2026 Workshops (SA Workshops '26) |
+| **[Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos](https://arxiv.org/abs/2606.19156v2)** | 2026-10-07 |  |
+| **[TileSkipper: Region-Adaptive Tile Pruning for 3D Gaussian Splatting](https://arxiv.org/abs/2610.09343v1)** | 2026-10-07 |  |
+| **[SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code](https://arxiv.org/abs/2610.09116v1)** | 2026-10-06 |  |
 | **[Post-Training Semantic Lifting for 3D Gaussian Splatting: Separating Detector, Lifting and Representation Error](https://arxiv.org/abs/2610.08756v1)** | 2026-10-06 | 18 pages, 11 figures, 9 tables. Code: https://github.com/ivanver02/semantic-lifting-3dgs |
 | **[VolS-GS: Relightable Gaussian Splatting with Volumetric Subsurface Scattering](https://arxiv.org/abs/2610.04007v2)** | 2026-10-06 | 23 pages |
 | **[SteadySplats: Resampling of Low-Variance Gaussians for High-Fidelity Stochastic Rendering](https://arxiv.org/abs/2610.05576v2)** | 2026-10-06 |  |
@@ -184,17 +191,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DensiTok: Making Feed-Forward 3D Gaussian Splatting See More Views Than It Is Given](https://arxiv.org/abs/2610.07958v1)** | 2026-10-06 |  |
 | **[Scene-Agnostic Object-Centric Representation Learning for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09045v2)** | 2026-10-06 | Published at the Third Workshop for Learning 3D with Multi-View Supervision (3DMV), CVPR 2026 |
 | **[GaussianCaR: Gaussian Splatting for Efficient Camera-Radar Fusion](https://arxiv.org/abs/2602.08784v2)** | 2026-10-06 | Accepted to ICRA 2026. 8 pages. v2: published version, with typo, citation and acronym fixes |
-| **[Efficient Gaussian Splatting Sequence Compression with Standard Video Codecs](https://arxiv.org/abs/2610.07795v1)** | 2026-10-06 | Accepted by MM Asia 2026 |
-| **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v3)** | 2026-10-06 |  |
-| **[OpenSplatGraph: From Dense Semantic Maps to Structured Scene Graphs for Open-Vocabulary Robot Perception](https://arxiv.org/abs/2610.07569v1)** | 2026-10-06 | Accepted to ACCV 2026 |
-| **[SURGE: Sonar-fUsed Reconstruction and localization via image-gated Graph Estimation](https://arxiv.org/abs/2610.07472v1)** | 2026-10-05 |  |
-| **[Lock-in EP: An In-Situ Training Algorithm for Oscillatory Hardware](https://arxiv.org/abs/2610.07283v1)** | 2026-10-05 |  |
-| **[Subsequence Analysis Problems for Binary Parikh Matrices](https://arxiv.org/abs/2610.06717v1)** | 2026-10-05 | In Proceedings AFL 2026, arXiv:2608.23071 |
-| **[GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting](https://arxiv.org/abs/2610.06688v1)** | 2026-10-05 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos](https://arxiv.org/abs/2606.19156v2)** | 2026-10-07 |  |
 | **[Learning consistent molecular mechanics force fields from first principles](https://arxiv.org/abs/2610.08020v1)** | 2026-10-06 | Accepted to the ML4Molecules Workshop at NeurIPS 2026 |
 | **[Existence Conditions for Darboux Curves and Analytic First Integrals of a Liénard-Type Quadratic Vector Field](https://arxiv.org/abs/2609.13325v3)** | 2026-10-06 |  |
 | **[Lock-in EP: An In-Situ Training Algorithm for Oscillatory Hardware](https://arxiv.org/abs/2610.07283v1)** | 2026-10-05 |  |
@@ -209,7 +210,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Fold'EM: Direct atomic structure inference from Cryo-EM particles](https://arxiv.org/abs/2610.01358v2)** | 2026-10-02 |  |
 | **[The Missing Primitive: Diagnosing and Repairing Mathematical Reasoning in Large Language Models](https://arxiv.org/abs/2610.02191v1)** | 2026-10-01 | 27 pages |
 | **[Learning ab initio phase-field models](https://arxiv.org/abs/2610.01432v1)** | 2026-10-01 |  |
-| **[Least-time Gradient Flow](https://arxiv.org/abs/2610.01426v1)** | 2026-10-01 |  |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
