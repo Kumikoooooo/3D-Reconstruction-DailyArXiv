@@ -1,10 +1,13 @@
-# Latest 15 Papers - October 23, 2026
+# Latest 15 Papers - October 24, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[OmniRay: Camera-Agnostic Monocular 3D Reconstruction with Composite Ray Fields](https://arxiv.org/abs/2610.31645v1)** | 2026-10-22 | Project page: https://nam1410.github.io/omniray/ |
+| **[HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction](https://arxiv.org/abs/2610.31635v1)** | 2026-10-22 | Technical Report |
+| **[VGGT-Bridge: Beyond Sequential Pose Graphs via Coarse-Stride Skip Edges](https://arxiv.org/abs/2610.06594v2)** | 2026-10-22 | Accepted to ACCV 2026 |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[GeoMem-VLA: Internalizing 3D Scene Understanding into Temporal Memory for Vision-Language-Action Models](https://arxiv.org/abs/2610.29866v1)** | 2026-10-21 |  |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
@@ -17,9 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[PURE: Refining Feed-forward 3D Reconstruction with Unlabeled Post-training](https://arxiv.org/abs/2610.14698v2)** | 2026-10-20 | Accepted by ACMMM 2026. Project Page: https://funnyguy525.github.io/PURE-Page/ Github: https://github.com/jiah-cloud/PURE |
 | **[SwitchSplat: Learning Discrete Object States from Casually Captured Scenes](https://arxiv.org/abs/2610.24812v2)** | 2026-10-20 | SIGGRAPH Asia 2026. 21 pages, 18 figures, 10 tables. v2 adds two sections in suppl.: A.9 Training on Native Fisheye Frames and A.10 Automatic Mask-Guided Slot Refinement |
 | **[A study of the $m$th relative Feng-Rao distances with a special emphasis on $C_{ab}$ curves](https://arxiv.org/abs/2610.26649v1)** | 2026-10-19 |  |
-| **[DenseHap: Dense Hand Haptic Estimation from Monocular Images](https://arxiv.org/abs/2610.26583v1)** | 2026-10-19 |  |
-| **[OV-PEAR: Observation-Verified Pose-Scale Estimation and Reconstruction for Unknown Industrial Manipulation Objects](https://arxiv.org/abs/2610.25840v1)** | 2026-10-19 |  |
-| **[MAGS-SLAM: Monocular Multi-Agent Gaussian Splatting SLAM for Geometrically and Photometrically Consistent Reconstruction](https://arxiv.org/abs/2605.10760v3)** | 2026-10-19 | Accepted to IEEE Transactions on Automation Science and Engineering (T-ASE) 2026, project website: https://mags-slam.github.io |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -62,6 +62,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MVLoMa: Multi-View Local Feature Matching with Any Geometry Foundation Model](https://arxiv.org/abs/2610.31321v1)** | 2026-10-22 | Project Page:https://kosmoresearch.github.io/MVLoMa/ |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
@@ -76,11 +77,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering](https://arxiv.org/abs/2602.08519v2)** | 2026-10-14 | Accepted by NeurIPS 2026 Evaluations and Datasets Track |
 | **[On composition and decomposition operations for vector spaces, graphs and matroids](https://arxiv.org/abs/2305.16354v3)** | 2026-10-14 | Newer version titled "free products" (arXiv:2610.14111) has been uploaded |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v1)** | 2026-10-13 | This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
-| **[Benchmarking 3D Reconstruction for Under-Ice Robotic Perception in Arctic Environments](https://arxiv.org/abs/2610.19097v1)** | 2026-10-13 | Presented at the ICRA 2026 Workshop "From Sea to Space: Advancing Perception in Harsh Domains" (S2S), Vienna, Austria, June 1, 2026. 8 figures, 2 tables. Workshop: https://sites.google.com/view/icra-2026-s2s-perception/ |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910v1)** | 2026-10-22 |  |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
@@ -95,7 +96,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[On composition and decomposition operations for vector spaces, graphs and matroids](https://arxiv.org/abs/2305.16354v3)** | 2026-10-14 | Newer version titled "free products" (arXiv:2610.14111) has been uploaded |
 | **[MicroSDF: Microfacet-Driven Hybrid Neural SDFs for Mixed-Reflectance Surface Reconstruction](https://arxiv.org/abs/2610.19681v1)** | 2026-10-14 | Published in IEEE Transactions on Image Processing, vol. 35, pp. 4106-4121, Apr. 2026. DOI: 10.1109/TIP.2026.3678096 |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v1)** | 2026-10-13 | This work has been submitted to the IEEE for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
-| **[Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains](https://arxiv.org/abs/2610.18730v1)** | 2026-10-13 |  |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
@@ -119,6 +119,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSHeadRelight: Fast Relightability for 3D Gaussian Head Synthesis](https://arxiv.org/abs/2610.30619v1)** | 2026-10-22 |  |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[Unfolding 3D Gaussian Splatting via Iterative Gaussian Synopsis](https://arxiv.org/abs/2604.11685v2)** | 2026-10-21 | Project page: https://cs-luyq.github.io/UnfoldingGS |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
@@ -133,11 +134,17 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GaussTrap: Stealthy Backdoor Attacks on 3D Gaussian Splatting for Targeted Scene Misperception](https://arxiv.org/abs/2504.20829v2)** | 2026-10-19 |  |
 | **[Rethinking Sparse-View 3D Gaussian Splatting: A Few-Shot Learning Perspective on Overfitting Prevention](https://arxiv.org/abs/2610.25887v1)** | 2026-10-19 | 5 pages, 5 figures. First-place solution in the sparse-view track of the SIGGRAPH Asia 2025 Volumetric Video Challenge |
 | **[Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion](https://arxiv.org/abs/2610.25276v1)** | 2026-10-18 | Accepted to NeurIPS 2026. Project page: https://nirvanalan.github.io/projects/holo4d/ |
-| **[GeoV2V: Geometry-Grounded Video Diffusion Model for Driving Scene Generation](https://arxiv.org/abs/2610.25245v1)** | 2026-10-18 | Published at ECCV 2026. Author accepted manuscript. Project page: https://xiyuche.github.io/GeoV2V/ |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293v1)** | 2026-10-22 |  |
+| **[No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](https://arxiv.org/abs/2605.22190v2)** | 2026-10-22 | https://bralani.github.io/nopo4d_html/ Camera ready version of NeurIPS-2026 |
+| **[H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910v1)** | 2026-10-22 |  |
+| **[SplatLab: Autonomous Scientific Discovery for 3DGS Research](https://arxiv.org/abs/2610.30468v1)** | 2026-10-21 | Accepted at NeurIPS 2026. 14 pages, 4 figures. Project page: https://seemandhar.github.io/splatlab |
+| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v2)** | 2026-10-21 | 34 pages, 10 figures |
+| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v5)** | 2026-10-21 | accepted to GCPR2026 |
+| **[TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319v1)** | 2026-10-21 |  |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization](https://arxiv.org/abs/2610.30013v1)** | 2026-10-21 |  |
 | **[AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments](https://arxiv.org/abs/2610.29699v1)** | 2026-10-21 |  |
@@ -146,17 +153,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
 | **[AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting](https://arxiv.org/abs/2610.29374v1)** | 2026-10-21 | 17 pages, 7 figures, 7 tables. Published at AIST 2026 |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v1)** | 2026-10-21 |  |
-| **[KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting](https://arxiv.org/abs/2610.28615v1)** | 2026-10-20 | NeurIPS 2026 (Spotlight). Project page https://rdbch.github.io/koalags |
-| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v1)** | 2026-10-20 | 34 pages, 10 figures |
-| **[CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2610.28190v1)** | 2026-10-20 |  |
-| **[PocketGS: High-Fidelity On-Device Training for 3D Gaussian Splatting](https://arxiv.org/abs/2601.17354v6)** | 2026-10-20 |  |
-| **[OV-Foam: How 3D Representations Shape Semantic Feature Lifting](https://arxiv.org/abs/2610.28131v1)** | 2026-10-20 | 22 pages, 10 figures, 7 tables |
-| **[Differentiable Task-Driven Coded Aperture Camera Design with 3D Gaussian Scene Representations](https://arxiv.org/abs/2610.28004v1)** | 2026-10-20 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293v1)** | 2026-10-22 |  |
+| **[H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910v1)** | 2026-10-22 |  |
+| **[SplatLab: Autonomous Scientific Discovery for 3DGS Research](https://arxiv.org/abs/2610.30468v1)** | 2026-10-21 | Accepted at NeurIPS 2026. 14 pages, 4 figures. Project page: https://seemandhar.github.io/splatlab |
+| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v2)** | 2026-10-21 | 34 pages, 10 figures |
+| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v5)** | 2026-10-21 | accepted to GCPR2026 |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization](https://arxiv.org/abs/2610.30013v1)** | 2026-10-21 |  |
 | **[AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments](https://arxiv.org/abs/2610.29699v1)** | 2026-10-21 |  |
@@ -165,17 +170,20 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
 | **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v1)** | 2026-10-21 |  |
 | **[KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting](https://arxiv.org/abs/2610.28615v1)** | 2026-10-20 | NeurIPS 2026 (Spotlight). Project page https://rdbch.github.io/koalags |
-| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v1)** | 2026-10-20 | 34 pages, 10 figures |
 | **[CrossFit-GS: Out-of-Fold Pose Estimation for COLMAP-Free 3D Gaussian Splatting](https://arxiv.org/abs/2610.28190v1)** | 2026-10-20 |  |
 | **[PocketGS: High-Fidelity On-Device Training for 3D Gaussian Splatting](https://arxiv.org/abs/2601.17354v6)** | 2026-10-20 |  |
-| **[World2HOSI: A Multi-Expert Harness for Long-Horizon Human-Object-Scene Interaction Generation](https://arxiv.org/abs/2610.27725v1)** | 2026-10-20 | Project Page: https://nintreesssss.github.io/World2HOSI |
-| **[PanoGraphGS: Unifying Panoptic Segmentation and Hierarchical 3D Scene Graphs with Gaussian Splatting](https://arxiv.org/abs/2610.27696v1)** | 2026-10-20 | 9 pages, 5 figures |
-| **[SwitchSplat: Learning Discrete Object States from Casually Captured Scenes](https://arxiv.org/abs/2610.24812v2)** | 2026-10-20 | SIGGRAPH Asia 2026. 21 pages, 18 figures, 10 tables. v2 adds two sections in suppl.: A.9 Training on Native Fisheye Frames and A.10 Automatic Mask-Guided Slot Refinement |
-| **[Counting Contributions, Not Views: Occlusion-Aware Densification for 3D Gaussian Splatting](https://arxiv.org/abs/2610.27108v1)** | 2026-10-19 | Accepted at ACCV 2026 (Oral). Includes the supplementary material as appendix. Code: https://github.com/MarcelRogge/occlusion-aware-3dgs |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293v1)** | 2026-10-22 |  |
+| **[No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](https://arxiv.org/abs/2605.22190v2)** | 2026-10-22 | https://bralani.github.io/nopo4d_html/ Camera ready version of NeurIPS-2026 |
+| **[H-2DGS: Height-Field Gaussian Splatting for Sharp and Deformable Neurosurgical Surface Reconstruction](https://arxiv.org/abs/2610.30910v1)** | 2026-10-22 |  |
+| **[SplatLab: Autonomous Scientific Discovery for 3DGS Research](https://arxiv.org/abs/2610.30468v1)** | 2026-10-21 | Accepted at NeurIPS 2026. 14 pages, 4 figures. Project page: https://seemandhar.github.io/splatlab |
+| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v2)** | 2026-10-21 | 34 pages, 10 figures |
+| **[MeSS: City Mesh-Guided Outdoor Scene Generation with Cross-View Consistent Diffusion](https://arxiv.org/abs/2508.15169v5)** | 2026-10-21 | accepted to GCPR2026 |
+| **[R4DGS: Referring Segmentation in 4D Gaussian Splatting](https://arxiv.org/abs/2610.30326v1)** | 2026-10-21 | 10 pages. Accepted at ACM Multimedia 2026. Project page: https://chenbangpu.github.io/R4DGS/ |
+| **[TerraTransfer++: Demonstration-Free End-to-End Planner](https://arxiv.org/abs/2610.30319v1)** | 2026-10-21 |  |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[ClunoGS: Compact Language 3D Gaussian Splatting via Unified Optimization](https://arxiv.org/abs/2610.30013v1)** | 2026-10-21 |  |
 | **[AirPlayground: Benchmarking Aerial Navigation across Diverse Reconstructed Environments](https://arxiv.org/abs/2610.29699v1)** | 2026-10-21 |  |
@@ -183,14 +191,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[NormLift: From Lifted Features To Semantic Reliability In 3D Gaussian Splatting](https://arxiv.org/abs/2609.18898v2)** | 2026-10-21 | Accepted at NeurIPS 2026 |
 | **[AutoPhyX: Automatic Text-Condition Physics Property Generation](https://arxiv.org/abs/2610.29517v1)** | 2026-10-21 | 36 pages. Project page: https://hb-pencil-zero.github.io/AutoPhyX/ |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
-| **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
-| **[AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting](https://arxiv.org/abs/2610.29374v1)** | 2026-10-21 | 17 pages, 7 figures, 7 tables. Published at AIST 2026 |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v1)** | 2026-10-21 |  |
-| **[WARPED: Wrist-Aligned Rendering for Robot Policy Learning from Egocentric Human Demonstrations](https://arxiv.org/abs/2604.10809v2)** | 2026-10-21 |  |
-| **[Real2Sem2Real: 3D Semantic Augmentations for Robot Learning from a Single Human RGB Demonstration](https://arxiv.org/abs/2610.28880v1)** | 2026-10-20 | Matthew Strong and Ankush K. Dhawan contributed equally. Project page: https://real2sem2real.github.io/ |
-| **[AEON: Unifying Video and 3D World Models](https://arxiv.org/abs/2610.28631v1)** | 2026-10-20 | Accepted to NeurIPS 2026. Project Page: https://weiqi-zhang.github.io/AEON |
-| **[KoalaGS: Complexity-Aware Continuous Level of Detail for Gaussian Splatting](https://arxiv.org/abs/2610.28615v1)** | 2026-10-20 | NeurIPS 2026 (Spotlight). Project page https://rdbch.github.io/koalags |
-| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v1)** | 2026-10-20 | 34 pages, 10 figures |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -499,6 +499,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RecallGS: Geometry-Grounded Recall for Online Semantic Gaussian Splatting](https://arxiv.org/abs/2610.31293v1)** | 2026-10-22 |  |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
@@ -513,16 +514,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains](https://arxiv.org/abs/2610.18730v1)** | 2026-10-13 |  |
 | **[Orientation Estimation of Cryo-EM Images for Molecules with Arbitrary Symmetry by Semidefinite Programming](https://arxiv.org/abs/2610.18691v1)** | 2026-10-13 |  |
 | **[Virtual Head Attention](https://arxiv.org/abs/2610.17959v1)** | 2026-10-13 | Published as a main conference paper at NeurIPS 2026 |
-| **[UniMetric: Universal Metric Scale Recovery for Visual Geometry Foundation Models](https://arxiv.org/abs/2610.16945v1)** | 2026-10-12 | 39 pages. Technical report. Code: https://github.com/yanglei18/UniMetric ; Data: https://huggingface.co/datasets/yanglei18/MetricBench |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v2)** | 2026-10-21 | 34 pages, 10 figures |
 | **[Multiplying matrices via polynomials: exposition and barriers](https://arxiv.org/abs/2610.30054v1)** | 2026-10-21 |  |
 | **[A spatiotemporal Bayesian hierarchical model of heat-related mortality in Catalonia, Spain (2012--2022): The role of environmental and socioeconomic modifiers](https://arxiv.org/abs/2511.17148v3)** | 2026-10-21 |  |
 | **[SoLiD26: A First Principles Solid-Liquid Interface Dataset for Machine-learned Interatomic Potentials](https://arxiv.org/abs/2609.28013v2)** | 2026-10-21 |  |
 | **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v1)** | 2026-10-21 |  |
-| **[Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection](https://arxiv.org/abs/2610.28490v1)** | 2026-10-20 | 34 pages, 10 figures |
 | **[A study of the $m$th relative Feng-Rao distances with a special emphasis on $C_{ab}$ curves](https://arxiv.org/abs/2610.26649v1)** | 2026-10-19 |  |
 | **[Too Emotional to Be Fake? Intra-Utterance Emotion Shifts Expose Failure Modes in Speech Deepfake Detectors](https://arxiv.org/abs/2610.22832v1)** | 2026-10-16 | Preprint. Under review |
 | **[D-Composer: Language Modeling for Simultaneous Drum Transcription and Sound Event Decomposition](https://arxiv.org/abs/2610.22535v1)** | 2026-10-15 | ISMIR 2026 |
