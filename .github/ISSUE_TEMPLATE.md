@@ -1,10 +1,16 @@
-# Latest 15 Papers - November 04, 2026
+# Latest 15 Papers - November 05, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2606.03994v2)** | 2026-11-03 | Project Page: https://snuvclab.github.io/SimuScene/ |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2611.04221v1)** | 2026-11-03 | 12 pages, 4 figures, 8 tables. The supplementary material referenced in the text is not included in this version |
+| **[3D dark matter map of the JWST COSMOS-Web field using diffusion-based generative priors](https://arxiv.org/abs/2611.03786v1)** | 2026-11-02 | 24 pages, 5 main figures, 6 extended data figures |
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
 | **[AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras](https://arxiv.org/abs/2611.02884v1)** | 2026-11-02 | 8 pages, 5 figures, 5 tables. Project page: https://hwanggb.github.io/AnchorHEC/ |
 | **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v4)** | 2026-11-02 | 8 pages, 5 figures. Accepted to IEEE Intelligent Vehicles Symposium (IV) 2026. Revised version (v4) presents camera-ready publication |
@@ -14,16 +20,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
 | **[Learning from high-resolution 2D images to reconstruct 3D microstructures](https://arxiv.org/abs/2611.02204v1)** | 2026-11-01 |  |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[Task-driven sparse-view planar X-ray computed tomography for axial metrology](https://arxiv.org/abs/2611.01537v1)** | 2026-11-01 |  |
-| **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
-| **[Stabilizing Camera-Controlled Novel View Synthesis at Inference Time](https://arxiv.org/abs/2609.03639v2)** | 2026-10-31 |  |
-| **[SceneBound: How Much Should a Streaming 3D Reconstruction Model Remember?](https://arxiv.org/abs/2611.00756v1)** | 2026-10-31 | 34 pages, 8 figures, 27 tables |
-| **[A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482v1)** | 2026-10-31 | 34 pages (8-page main text and appendix), 7 figures, 21 tables |
-| **[Real-VAS: a Real-World Video Amodal Segmentation Dataset](https://arxiv.org/abs/2611.00430v1)** | 2026-10-30 | 34 pages, including supplementary material. Project page: https://finlay-hudson.github.io/real_vas |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -33,11 +35,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -48,12 +51,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Gaussians on Fire: High-Frequency Reconstruction of Flames](https://arxiv.org/abs/2511.22459v3)** | 2026-10-26 | 38 pages, 17 figures, 8 tables; ECCV 2026 version with corrected results (bugfix in the initialization of our method for real-world scenes) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Sparse Anchors for Visual Multi-Session Registration in Changing Environments](https://arxiv.org/abs/2611.05084v1)** | 2026-11-03 | 8 pages, 4 figures, 2 tables |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Solv3R: 3D Looped Transformer as a Multi-view Solver](https://arxiv.org/abs/2611.02857v1)** | 2026-11-02 | preprint; project page: https://ubc-vision.github.io/solv3r/ |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
@@ -65,14 +70,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[Metric Scale for Insta360 Structure-from-Motion from the Camera's Embedded IMU](https://arxiv.org/abs/2610.35554v2)** | 2026-10-27 | 17 pages, 9 figures, 4 tables. Dataset: https://huggingface.co/datasets/OverTheReality/OverMaps360_50 |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Synthetic Deformable Tubular Benchmark: A mechanically annotated dataset for evaluating deformable 3D reconstruction](https://arxiv.org/abs/2610.35621v1)** | 2026-10-26 | 34 pages, including 5 pages of Supplementary Methods; 10 main-text figures and 1 supplementary figure |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
@@ -85,11 +89,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818v1)** | 2026-10-27 | Project Page: https://3dgofish.github.io/ |
 | **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668v1)** | 2026-10-27 | Project page at https://honeycomb-surfels.github.io/ |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[\textit{4DSurf}: High-Fidelity Dynamic Scene Surface Reconstruction](https://arxiv.org/abs/2603.28064v2)** | 2026-10-26 | Accepted to CVPR 2026. Project Page: https://github.com/RyansLearning/4DSurf |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
@@ -103,11 +108,17 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[MeshSuite: A Unified Benchmark for Triangle- and Mesh-Based Neural Rendering](https://arxiv.org/abs/2609.01306v5)** | 2026-10-28 |  |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers](https://arxiv.org/abs/2606.31585v2)** | 2026-11-03 | Accepted to NeurIPS 2026 Main Track. The code is available at https://github.com/sbintuitions/dppe |
+| **[GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices](https://arxiv.org/abs/2611.04804v1)** | 2026-11-03 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
+| **[iMED: A Multi-Endoscope Dataset for Surgical 3D Perception](https://arxiv.org/abs/2611.04755v1)** | 2026-11-03 | Published at ECCV 2026. 25 pages, including supplementary material. Code and dataset: https://github.com/surgical-vision/imed |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
+| **[SettleSplat: Monocular Gaussian Mapping under In-View Scene Changes](https://arxiv.org/abs/2611.04195v1)** | 2026-11-03 | Accepted at WACV 2027 |
 | **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
 | **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
@@ -116,17 +127,18 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](https://arxiv.org/abs/2605.18599v3)** | 2026-11-02 | Accepted at NeurIPS 2026. Updated manuscript with revised method description and additional experiments. Project page: https://hangzay.github.io/ssd_lvsm/ |
 | **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
-| **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
-| **[Stabilizing Camera-Controlled Novel View Synthesis at Inference Time](https://arxiv.org/abs/2609.03639v2)** | 2026-10-31 |  |
-| **[A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins](https://arxiv.org/abs/2611.00870v1)** | 2026-10-31 |  |
-| **[SE-Mem: Semantic-Episodic Memory for Scene-Consistent Generative View Synthesis](https://arxiv.org/abs/2611.00658v1)** | 2026-10-31 | 13 pages, 6 figures |
-| **[MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting](https://arxiv.org/abs/2611.00375v1)** | 2026-10-30 |  |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v1)** | 2026-11-03 |  |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
+| **[Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation](https://arxiv.org/abs/2611.04493v1)** | 2026-11-03 | 10 pages |
+| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
+| **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
 | **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
 | **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](https://arxiv.org/abs/2508.13537v2)** | 2026-11-02 | 23 pages, 13 figures |
@@ -134,18 +146,16 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
 | **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
-| **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
-| **[RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](https://arxiv.org/abs/2605.24290v2)** | 2026-11-02 |  |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v1)** | 2026-11-01 | Accepted to NeurIPS 2026 |
-| **[VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](https://arxiv.org/abs/2611.01939v1)** | 2026-11-01 | Accepted to NeurIPS 2026. Project page: https://vlsplat.github.io/ |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[AbacusGS: Gaussian Splatting without Per-Splat Sorting](https://arxiv.org/abs/2611.01534v1)** | 2026-11-01 | 10 pages, 5 figures, 6 tables |
-| **[RoboSnap: One-Shot Real-to-Sim Scene Generation for Generalizable Robot Learning and Evaluation](https://arxiv.org/abs/2607.06699v2)** | 2026-10-31 | 26 pages, 19 figures, Project page: https://robosnap.github.io |
-| **[3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation](https://arxiv.org/abs/2611.01122v1)** | 2026-10-31 | A collection of paper on 3DGS for Wireless Communications can be found at https://github.com/AI4Wireless/3DGS_for_Wireless |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
+| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
+| **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
 | **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
 | **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](https://arxiv.org/abs/2508.13537v2)** | 2026-11-02 | 23 pages, 13 figures |
@@ -154,36 +164,32 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
 | **[RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](https://arxiv.org/abs/2605.24290v2)** | 2026-11-02 |  |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v1)** | 2026-11-01 | Accepted to NeurIPS 2026 |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[GSExplorer: Interactive World Generation with a Persistent 3D Gaussian World State](https://arxiv.org/abs/2611.01543v1)** | 2026-11-01 | 17 pages |
-| **[AbacusGS: Gaussian Splatting without Per-Splat Sorting](https://arxiv.org/abs/2611.01534v1)** | 2026-11-01 | 10 pages, 5 figures, 6 tables |
-| **[3D Gaussian Splatting: A New Paradigm for Wireless Environment Representation](https://arxiv.org/abs/2611.01122v1)** | 2026-10-31 | A collection of paper on 3DGS for Wireless Communications can be found at https://github.com/AI4Wireless/3DGS_for_Wireless |
-| **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
-| **[A Reproducible Reconstruction and Evaluation Framework for Photorealistic Lunar Analog Scene Reconstruction Toward Digital Twins](https://arxiv.org/abs/2611.00870v1)** | 2026-10-31 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v1)** | 2026-11-03 |  |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices](https://arxiv.org/abs/2611.04804v1)** | 2026-11-03 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
+| **[Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666v1)** | 2026-11-03 | Accepted to NeurIPS 2026. Project page: https://oc-dev74.github.io/Phase-DGS/ |
+| **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
+| **[Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation](https://arxiv.org/abs/2611.04493v1)** | 2026-11-03 | 10 pages |
+| **[IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting](https://arxiv.org/abs/2611.04374v1)** | 2026-11-03 |  |
+| **[EndoS3:Endoscopic Semantic Splatting SLAM](https://arxiv.org/abs/2611.04358v1)** | 2026-11-03 |  |
+| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
+| **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
 | **[Octree-Context Gaussian Splatting with Multi-Order Propagation for Channel Knowledge Maps](https://arxiv.org/abs/2605.22961v2)** | 2026-11-02 | Submitted to IEEE ICC 2027 |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
 | **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
-| **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](https://arxiv.org/abs/2508.13537v2)** | 2026-11-02 | 23 pages, 13 figures |
-| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v4)** | 2026-11-02 | 8 pages, 5 figures. Accepted to IEEE Intelligent Vehicles Symposium (IV) 2026. Revised version (v4) presents camera-ready publication |
-| **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
-| **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
-| **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
-| **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
-| **[RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](https://arxiv.org/abs/2605.24290v2)** | 2026-11-02 |  |
-| **[FLEG: Feed-Forward Language Embedded Gaussian Splatting from Any Views via Compact Semantic Representation](https://arxiv.org/abs/2512.17541v3)** | 2026-11-01 | Accepted by ECCV 2026. Project Page: https://fangzhou2000.github.io/projects/fleg |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v1)** | 2026-11-01 | Accepted to NeurIPS 2026 |
-| **[VLSplat: Vision-Language Guided Object-Centric 3D Gaussian Splatting via Scene Graph](https://arxiv.org/abs/2611.01939v1)** | 2026-11-01 | Accepted to NeurIPS 2026. Project page: https://vlsplat.github.io/ |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[AbacusGS: Gaussian Splatting without Per-Splat Sorting](https://arxiv.org/abs/2611.01534v1)** | 2026-11-01 | 10 pages, 5 figures, 6 tables |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -193,11 +199,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -208,11 +215,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818v1)** | 2026-10-27 | Project Page: https://3dgofish.github.io/ |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -223,11 +231,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget](https://arxiv.org/abs/2610.38278v1)** | 2026-10-28 |  |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
+| **[CaliSplat: Sparse Gaussian Fitting and Calibrated Rate Allocation for Image Compression](https://arxiv.org/abs/2611.04413v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -237,11 +247,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -251,11 +262,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -265,11 +277,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -280,11 +293,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
@@ -297,13 +311,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Does VGGT Know What It Does Not Know?](https://arxiv.org/abs/2610.35806v1)** | 2026-10-26 | 9 pages, 6 figures, 7 tables |
-| **[CoMo3R-SLAM: Collaborative Monocular Dense SLAM with Learned 3D Reconstruction Priors for Outdoor Multi-Agent Systems](https://arxiv.org/abs/2605.30488v3)** | 2026-10-26 | Code and project website: https://como3r-slam.github.io |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
@@ -315,11 +328,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting](https://arxiv.org/abs/2610.36760v1)** | 2026-10-27 |  |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -329,11 +343,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -343,11 +358,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -357,11 +373,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -371,11 +388,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666v1)** | 2026-11-03 | Accepted to NeurIPS 2026. Project page: https://oc-dev74.github.io/Phase-DGS/ |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -386,11 +405,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -402,11 +422,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM](https://arxiv.org/abs/2610.36853v1)** | 2026-10-27 | 10 pages, 4 figures |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 | **[SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation](https://arxiv.org/abs/2610.36312v1)** | 2026-10-26 | 9 pages |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -416,11 +437,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -430,11 +452,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -444,11 +467,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -458,11 +482,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -472,11 +497,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
 
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
+| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
@@ -486,4 +512,3 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[Cryptanalysis and Repair of "Decentralized Multi-authority ABE for NC$^1$ from BDH"](https://arxiv.org/abs/2610.29224v2)** | 2026-10-26 |  |
