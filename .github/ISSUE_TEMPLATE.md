@@ -1,11 +1,17 @@
-# Latest 15 Papers - November 05, 2026
+# Latest 15 Papers - November 06, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849v1)** | 2026-11-04 | project page: https://hanyuc.com/trainspotting |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874v1)** | 2026-11-04 | Feed Forward 3D Reconstruction and Spatial Understanding, Multi-view Promptable Segmentation, Instance Tracking |
+| **[EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory](https://arxiv.org/abs/2510.01183v2)** | 2026-11-04 | Code available at: https://github.com/JiahaoPlus/EvoWorld |
 | **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2606.03994v2)** | 2026-11-03 | Project Page: https://snuvclab.github.io/SimuScene/ |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
@@ -14,16 +20,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
 | **[AnchorHEC: Targetless Hand-Eye Calibration of Wrist and Fixed Cameras](https://arxiv.org/abs/2611.02884v1)** | 2026-11-02 | 8 pages, 5 figures, 5 tables. Project page: https://hwanggb.github.io/AnchorHEC/ |
 | **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v4)** | 2026-11-02 | 8 pages, 5 figures. Accepted to IEEE Intelligent Vehicles Symposium (IV) 2026. Revised version (v4) presents camera-ready publication |
-| **[PhysOmni: Physics-Grounded Multi-Object Scene Generation from a Single Image with Real-Time Interaction](https://arxiv.org/abs/2605.20290v3)** | 2026-11-02 | ACMMM 2026. Project page: https://zephipage.github.io/PhysOmni/ |
-| **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
-| **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
-| **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
-| **[Learning from high-resolution 2D images to reconstruct 3D microstructures](https://arxiv.org/abs/2611.02204v1)** | 2026-11-01 |  |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -34,11 +37,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849v1)** | 2026-11-04 | project page: https://hanyuc.com/trainspotting |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -50,12 +56,15 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020v1)** | 2026-11-04 |  |
 | **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Sparse Anchors for Visual Multi-Session Registration in Changing Environments](https://arxiv.org/abs/2611.05084v1)** | 2026-11-03 | 8 pages, 4 figures, 2 tables |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
@@ -66,15 +75,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
 | **[A Lightweight Fiducial-Based Pipeline for 3D Hyperspectral Mapping of ex-vivo Lumpectomy Specimens](https://arxiv.org/abs/2606.14534v3)** | 2026-10-30 |  |
-| **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
-| **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
-| **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
-| **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
@@ -86,13 +94,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818v1)** | 2026-10-27 | Project Page: https://3dgofish.github.io/ |
-| **[Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction](https://arxiv.org/abs/2610.37668v1)** | 2026-10-27 | Project page at https://honeycomb-surfels.github.io/ |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
@@ -105,51 +113,54 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[MeshSuite: A Unified Benchmark for Triangle- and Mesh-Based Neural Rendering](https://arxiv.org/abs/2609.01306v5)** | 2026-10-28 |  |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
+| **[Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273v1)** | 2026-11-04 | Accepted at the Workshop on Computer Vision for Developing Countries (CV4DC), ACCV 2026 (Proceedings Track) |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow](https://arxiv.org/abs/2611.04804v2)** | 2026-11-04 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
+| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v2)** | 2026-11-04 | Accepted at NeurIPS 2026. 24 pages, including references, appendix, and checklist |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[DPPE: Rethinking Camera-Based Positional Encoding for Scaling Multi-View Transformers](https://arxiv.org/abs/2606.31585v2)** | 2026-11-03 | Accepted to NeurIPS 2026 Main Track. The code is available at https://github.com/sbintuitions/dppe |
-| **[GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices](https://arxiv.org/abs/2611.04804v1)** | 2026-11-03 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
 | **[iMED: A Multi-Endoscope Dataset for Surgical 3D Perception](https://arxiv.org/abs/2611.04755v1)** | 2026-11-03 | Published at ECCV 2026. 25 pages, including supplementary material. Code and dataset: https://github.com/surgical-vision/imed |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
 | **[SettleSplat: Monocular Gaussian Mapping under In-View Scene Changes](https://arxiv.org/abs/2611.04195v1)** | 2026-11-03 | Accepted at WACV 2027 |
-| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
 | **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
-| **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
-| **[UniCross3D: Unified Cross-View and Cross-Domain Diffusion for Consistent Single-Image 3D Generation](https://arxiv.org/abs/2611.02631v1)** | 2026-11-02 |  |
-| **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
-| **[Resolving Representation Ambiguity in Feedforward Novel View Synthesis Transformer via Semantic-Spatial Decoupling](https://arxiv.org/abs/2605.18599v3)** | 2026-11-02 | Accepted at NeurIPS 2026. Updated manuscript with revised method description and additional experiments. Project page: https://hangzay.github.io/ssd_lvsm/ |
-| **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v1)** | 2026-11-03 |  |
+| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v2)** | 2026-11-04 |  |
+| **[AEGIS: Preserving Privacy of 3D Facial Avatars with Adversarial Perturbations](https://arxiv.org/abs/2511.17747v2)** | 2026-11-04 | Accepted to WACV 2027. Source code at: https://github.com/Woleek/AEGIS |
+| **[Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590v2)** | 2026-11-04 | 13 pages. Submitted to IEEE TCSVT. Revised the presentation and appendix, with additional minor changes |
+| **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
+| **[TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics](https://arxiv.org/abs/2611.06442v1)** | 2026-11-04 | 8 pages, 6 figures |
+| **[Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273v1)** | 2026-11-04 | Accepted at the Workshop on Computer Vision for Developing Countries (CV4DC), ACCV 2026 (Proceedings Track) |
+| **[CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2611.06258v1)** | 2026-11-04 | Accepted to WACV 2027 |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020v1)** | 2026-11-04 |  |
+| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v2)** | 2026-11-04 | Accepted at NeurIPS 2026. 24 pages, including references, appendix, and checklist |
+| **[GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats](https://arxiv.org/abs/2611.05593v1)** | 2026-11-03 | Under review at TMLR. 32 pages. Project page: https://svlwoof.github.io/gaussianrenderformer |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
-| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
-| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
-| **[Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation](https://arxiv.org/abs/2611.04493v1)** | 2026-11-03 | 10 pages |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
-| **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
-| **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
-| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
-| **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](https://arxiv.org/abs/2508.13537v2)** | 2026-11-02 | 23 pages, 13 figures |
-| **[Material-informed Gaussian Splatting for 3D World Reconstruction in a Digital Twin](https://arxiv.org/abs/2511.20348v4)** | 2026-11-02 | 8 pages, 5 figures. Accepted to IEEE Intelligent Vehicles Symposium (IV) 2026. Revised version (v4) presents camera-ready publication |
-| **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
-| **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
-| **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590v2)** | 2026-11-04 | 13 pages. Submitted to IEEE TCSVT. Revised the presentation and appendix, with additional minor changes |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020v1)** | 2026-11-04 |  |
+| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v2)** | 2026-11-04 | Accepted at NeurIPS 2026. 24 pages, including references, appendix, and checklist |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
@@ -157,37 +168,34 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
 | **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
 | **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
-| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
 | **[EAvatar: Expression-Aware Head Avatar Reconstruction with Generative Geometry Priors](https://arxiv.org/abs/2508.13537v2)** | 2026-11-02 | 23 pages, 13 figures |
 | **[GaussFlaw: Fine-Grained Perceptual Diagnosis for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02767v1)** | 2026-11-02 |  |
-| **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
-| **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
-| **[SCARF: A Scene-Adaptive Depth-Guided G-3DGS Encoder Accelerator with Semantic Reuse and Fused Dataflow](https://arxiv.org/abs/2611.02365v1)** | 2026-11-02 | 17 pages, 16 figures. Accepted by MICRO 2026; awarded all three MICRO 2026 Artifact Evaluation badges. Code repo: https://github.com/MAdrid1011/SCARF |
-| **[RxGS: Receiver-Generalizable 3D Gaussian Splatting for Radio-Frequency Data Synthesis](https://arxiv.org/abs/2605.24290v2)** | 2026-11-02 |  |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v1)** | 2026-11-03 |  |
-| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
-| **[GSPIM: A Temporal-Locality-Aware 4DGS Accelerator for PIM-Enabled Edge Devices](https://arxiv.org/abs/2611.04804v1)** | 2026-11-03 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
-| **[Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666v1)** | 2026-11-03 | Accepted to NeurIPS 2026. Project page: https://oc-dev74.github.io/Phase-DGS/ |
-| **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
-| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
-| **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
-| **[Physical Diffusion Policy via MPM-Guided 3D Gaussian Simulation](https://arxiv.org/abs/2611.04493v1)** | 2026-11-03 | 10 pages |
-| **[IGSW: Multi-Weather Urban Scene Reconstruction with Intrinsic-Decoupled Gaussian Splatting](https://arxiv.org/abs/2611.04374v1)** | 2026-11-03 |  |
-| **[EndoS3:Endoscopic Semantic Splatting SLAM](https://arxiv.org/abs/2611.04358v1)** | 2026-11-03 |  |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
-| **[AniGS: Bridging Rendering and Diffusion Prior for 3D Scene Animation](https://arxiv.org/abs/2607.18539v2)** | 2026-11-03 | Preprint. Project page: https://yccyenchicheng.github.io/AniGS/ |
-| **[Octree-Context Gaussian Splatting with Multi-Order Propagation for Channel Knowledge Maps](https://arxiv.org/abs/2605.22961v2)** | 2026-11-02 | Submitted to IEEE ICC 2027 |
-| **[Aes3D: Aesthetic Assessment in 3D Gaussian Splatting](https://arxiv.org/abs/2605.05155v5)** | 2026-11-02 |  |
-| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v1)** | 2026-11-02 |  |
+| **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v2)** | 2026-11-04 |  |
+| **[AEGIS: Preserving Privacy of 3D Facial Avatars with Adversarial Perturbations](https://arxiv.org/abs/2511.17747v2)** | 2026-11-04 | Accepted to WACV 2027. Source code at: https://github.com/Woleek/AEGIS |
+| **[Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590v2)** | 2026-11-04 | 13 pages. Submitted to IEEE TCSVT. Revised the presentation and appendix, with additional minor changes |
+| **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
+| **[TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics](https://arxiv.org/abs/2611.06442v1)** | 2026-11-04 | 8 pages, 6 figures |
+| **[Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273v1)** | 2026-11-04 | Accepted at the Workshop on Computer Vision for Developing Countries (CV4DC), ACCV 2026 (Proceedings Track) |
+| **[CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2611.06258v1)** | 2026-11-04 | Accepted to WACV 2027 |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[AEON: Unifying Video and 3D World Models](https://arxiv.org/abs/2610.28631v2)** | 2026-11-04 | Accepted to NeurIPS 2026. Project Page: https://weiqi-zhang.github.io/AEON |
+| **[METRIC-GS: Selective Metric-Scale Estimation for 3D Gaussian Splatting](https://arxiv.org/abs/2611.06020v1)** | 2026-11-04 |  |
+| **[GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow](https://arxiv.org/abs/2611.04804v2)** | 2026-11-04 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
+| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v2)** | 2026-11-04 | Accepted at NeurIPS 2026. 24 pages, including references, appendix, and checklist |
+| **[GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats](https://arxiv.org/abs/2611.05593v1)** | 2026-11-03 | Under review at TMLR. 32 pages. Project page: https://svlwoof.github.io/gaussianrenderformer |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -198,11 +206,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -214,11 +224,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818v1)** | 2026-10-27 | Project Page: https://3dgofish.github.io/ |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -230,11 +242,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget](https://arxiv.org/abs/2610.38278v1)** | 2026-10-28 |  |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[CaliSplat: Sparse Gaussian Fitting and Calibrated Rate Allocation for Image Compression](https://arxiv.org/abs/2611.04413v1)** | 2026-11-03 |  |
@@ -246,11 +260,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -261,11 +277,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -276,11 +295,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -292,11 +313,14 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874v1)** | 2026-11-04 | Feed Forward 3D Reconstruction and Spatial Understanding, Multi-view Promptable Segmentation, Instance Tracking |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[ReVar3R: Gauge-Aware Perturbation Uncertainty for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2610.07883v2)** | 2026-11-02 |  |
@@ -308,13 +332,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
-| **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[OctreeSplat: Hierarchical Octree-Guided Feed-Forward Gaussian Splatting](https://arxiv.org/abs/2611.02658v1)** | 2026-11-02 |  |
@@ -326,12 +350,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[GeoGSplat: Geometry-Grounded Non-Pixel-Aligned Gaussian Splatting](https://arxiv.org/abs/2610.36760v1)** | 2026-10-27 |  |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -342,11 +367,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -357,11 +384,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -372,11 +401,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -387,11 +418,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Phase-DGS: Phase-guided Dynamic Gaussian Splatting from Unsynchronized Multi-view Video](https://arxiv.org/abs/2611.04666v1)** | 2026-11-03 | Accepted to NeurIPS 2026. Project page: https://oc-dev74.github.io/Phase-DGS/ |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
@@ -404,11 +437,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -420,12 +455,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 | **[LingGS: Decoupling Feed-Forward Geometry Prediction from Camera Tracking for High-Fidelity Gaussian SLAM](https://arxiv.org/abs/2610.36853v1)** | 2026-10-27 | 10 pages, 4 figures |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
-| **[SG^2SLAM: Spatial Geometry-Informed 3D Gaussian Splatting SLAM for Monocular Outdoor Navigation](https://arxiv.org/abs/2610.36312v1)** | 2026-10-26 | 9 pages |
 
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -436,11 +472,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -451,11 +489,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -466,11 +506,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -481,11 +523,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -496,11 +540,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
 
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
+| **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
+| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 | **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
@@ -511,4 +557,3 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[4D Reconstruction with Events &amp; RGB](https://arxiv.org/abs/2610.36610v1)** | 2026-10-27 | Accepted at NeVi 2026 workshop at the 19th European Conference on Computer Vision (ECCV 2026) |
