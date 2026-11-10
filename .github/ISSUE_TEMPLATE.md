@@ -1,10 +1,16 @@
-# Latest 15 Papers - November 09, 2026
+# Latest 15 Papers - November 10, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ObjView-Bench: Rethinking Difficulty and Deployment for Object-Centric View Planning](https://arxiv.org/abs/2605.10707v2)** | 2026-11-06 | Accepted to NeurIPS 2026 |
+| **[A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482v2)** | 2026-11-06 | 39 pages, 9 figures |
+| **[Flex-RSI: Benchmarking Recursive Self-Improvement of Frontier Agents](https://arxiv.org/abs/2611.08946v1)** | 2026-11-06 | Project page: https://flex-rsi.github.io. Jingdong Zhang and Jionghao Wang contributed equally |
+| **[Rethinking the State Update Gate for Long-Sequence Recurrent 3D Reconstruction](https://arxiv.org/abs/2605.16981v4)** | 2026-11-06 | Accepted at NeurIPS 2026 |
+| **[Dynamic GPU Voxel Grids and Voxel-sequential Processing in NanoVDB](https://arxiv.org/abs/2611.08665v1)** | 2026-11-05 |  |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849v2)** | 2026-11-05 | project page: https://hanyuc.com/trainspotting |
 | **[Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers](https://arxiv.org/abs/2611.07955v1)** | 2026-11-05 |  |
 | **[Georeferenced Cross-View 3D Reconstruction from Ground and Satellite Images](https://arxiv.org/abs/2611.07575v1)** | 2026-11-05 | Accepted in NeurIPS 2026 |
@@ -14,16 +20,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Feature Puzzles: Single-Image Supervision for Multi-View 3D-Aware Segmentation](https://arxiv.org/abs/2611.05874v1)** | 2026-11-04 | Feed Forward 3D Reconstruction and Spatial Understanding, Multi-view Promptable Segmentation, Instance Tracking |
 | **[EvoWorld: Evolving Panoramic World Generation with Explicit 3D Memory](https://arxiv.org/abs/2510.01183v2)** | 2026-11-04 | Code available at: https://github.com/JiahaoPlus/EvoWorld |
-| **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
-| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
-| **[Beyond the Bochner Method: Optimal Spectral Gaps for Block Dynamics of Spin Systems like the $O(N)$ Model](https://arxiv.org/abs/2611.05228v1)** | 2026-11-03 | 42 pages |
-| **[SimuScene: Simulation-Ready Compositional 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2606.03994v2)** | 2026-11-03 | Project Page: https://snuvclab.github.io/SimuScene/ |
-| **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
-| **[Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2611.04221v1)** | 2026-11-03 | 12 pages, 4 figures, 8 tables. The supplementary material referenced in the text is not included in this version |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -41,6 +42,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## multi-view stereo
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[Trainspotting: Learning Object-Centric 3D Reconstruction from Found Photos](https://arxiv.org/abs/2611.06849v2)** | 2026-11-05 | project page: https://hanyuc.com/trainspotting |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -55,11 +57,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 
 ## structure from motion
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Emergence of a Shared Canonical Object Frame from In-the-Wild Videos](https://arxiv.org/abs/2606.30058v2)** | 2026-11-05 | Accepted at NeurIPS-2026 |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[Degree-Equalized View-Graph Selection under Tight Pair Budgets](https://arxiv.org/abs/2611.07498v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -73,12 +76,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[RigidDriveGS: Object-Centric Vehicle Reconstruction from Fixed Multi-Camera Drive-Through Captures](https://arxiv.org/abs/2603.26638v3)** | 2026-11-01 | 8 pages, 6 figures, Accepted at IEEE/CVF WACV 2027 |
 | **[Depth Anyviewpoint? Evaluating Monocular Depth Over Viewpoint Sequences](https://arxiv.org/abs/2611.02203v1)** | 2026-11-01 |  |
-| **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
-| **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
 
 ## surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments](https://arxiv.org/abs/2611.05361v1)** | 2026-11-03 | 20 pages, 12 figures |
@@ -92,12 +94,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
-| **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 
 ## neural rendering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[PlayGen2: Learning Real-Time Playable Worlds with Explicit 3D State](https://arxiv.org/abs/2611.07867v1)** | 2026-11-05 | Code: https://github.com/MajorDavidZhang/PlayGen-2 |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -112,11 +113,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[3D Neural Rendering for Automated Ultrasonic Laser Scans](https://arxiv.org/abs/2611.00527v1)** | 2026-10-31 | LA-UR-26-28755 , For SEM-IMAC-CV |
 | **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
-| **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting](https://arxiv.org/abs/2611.00375v2)** | 2026-11-06 | Accepted at IEEE/CVF WACV 2027 |
+| **[Left-Right-Consistent Iterative Stereo Matching via Cross-Injection](https://arxiv.org/abs/2611.09458v1)** | 2026-11-06 | Accepted to WACV 2027 |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation](https://arxiv.org/abs/2611.08372v1)** | 2026-11-05 | Project page: https://robin-lab.cs.utexas.edu/momasplat |
 | **[Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting](https://arxiv.org/abs/2611.07979v1)** | 2026-11-05 | 10 pages, 7 figures |
 | **[AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](https://arxiv.org/abs/2611.07709v1)** | 2026-11-05 | Accpeted to NeurIPS 2026. Project page: https://eldentse.github.io/AffineGS/ |
@@ -129,13 +132,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273v1)** | 2026-11-04 | Accepted at the Workshop on Computer Vision for Developing Countries (CV4DC), ACCV 2026 (Proceedings Track) |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
-| **[GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow](https://arxiv.org/abs/2611.04804v2)** | 2026-11-04 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
-| **[3D Gaussian Splatting within Self-Learned Neural View-Dependent Color Fields](https://arxiv.org/abs/2611.03114v2)** | 2026-11-04 | Accepted at NeurIPS 2026. 24 pages, including references, appendix, and checklist |
-| **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BLaFA: Bridging Language to 3D Functional Affordances for Dexterous Robotic Grasping in Tool Use](https://arxiv.org/abs/2604.08410v3)** | 2026-11-06 | Code will be publicly available at https://github.com/PopeyePxx/BLaFA |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation](https://arxiv.org/abs/2611.08372v1)** | 2026-11-05 | Project page: https://robin-lab.cs.utexas.edu/momasplat |
 | **[InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](https://arxiv.org/abs/2611.08330v1)** | 2026-11-05 | NeurIPS 2026. Project page: https://coolho1129.github.io/InstantHand-page/ |
 | **[Hierarchical Incremental Beta Splatting for Online Reconstruction](https://arxiv.org/abs/2611.08288v1)** | 2026-11-05 | accepted to WACV 2027, project page: https://linus-franke.com/hibs/ |
@@ -149,12 +151,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
 | **[TwinBridge: Digital Twin-Driven Policy and Reward Transfer for Real-World Reinforcement Learning in Laboratory Robotics](https://arxiv.org/abs/2611.06442v1)** | 2026-11-04 | 8 pages, 6 figures |
 | **[Quo Vadis, Driving Scene Reconstruction? Occlusion-Aware Gaussian Densification](https://arxiv.org/abs/2611.06273v1)** | 2026-11-04 | Accepted at the Workshop on Computer Vision for Developing Countries (CV4DC), ACCV 2026 (Proceedings Track) |
-| **[CrossPressor: Scalable Cross-View Fusion for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2611.06258v1)** | 2026-11-04 | Accepted to WACV 2027 |
-| **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](https://arxiv.org/abs/2611.08264v1)** | 2026-11-05 |  |
 | **[Perception Over Geometry: Rethinking Gaussian Allocation in Mesh-based Splatting](https://arxiv.org/abs/2611.07979v1)** | 2026-11-05 | 10 pages, 7 figures |
 | **[AffineGS: Unlocking Accurate Geometry in 3DGS via Spatially Varying Affine Rectification](https://arxiv.org/abs/2611.07709v1)** | 2026-11-05 | Accpeted to NeurIPS 2026. Project page: https://eldentse.github.io/AffineGS/ |
@@ -169,11 +170,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[EmbedTalk: Talking Head Synthesis using Gaussian Embeddings](https://arxiv.org/abs/2603.07604v3)** | 2026-11-03 | Camera Ready version for WACV 2027 |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v1)** | 2026-11-03 |  |
 | **[3DGS-VBench+ and 3DGSV-Assessor: A Multi-Dimensional Subjective Benchmark and a Reference-Flexible Objective Model for 3D Gaussian Splatting Video Quality Assessment](https://arxiv.org/abs/2611.04498v1)** | 2026-11-03 |  |
-| **[Unified Loss-Aware Density Control for 3D Gaussian Splatting](https://arxiv.org/abs/2611.02044v2)** | 2026-11-03 | Accepted to NeurIPS 2026 |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MoRE-GS: Motion-Regime Experts for Future Gaussian Splatting](https://arxiv.org/abs/2611.00375v2)** | 2026-11-06 | Accepted at IEEE/CVF WACV 2027 |
+| **[BLaFA: Bridging Language to 3D Functional Affordances for Dexterous Robotic Grasping in Tool Use](https://arxiv.org/abs/2604.08410v3)** | 2026-11-06 | Code will be publicly available at https://github.com/PopeyePxx/BLaFA |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation](https://arxiv.org/abs/2611.08372v1)** | 2026-11-05 | Project page: https://robin-lab.cs.utexas.edu/momasplat |
 | **[InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image](https://arxiv.org/abs/2611.08330v1)** | 2026-11-05 | NeurIPS 2026. Project page: https://coolho1129.github.io/InstantHand-page/ |
 | **[Hierarchical Incremental Beta Splatting for Online Reconstruction](https://arxiv.org/abs/2611.08288v1)** | 2026-11-05 | accepted to WACV 2027, project page: https://linus-franke.com/hibs/ |
@@ -186,13 +189,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Stylos: Multi-View 3D Stylization with Single-Forward Gaussian Splatting](https://arxiv.org/abs/2509.26455v4)** | 2026-11-05 | Accepted by ICLR 2026 |
 | **[Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving](https://arxiv.org/abs/2611.07081v1)** | 2026-11-04 |  |
 | **[GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs](https://arxiv.org/abs/2611.05359v2)** | 2026-11-04 |  |
-| **[AEGIS: Preserving Privacy of 3D Facial Avatars with Adversarial Perturbations](https://arxiv.org/abs/2511.17747v2)** | 2026-11-04 | Accepted to WACV 2027. Source code at: https://github.com/Woleek/AEGIS |
-| **[Feed-Forward Multi-View Feature Coding for 3D Gaussian Splatting](https://arxiv.org/abs/2610.20590v2)** | 2026-11-04 | 13 pages. Submitted to IEEE TCSVT. Revised the presentation and appendix, with additional minor changes |
-| **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -210,6 +211,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian surface reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -223,11 +225,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[GOFish: Full Field-of-View Gaussian Splatting and Mesh Extraction](https://arxiv.org/abs/2610.37818v1)** | 2026-10-27 | Project Page: https://3dgofish.github.io/ |
 
 ## Gaussian pruning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -241,11 +243,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 | **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
-| **[BudSplat: Feed-forward 3D Gaussian Splatting under a Rendering Budget](https://arxiv.org/abs/2610.38278v1)** | 2026-10-28 |  |
 
 ## Gaussian compression
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -264,6 +266,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian density control
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -281,6 +284,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian importance
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[BudgetSplat: Budget-Controllable Generalizable Gaussian Splatting](https://arxiv.org/abs/2611.06593v1)** | 2026-11-04 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -299,6 +303,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian uncertainty
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -317,6 +322,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482v2)** | 2026-11-06 | 39 pages, 9 figures |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[Rotation Is Token-Blind: A Structural Criterion for Post-Training Quantization of Feed-Forward Geometry Transformers](https://arxiv.org/abs/2611.07955v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -328,14 +335,13 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Data-driven candidate structure ensemble generation beyond the convex hull with crystALL approach](https://arxiv.org/abs/2611.02584v1)** | 2026-11-02 | 19 pages, 7 figures, software repository https://github.com/PhasesResearchLab/crystALL |
 | **[TRUCO: A Scalable Lock-Free Algorithm for Parallel Contour Extraction](https://arxiv.org/abs/2610.37297v2)** | 2026-11-01 |  |
 | **[Improvise, Adapt, Overcome: An On-The-Fly Multifidelity Algorithm for Efficient Machine Learning](https://arxiv.org/abs/2606.02662v2)** | 2026-10-31 | Supplementary Information added within the main text towards the end; updated several things in main text and added several things in SI |
-| **[A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482v1)** | 2026-10-31 | 34 pages (8-page main text and appendix), 7 figures, 21 tables |
 | **[GeoCond: A Conditioning-Aware Reliability Adapter for Feed-Forward 3D Reconstruction](https://arxiv.org/abs/2609.18465v2)** | 2026-10-29 | Accepted in WACV 2027 |
 | **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
-| **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 
 ## feed-forward Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[Wide View Synthesis from Overlapping Perspective Cameras in Autonomous Driving](https://arxiv.org/abs/2611.07081v1)** | 2026-11-04 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -350,11 +356,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
 | **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
-| **[Pair-Dependent Judge Errors Change the Minimax Rate of Semantic Entropy](https://arxiv.org/abs/2610.39196v1)** | 2026-10-29 | 47 pages, 5 figures, 3 tables. Code: https://github.com/yahiko-l/pair-dependent-semantic-entropy |
 
 ## pose-free 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -372,6 +378,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## sparse-view Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -389,6 +396,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## large-scale Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -406,6 +414,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## outdoor Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -423,6 +432,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## dynamic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[XM4D: 4D Reconstruction through Certifiable Geometric Optimization](https://arxiv.org/abs/2611.07902v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
@@ -437,11 +447,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Transformer-inspired architectures make machine-learned electron densities accurate and transferable enough to bypass self-consistency](https://arxiv.org/abs/2610.39687v1)** | 2026-10-29 | 36 pages, 4 figures, 2 tables; Extended Data (4 figures, 2 tables) and Supplementary Information included |
 | **[AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers](https://arxiv.org/abs/2610.39663v1)** | 2026-10-29 | 20 pages, 5 figures, 3 tables |
 | **[Distilling Large-Scale Machine Learning Interatomic Potentials to Predict Long-Timescale Electrolyte Transport Properties](https://arxiv.org/abs/2610.39513v1)** | 2026-10-29 |  |
-| **[Challenge or Pass? A Dynamic Policy for MLB's Automated Ball-Strike System](https://arxiv.org/abs/2610.39452v1)** | 2026-10-29 | 22 pages, 2 figures, 3 tables |
 
 ## Gaussian Splatting SLAM
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -459,6 +469,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## relightable Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -476,6 +487,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## semantic Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -493,6 +505,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## Gaussian Splatting editing
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -510,6 +523,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## active view selection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -527,6 +541,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## thermal 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
@@ -544,6 +559,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## infrared Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 | **[A Mode-Unified, Continuous, and Biomimetic Control Strategy of a Robotic Lower Limb Prosthesis](https://arxiv.org/abs/2610.19183v2)** | 2026-11-04 | This work has been submitted to a research journal for possible publication. Copyright may be transferred without notice, after which this version may no longer be accessible |
 | **[Ab Initio Accuracy Beyond the Cutoff: Distributed Message-Passing Equivariant Attention at Tens-of-Millions-of-Atom Scale](https://arxiv.org/abs/2611.06122v1)** | 2026-11-04 |  |
 | **[Agentic Behavior Engineering: A Design-by-Contract Methodology for Specifying, Verifying, and Governing Enterprise AI Agents](https://arxiv.org/abs/2611.05454v1)** | 2026-11-03 | 30 pages, 6 figures, 5 tables. Expanded version of the author's practitioner guide "Agentic behavior engineering" in the Microsoft Azure Architecture Center (CC BY 4.0): https://learn.microsoft.com/azure/architecture/ai-ml/guide/agentic-behavior-engineering |
