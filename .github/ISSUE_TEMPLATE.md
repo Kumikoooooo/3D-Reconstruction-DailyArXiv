@@ -1,10 +1,15 @@
-# Latest 15 Papers - November 16, 2026
+# Latest 15 Papers - November 17, 2026
 
 Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstruction-DailyArXiv) for a better reading experience and more papers.
 
 ## 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Mamba3R: Fixed-Capacity Selective State Memory for Long-Sequence 3D Reconstruction](https://arxiv.org/abs/2611.04221v2)** | 2026-11-13 | 12 pages, 4 figures, 8 tables. The supplementary material referenced in the text is not included in this version |
+| **[TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267v1)** | 2026-11-13 | 8 pages, 4 figures |
+| **[EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos](https://arxiv.org/abs/2611.18099v1)** | 2026-11-13 |  |
+| **[TelePhysica: Agentic Reconstruction of Physically Interactive Scenes](https://arxiv.org/abs/2611.18078v1)** | 2026-11-13 | Ongoing Work. Homepage: https://interactive4d.vercel.app/ |
+| **[Real-VAS: a Real-World Video Amodal Segmentation Dataset](https://arxiv.org/abs/2611.00430v2)** | 2026-11-12 | 34 pages, including supplementary material. Project page: https://finlay-hudson.github.io/real_vas Code: https://github.com/finlay-hudson/Real-VAS Dataset: https://huggingface.co/datasets/fhudson96/Real-VAS |
 | **[BrickFlow: Connectivity-Guided Brick Reconstruction](https://arxiv.org/abs/2611.17321v1)** | 2026-11-12 | NeurIPS 2026 |
 | **[GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](https://arxiv.org/abs/2611.16219v1)** | 2026-11-12 | 24 pages, 10 tables, 6 figures |
 | **[LILA: Data-Free Structured Pruning of LLMs via Latent Spectral Geometry](https://arxiv.org/abs/2609.11163v2)** | 2026-11-11 | 31 Pages |
@@ -15,11 +20,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[MatrixSplat: Matrix-Parallel and Feature-Scalable 3D Gaussian Splatting Rendering on GPUs](https://arxiv.org/abs/2611.15153v1)** | 2026-11-11 | Accepted to NeurIPS 2026 |
 | **[RIGOR: Rig-Informed Geometry for Omnidirectional Reconstruction](https://arxiv.org/abs/2609.13504v3)** | 2026-11-11 |  |
 | **[Multi-View 3D Reconstruction Using V-JEPA Features](https://arxiv.org/abs/2611.15143v1)** | 2026-11-11 | 29 pages, 11 figures. Source code is available at https://github.com/Anwarshamim01/multi-view-3d-reconstruction-using-v-jepa-features |
-| **[Unified Panoramic Geometry Estimation via Multi-View Foundation Models](https://arxiv.org/abs/2605.26368v3)** | 2026-11-10 |  |
-| **[Pygmalion Effect in Vision: Image-to-Clay Translation for Reflective Geometry Reconstruction](https://arxiv.org/abs/2511.21098v2)** | 2026-11-10 | Accepted at NeurIPS 2026 |
-| **[An exact compress-with-another threshold in a binary automaton family](https://arxiv.org/abs/2610.07044v2)** | 2026-11-10 | 9 pages, 1 figure. Revised proofs and exposition, corrected boundary transitions, updated references, and added a coauthor |
-| **[Lightweight Deep Learning Framework for Astrocyte-Centric 3D Reconstruction across Normal and Stress-associated Ultrastructural States](https://arxiv.org/abs/2611.13581v1)** | 2026-11-10 | Accepted for publication in npj Imaging. 19 pages, 4 figures, 6 tables, including Supplementary Material. Code is available at https://github.com/QuIN-Lab/AstroSeg-vEM |
-| **[Camera3R: Feed-Forward 3D Reconstruction from Heterogeneous Camera Models](https://arxiv.org/abs/2611.13453v1)** | 2026-11-10 | 40th Conference on Neural Information Processing Systems (NeurIPS 2026) |
 
 ## 三维重建
 | **Title** | **Date** | **Comment** |
@@ -115,6 +115,8 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## novel view synthesis
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DIRT: Depth-completed Image-based Rendering using Two-band Blending for Live Novel-view Synthesis](https://arxiv.org/abs/2611.18340v1)** | 2026-11-13 | 8 pages main paper + 2 pages of references + 9 pages supplementary material |
+| **[TetraCoder: Adaptive Tetrahedral Encoding for Neural Fields](https://arxiv.org/abs/2611.18267v1)** | 2026-11-13 | 8 pages, 4 figures |
 | **[GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](https://arxiv.org/abs/2611.16219v1)** | 2026-11-12 | 24 pages, 10 tables, 6 figures |
 | **[LILA: Data-Free Structured Pruning of LLMs via Latent Spectral Geometry](https://arxiv.org/abs/2609.11163v2)** | 2026-11-11 | 31 Pages |
 | **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v2)** | 2026-11-11 | Project page: https://abkeito.github.io/gush3r-page/ Accepted to WACV 2027 |
@@ -128,12 +130,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[RetinexGS: Retinex-Inspired Gaussian Splatting for Low-Light RAW Reconstruction](https://arxiv.org/abs/2611.13280v1)** | 2026-11-09 |  |
 | **[Ground-Wing: A Parametric 3D Wing-in-Ground-Effect Dataset for Benchmarking Neural Surrogate Models](https://arxiv.org/abs/2611.04571v2)** | 2026-11-09 |  |
 | **[GSPIM: A Temporal-Locality-Aware 4D Gaussian Splatting Accelerator with Polymorphic PIM and Multi-Frame Rendering Dataflow](https://arxiv.org/abs/2611.04804v3)** | 2026-11-09 | 15 pages, 23 figures, Accepted by HPCA 2027. Code repo: https://github.com/MAdrid1011/GSPIM |
-| **[3D Point Splatting for mmWave Radar Novel View Synthesis](https://arxiv.org/abs/2609.11894v2)** | 2026-11-07 | Accepted to the Conference on Neural Information Processing Systems (NeurIPS) 2026. Project page: https://3d-point-splatting.github.io/ |
-| **[RefRef: A Dataset and Benchmark for Reconstructing Refractive and Reflective Objects](https://arxiv.org/abs/2505.05848v4)** | 2026-11-07 | WACV 2027, Dataset: https://huggingface.co/datasets/yinyue27/RefRef, Code: https://github.com/YueYin27/refref, Project page: https://yueyin27.github.io/refref-page/ |
 
 ## 3D Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2611.17752v1)** | 2026-11-13 | 11 pages, 9 figures, 7 tables, including supplementary material |
 | **[DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing](https://arxiv.org/abs/2611.12038v2)** | 2026-11-12 |  |
 | **[GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](https://arxiv.org/abs/2611.16219v1)** | 2026-11-12 | 24 pages, 10 tables, 6 figures |
 | **[GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing](https://arxiv.org/abs/2610.37036v2)** | 2026-11-11 | 8 pages + references, 5 figures, 3 tables |
@@ -148,11 +149,11 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Physics-Driven Extraction of Dynamic Fluid Asset from Monocular Video with Generative 3DGS](https://arxiv.org/abs/2503.00868v3)** | 2026-11-10 | Accepted to IEEE Transactions on Visualization and Computer Graphics. 21 pages (18 pages + 3 pages supplementary material), 28 figures |
 | **[DepthGS: Depth-Guided Gaussian Splatting with Adaptive Regularization for High-Quality Surface Reconstruction](https://arxiv.org/abs/2611.13628v1)** | 2026-11-10 | To appear in IEEE Trans. on Pattern Analysis and Machine Intelligence |
 | **[An exact compress-with-another threshold in a binary automaton family](https://arxiv.org/abs/2610.07044v2)** | 2026-11-10 | 9 pages, 1 figure. Revised proofs and exposition, corrected boundary transitions, updated references, and added a coauthor |
-| **[GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM](https://arxiv.org/abs/2611.13528v1)** | 2026-11-10 |  |
 
 ## 3DGS
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2611.17752v1)** | 2026-11-13 | 11 pages, 9 figures, 7 tables, including supplementary material |
 | **[DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing](https://arxiv.org/abs/2611.12038v2)** | 2026-11-12 |  |
 | **[GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](https://arxiv.org/abs/2611.16219v1)** | 2026-11-12 | 24 pages, 10 tables, 6 figures |
 | **[GraftRay: Physically Based Mesh Insertion into Gaussian Splatting Scenes via Path Tracing](https://arxiv.org/abs/2610.37036v2)** | 2026-11-11 | 8 pages + references, 5 figures, 3 tables |
@@ -167,11 +168,12 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[DepthGS: Depth-Guided Gaussian Splatting with Adaptive Regularization for High-Quality Surface Reconstruction](https://arxiv.org/abs/2611.13628v1)** | 2026-11-10 | To appear in IEEE Trans. on Pattern Analysis and Machine Intelligence |
 | **[An exact compress-with-another threshold in a binary automaton family](https://arxiv.org/abs/2610.07044v2)** | 2026-11-10 | 9 pages, 1 figure. Revised proofs and exposition, corrected boundary transitions, updated references, and added a coauthor |
 | **[GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM](https://arxiv.org/abs/2611.13528v1)** | 2026-11-10 |  |
-| **[RetinexGS: Retinex-Inspired Gaussian Splatting for Low-Light RAW Reconstruction](https://arxiv.org/abs/2611.13280v1)** | 2026-11-09 |  |
 
 ## Gaussian Splatting
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MacroGS: Macro-Pixel Shared Gaussian Primitives for Arbitrary-Scale Light Field Super-Resolutio](https://arxiv.org/abs/2611.17957v1)** | 2026-11-13 | 11 pages, 5 figures |
+| **[Stage-wise Lineage-aware Dropout for Sparse-View 3D Gaussian Splatting](https://arxiv.org/abs/2611.17752v1)** | 2026-11-13 | 11 pages, 9 figures, 7 tables, including supplementary material |
 | **[MedGS: Gaussian Splatting for Multi-Modal 3D Medical Imaging](https://arxiv.org/abs/2509.16806v5)** | 2026-11-12 |  |
 | **[Disambiguating 2D-3D Correspondences in Gaussian Splatting-based Feature Fields for Visual Localization](https://arxiv.org/abs/2605.07351v3)** | 2026-11-12 | Accepted to NeurIPS 2026. Project Page: https://misoleekr.github.io/SplitGS-Loc/ |
 | **[Kosmo-GFM: A Production-Ready Geometry Foundation Model](https://arxiv.org/abs/2611.16840v1)** | 2026-11-12 | Project page: https://kosmoresearch.github.io/Kosmo-GFM/ |
@@ -185,8 +187,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[LILA: Data-Free Structured Pruning of LLMs via Latent Spectral Geometry](https://arxiv.org/abs/2609.11163v2)** | 2026-11-11 | 31 Pages |
 | **[BLaFA: Bridging Language to 3D Functional Affordances for Dexterous Robotic Grasping in Tool Use](https://arxiv.org/abs/2604.08410v4)** | 2026-11-11 | Code will be publicly available at https://github.com/PopeyePxx/BLaFA |
 | **[ThermalSplat: Generalizable Pose-Free Gaussian Splatting for Sparse-View Thermal 3D Reconstruction](https://arxiv.org/abs/2611.15435v1)** | 2026-11-11 | WACV 2027 |
-| **[GUSH3R: Everyone Everywhere All at Once as Gaussians](https://arxiv.org/abs/2607.05243v2)** | 2026-11-11 | Project page: https://abkeito.github.io/gush3r-page/ Accepted to WACV 2027 |
-| **[A Multi-Parent Edge Assembly Crossover Driven Hybrid Genetic Algorithm for the Hamiltonian \textit{p}-Median Problem](https://arxiv.org/abs/2611.15219v1)** | 2026-11-11 |  |
 
 ## Gaussian rasterization
 | **Title** | **Date** | **Comment** |
@@ -306,6 +306,7 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 ## feed-forward 3D reconstruction
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[EcoVGGT: Pinned-Key Inference for Efficient and Streamable Feed-Forward 3D Reconstruction from Long Videos](https://arxiv.org/abs/2611.18099v1)** | 2026-11-13 |  |
 | **[GC-MoE on SM120: Overlapping Expert-Parallel Token Dispatch with Warp-Level FP8xFP4 Block-Scaled MMA on Consumer Blackwell](https://arxiv.org/abs/2611.16219v1)** | 2026-11-12 | 24 pages, 10 tables, 6 figures |
 | **[LILA: Data-Free Structured Pruning of LLMs via Latent Spectral Geometry](https://arxiv.org/abs/2609.11163v2)** | 2026-11-11 | 31 Pages |
 | **[SpaceMCP: Vision Language Model Spatial Reasoning via Model Context Protocol](https://arxiv.org/abs/2611.15680v1)** | 2026-11-11 | 13 pages, 3 figures. Accepted at the 2nd Workshop on Embodied Spatial Reasoning (ESR) at NeurIPS 2026 |
@@ -319,7 +320,6 @@ Please check the [GitHub repository](https://github.com/Kumikoooooo/3D-Reconstru
 | **[Active Learning for Gaussian Process Regression Under Self-Induced Boltzmann Weights](https://arxiv.org/abs/2605.10654v2)** | 2026-11-07 |  |
 | **[Singular Bayesian Neural Networks](https://arxiv.org/abs/2602.00387v5)** | 2026-11-07 | 8 pages Main text, 53 pages Appendix, 20 figures Proceedings of the 43 rd International Conference on Machine Learning (ICML 2026) |
 | **[OfficeTwin: Realizing 3D Reconstruction of Redundant Scenes through Partial Viewpoint Perception](https://arxiv.org/abs/2611.10241v1)** | 2026-11-06 |  |
-| **[A Straight Line Is Not a Camera Pose: Auditing Short-Clip Pose Benchmarks](https://arxiv.org/abs/2611.00482v2)** | 2026-11-06 | 39 pages, 9 figures |
 | **[Branch-Extended Automatic Differentiation](https://arxiv.org/abs/2611.08637v1)** | 2026-11-05 |  |
 
 ## feed-forward Gaussian Splatting
